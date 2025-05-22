@@ -1,8 +1,8 @@
 ---
-title: Latest 15 Papers - May 21, 2025
+title: Latest 15 Papers - May 22, 2025
 labels: documentation
 ---
-**Please check the [Github](https://github.com/pstAmbition/DailyArXiv) page for a better reading experience and more papers.**
+**Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
 
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
@@ -26,6 +26,7 @@ labels: documentation
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MIRe: Enhancing Multimodal Queries Representation via Fusion-Free Modality Interaction for Multimodal Retrieval](http://arxiv.org/abs/2411.08334v3)** | 2025-05-21 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 (Findings)</p></details> |
 | **[RAVENEA: A Benchmark for Multimodal Retrieval-Augmented Visual Culture Understanding](http://arxiv.org/abs/2505.14462v1)** | 2025-05-20 |  |
 | **[Beyond Text: Unveiling Privacy Vulnerabilities in Multi-modal Retrieval-Augmented Generation](http://arxiv.org/abs/2505.13957v1)** | 2025-05-20 |  |
 | **[Multimodal RAG-driven Anomaly Detection and Classification in Laser Powder Bed Fusion using Large Language Models](http://arxiv.org/abs/2505.13828v1)** | 2025-05-20 | <details><summary>ASME ...</summary><p>ASME 2025 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference IDETC/CIE2025, August 17-20, 2025, Anaheim, CA (IDETC2025-168615)</p></details> |
@@ -40,5 +41,4 @@ labels: documentation
 | **[Leveraging LLMs for Multimodal Retrieval-Augmented Radiology Report Generation via Key Phrase Extraction](http://arxiv.org/abs/2504.07415v1)** | 2025-04-10 |  |
 | **[One Pic is All it Takes: Poisoning Visual Document Retrieval Augmented Generation with a Single Image](http://arxiv.org/abs/2504.02132v1)** | 2025-04-02 | 8 pages, 6 figures |
 | **[IDMR: Towards Instance-Driven Precise Visual Correspondence in Multimodal Retrieval](http://arxiv.org/abs/2504.00954v1)** | 2025-04-01 |  |
-| **[GME: Improving Universal Multimodal Retrieval by Multimodal LLMs](http://arxiv.org/abs/2412.16855v2)** | 2025-04-01 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025, models at https://huggingface.co/Alibaba-NLP/gme-Qwen2-VL-2B-Instruct</p></details> |
 
