@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 22, 2025
+title: Latest 15 Papers - May 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MLLM as Retriever: Interactively Learning Multimodal Retrieval for Embodied Agents](http://arxiv.org/abs/2410.03450v2)** | 2025-05-22 | ICLR 2025 |
+| **[Highlighting What Matters: Promptable Embeddings for Attribute-Focused Image Retrieval](http://arxiv.org/abs/2505.15877v1)** | 2025-05-21 | 25 pages, 5 figures |
 | **[MIRe: Enhancing Multimodal Queries Representation via Fusion-Free Modality Interaction for Multimodal Retrieval](http://arxiv.org/abs/2411.08334v3)** | 2025-05-21 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 (Findings)</p></details> |
 | **[RAVENEA: A Benchmark for Multimodal Retrieval-Augmented Visual Culture Understanding](http://arxiv.org/abs/2505.14462v1)** | 2025-05-20 |  |
 | **[Beyond Text: Unveiling Privacy Vulnerabilities in Multi-modal Retrieval-Augmented Generation](http://arxiv.org/abs/2505.13957v1)** | 2025-05-20 |  |
@@ -39,6 +41,4 @@ labels: documentation
 | **[MRAMG-Bench: A Comprehensive Benchmark for Advancing Multimodal Retrieval-Augmented Multimodal Generation](http://arxiv.org/abs/2502.04176v2)** | 2025-04-21 | <details><summary>Publi...</summary><p>Published as a conference paper at SIGIR 2025; 11 pages</p></details> |
 | **[HM-RAG: Hierarchical Multi-Agent Multimodal Retrieval Augmented Generation](http://arxiv.org/abs/2504.12330v1)** | 2025-04-13 |  |
 | **[Leveraging LLMs for Multimodal Retrieval-Augmented Radiology Report Generation via Key Phrase Extraction](http://arxiv.org/abs/2504.07415v1)** | 2025-04-10 |  |
-| **[One Pic is All it Takes: Poisoning Visual Document Retrieval Augmented Generation with a Single Image](http://arxiv.org/abs/2504.02132v1)** | 2025-04-02 | 8 pages, 6 figures |
-| **[IDMR: Towards Instance-Driven Precise Visual Correspondence in Multimodal Retrieval](http://arxiv.org/abs/2504.00954v1)** | 2025-04-01 |  |
 
