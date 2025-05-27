@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 26, 2025
+title: Latest 15 Papers - May 27, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,9 @@ labels: documentation
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Modality Curation: Building Universal Embeddings for Advanced Multimodal Information Retrieval](http://arxiv.org/abs/2505.19650v1)** | 2025-05-26 | <details><summary>26 pa...</summary><p>26 pages, project page: https://friedrichor.github.io/projects/UNITE</p></details> |
+| **[Benchmarking Multimodal Retrieval Augmented Generation with Dynamic VQA Dataset and Self-adaptive Planning Agent](http://arxiv.org/abs/2411.02937v5)** | 2025-05-26 |  |
+| **[REGen: Multimodal Retrieval-Embedded Generation for Long-to-Short Video Editing](http://arxiv.org/abs/2505.18880v1)** | 2025-05-24 |  |
 | **[MLLM as Retriever: Interactively Learning Multimodal Retrieval for Embodied Agents](http://arxiv.org/abs/2410.03450v2)** | 2025-05-22 | ICLR 2025 |
 | **[Highlighting What Matters: Promptable Embeddings for Attribute-Focused Image Retrieval](http://arxiv.org/abs/2505.15877v1)** | 2025-05-21 | 25 pages, 5 figures |
 | **[MIRe: Enhancing Multimodal Queries Representation via Fusion-Free Modality Interaction for Multimodal Retrieval](http://arxiv.org/abs/2411.08334v3)** | 2025-05-21 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 (Findings)</p></details> |
@@ -38,7 +41,4 @@ labels: documentation
 | **[A Multi-Granularity Retrieval Framework for Visually-Rich Documents](http://arxiv.org/abs/2505.01457v2)** | 2025-05-06 |  |
 | **[Tevatron 2.0: Unified Document Retrieval Toolkit across Scale, Language, and Modality](http://arxiv.org/abs/2505.02466v1)** | 2025-05-05 | <details><summary>Accep...</summary><p>Accepted in SIGIR 2025 (Demo)</p></details> |
 | **[T2VShield: Model-Agnostic Jailbreak Defense for Text-to-Video Models](http://arxiv.org/abs/2504.15512v2)** | 2025-04-26 | 33 pages, 9 figures |
-| **[MRAMG-Bench: A Comprehensive Benchmark for Advancing Multimodal Retrieval-Augmented Multimodal Generation](http://arxiv.org/abs/2502.04176v2)** | 2025-04-21 | <details><summary>Publi...</summary><p>Published as a conference paper at SIGIR 2025; 11 pages</p></details> |
-| **[HM-RAG: Hierarchical Multi-Agent Multimodal Retrieval Augmented Generation](http://arxiv.org/abs/2504.12330v1)** | 2025-04-13 |  |
-| **[Leveraging LLMs for Multimodal Retrieval-Augmented Radiology Report Generation via Key Phrase Extraction](http://arxiv.org/abs/2504.07415v1)** | 2025-04-10 |  |
 
