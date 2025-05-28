@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 27, 2025
+title: Latest 15 Papers - May 28, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,7 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Contrastive Alignment with Semantic Gap-Aware Corrections in Text-Video Retrieval](http://arxiv.org/abs/2505.12499v2)** | 2025-05-20 |  |
+| **[Rebalancing Contrastive Alignment with Learnable Semantic Gaps in Text-Video Retrieval](http://arxiv.org/abs/2505.12499v3)** | 2025-05-27 |  |
 | **[LoVR: A Benchmark for Long Video Retrieval in Multimodal Contexts](http://arxiv.org/abs/2505.13928v1)** | 2025-05-20 |  |
 | **[MomentSeeker: A Task-Oriented Benchmark For Long-Video Moment Retrieval](http://arxiv.org/abs/2502.12558v4)** | 2025-05-20 |  |
 | **[A Challenge to Build Neuro-Symbolic Video Agents](http://arxiv.org/abs/2505.13851v1)** | 2025-05-20 |  |
@@ -26,7 +26,7 @@ labels: documentation
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Modality Curation: Building Universal Embeddings for Advanced Multimodal Information Retrieval](http://arxiv.org/abs/2505.19650v1)** | 2025-05-26 | <details><summary>26 pa...</summary><p>26 pages, project page: https://friedrichor.github.io/projects/UNITE</p></details> |
+| **[Modality Curation: Building Universal Embeddings for Advanced Multimodal Information Retrieval](http://arxiv.org/abs/2505.19650v2)** | 2025-05-27 | <details><summary>26 pa...</summary><p>26 pages, project page: https://friedrichor.github.io/projects/UNITE</p></details> |
 | **[Benchmarking Multimodal Retrieval Augmented Generation with Dynamic VQA Dataset and Self-adaptive Planning Agent](http://arxiv.org/abs/2411.02937v5)** | 2025-05-26 |  |
 | **[REGen: Multimodal Retrieval-Embedded Generation for Long-to-Short Video Editing](http://arxiv.org/abs/2505.18880v1)** | 2025-05-24 |  |
 | **[MLLM as Retriever: Interactively Learning Multimodal Retrieval for Embodied Agents](http://arxiv.org/abs/2410.03450v2)** | 2025-05-22 | ICLR 2025 |
