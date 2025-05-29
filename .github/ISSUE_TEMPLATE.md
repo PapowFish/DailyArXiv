@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 28, 2025
+title: Latest 15 Papers - May 29, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning World Models for Interactive Video Generation](http://arxiv.org/abs/2505.21996v1)** | 2025-05-28 |  |
 | **[Rebalancing Contrastive Alignment with Learnable Semantic Gaps in Text-Video Retrieval](http://arxiv.org/abs/2505.12499v3)** | 2025-05-27 |  |
 | **[LoVR: A Benchmark for Long Video Retrieval in Multimodal Contexts](http://arxiv.org/abs/2505.13928v1)** | 2025-05-20 |  |
 | **[MomentSeeker: A Task-Oriented Benchmark For Long-Video Moment Retrieval](http://arxiv.org/abs/2502.12558v4)** | 2025-05-20 |  |
@@ -21,11 +22,12 @@ labels: documentation
 | **[A Lightweight Moment Retrieval System with Global Re-Ranking and Robust Adaptive Bidirectional Temporal Search](http://arxiv.org/abs/2504.09298v1)** | 2025-04-12 |  |
 | **[ExpertAF: Expert Actionable Feedback from Video](http://arxiv.org/abs/2408.00672v3)** | 2025-04-11 | CVPR 2025 |
 | **[Towards Efficient and Robust Moment Retrieval System: A Unified Framework for Multi-Granularity Models and Temporal Reranking](http://arxiv.org/abs/2504.08384v1)** | 2025-04-11 |  |
-| **[Continual Text-to-Video Retrieval with Frame Fusion and Task-Aware Routing](http://arxiv.org/abs/2503.10111v2)** | 2025-04-10 | <details><summary>Accep...</summary><p>Accepted at SIGIR 2025</p></details> |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DocReRank: Single-Page Hard Negative Query Generation for Training Multi-Modal RAG Rerankers](http://arxiv.org/abs/2505.22584v1)** | 2025-05-28 |  |
+| **[Learning to Route Queries Across Knowledge Bases for Step-wise Retrieval-Augmented Reasoning](http://arxiv.org/abs/2505.22095v1)** | 2025-05-28 |  |
 | **[Modality Curation: Building Universal Embeddings for Advanced Multimodal Information Retrieval](http://arxiv.org/abs/2505.19650v2)** | 2025-05-27 | <details><summary>26 pa...</summary><p>26 pages, project page: https://friedrichor.github.io/projects/UNITE</p></details> |
 | **[Benchmarking Multimodal Retrieval Augmented Generation with Dynamic VQA Dataset and Self-adaptive Planning Agent](http://arxiv.org/abs/2411.02937v5)** | 2025-05-26 |  |
 | **[REGen: Multimodal Retrieval-Embedded Generation for Long-to-Short Video Editing](http://arxiv.org/abs/2505.18880v1)** | 2025-05-24 |  |
@@ -39,6 +41,4 @@ labels: documentation
 | **[LLM2CLIP: Powerful Language Model Unlocks Richer Visual Representation](http://arxiv.org/abs/2411.04997v4)** | 2025-05-07 |  |
 | **[Fill the Gap: Quantifying and Reducing the Modality Gap in Image-Text Representation Learning](http://arxiv.org/abs/2505.03703v1)** | 2025-05-06 |  |
 | **[A Multi-Granularity Retrieval Framework for Visually-Rich Documents](http://arxiv.org/abs/2505.01457v2)** | 2025-05-06 |  |
-| **[Tevatron 2.0: Unified Document Retrieval Toolkit across Scale, Language, and Modality](http://arxiv.org/abs/2505.02466v1)** | 2025-05-05 | <details><summary>Accep...</summary><p>Accepted in SIGIR 2025 (Demo)</p></details> |
-| **[T2VShield: Model-Agnostic Jailbreak Defense for Text-to-Video Models](http://arxiv.org/abs/2504.15512v2)** | 2025-04-26 | 33 pages, 9 figures |
 
