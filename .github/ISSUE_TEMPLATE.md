@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 01, 2025
+title: Latest 15 Papers - June 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VideoRoPE: What Makes for Good Video Rotary Position Embedding?](http://arxiv.org/abs/2502.05173v3)** | 2025-05-30 |  |
+| **[Leveraging Auxiliary Information in Text-to-Video Retrieval: A Review](http://arxiv.org/abs/2505.23952v1)** | 2025-05-29 |  |
 | **[Learning World Models for Interactive Video Generation](http://arxiv.org/abs/2505.21996v1)** | 2025-05-28 |  |
 | **[Rebalancing Contrastive Alignment with Learnable Semantic Gaps in Text-Video Retrieval](http://arxiv.org/abs/2505.12499v3)** | 2025-05-27 |  |
 | **[LoVR: A Benchmark for Long Video Retrieval in Multimodal Contexts](http://arxiv.org/abs/2505.13928v1)** | 2025-05-20 |  |
@@ -15,17 +17,16 @@ labels: documentation
 | **[Empowering Agentic Video Analytics Systems with Video Language Models](http://arxiv.org/abs/2505.00254v3)** | 2025-05-16 | <details><summary>15 pa...</summary><p>15 pages, AVAS, add latency breakdown</p></details> |
 | **[CMAWRNet: Multiple Adverse Weather Removal via a Unified Quaternion Neural Architecture](http://arxiv.org/abs/2505.01882v1)** | 2025-05-03 |  |
 | **[Exploiting Inter-Sample Correlation and Intra-Sample Redundancy for Partially Relevant Video Retrieval](http://arxiv.org/abs/2504.19637v1)** | 2025-04-28 |  |
-| **[VideoRoPE: What Makes for Good Video Rotary Position Embedding?](http://arxiv.org/abs/2502.05173v2)** | 2025-04-27 |  |
 | **[ReSpec: Relevance and Specificity Grounded Online Filtering for Learning on Video-Text Data Streams](http://arxiv.org/abs/2504.14875v1)** | 2025-04-21 | <details><summary>CVPR ...</summary><p>CVPR 2025 (main conference)</p></details> |
 | **[Prototypes are Balanced Units for Efficient and Effective Partially Relevant Video Retrieval](http://arxiv.org/abs/2504.13035v1)** | 2025-04-17 |  |
 | **[Towards Efficient Partially Relevant Video Retrieval with Active Moment Discovering](http://arxiv.org/abs/2504.10920v1)** | 2025-04-15 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Multimedia (TMM) on January 19, 2025. The code is available at https://github.com/songpipi/AMDNet</p></details> |
 | **[A Lightweight Moment Retrieval System with Global Re-Ranking and Robust Adaptive Bidirectional Temporal Search](http://arxiv.org/abs/2504.09298v1)** | 2025-04-12 |  |
 | **[ExpertAF: Expert Actionable Feedback from Video](http://arxiv.org/abs/2408.00672v3)** | 2025-04-11 | CVPR 2025 |
-| **[Towards Efficient and Robust Moment Retrieval System: A Unified Framework for Multi-Granularity Models and Temporal Reranking](http://arxiv.org/abs/2504.08384v1)** | 2025-04-11 |  |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multi-RAG: A Multimodal Retrieval-Augmented Generation System for Adaptive Video Understanding](http://arxiv.org/abs/2505.23990v1)** | 2025-05-29 |  |
 | **[DocReRank: Single-Page Hard Negative Query Generation for Training Multi-Modal RAG Rerankers](http://arxiv.org/abs/2505.22584v1)** | 2025-05-28 |  |
 | **[Learning to Route Queries Across Knowledge Bases for Step-wise Retrieval-Augmented Reasoning](http://arxiv.org/abs/2505.22095v1)** | 2025-05-28 |  |
 | **[Modality Curation: Building Universal Embeddings for Advanced Multimodal Information Retrieval](http://arxiv.org/abs/2505.19650v2)** | 2025-05-27 | <details><summary>26 pa...</summary><p>26 pages, project page: https://friedrichor.github.io/projects/UNITE</p></details> |
@@ -40,5 +41,4 @@ labels: documentation
 | **[OMGM: Orchestrate Multiple Granularities and Modalities for Efficient Multimodal Retrieval](http://arxiv.org/abs/2505.07879v1)** | 2025-05-10 | <details><summary>19 pa...</summary><p>19 pages, 6 figures, 17 tables</p></details> |
 | **[LLM2CLIP: Powerful Language Model Unlocks Richer Visual Representation](http://arxiv.org/abs/2411.04997v4)** | 2025-05-07 |  |
 | **[Fill the Gap: Quantifying and Reducing the Modality Gap in Image-Text Representation Learning](http://arxiv.org/abs/2505.03703v1)** | 2025-05-06 |  |
-| **[A Multi-Granularity Retrieval Framework for Visually-Rich Documents](http://arxiv.org/abs/2505.01457v2)** | 2025-05-06 |  |
 
