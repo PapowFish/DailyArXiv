@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 02, 2025
+title: Latest 15 Papers - June 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,10 +7,10 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Contrastive Alignment with Semantic Gap-Aware Corrections in Text-Video Retrieval](http://arxiv.org/abs/2505.12499v4)** | 2025-06-02 |  |
 | **[VideoRoPE: What Makes for Good Video Rotary Position Embedding?](http://arxiv.org/abs/2502.05173v3)** | 2025-05-30 |  |
 | **[Leveraging Auxiliary Information in Text-to-Video Retrieval: A Review](http://arxiv.org/abs/2505.23952v1)** | 2025-05-29 |  |
 | **[Learning World Models for Interactive Video Generation](http://arxiv.org/abs/2505.21996v1)** | 2025-05-28 |  |
-| **[Rebalancing Contrastive Alignment with Learnable Semantic Gaps in Text-Video Retrieval](http://arxiv.org/abs/2505.12499v3)** | 2025-05-27 |  |
 | **[LoVR: A Benchmark for Long Video Retrieval in Multimodal Contexts](http://arxiv.org/abs/2505.13928v1)** | 2025-05-20 |  |
 | **[MomentSeeker: A Task-Oriented Benchmark For Long-Video Moment Retrieval](http://arxiv.org/abs/2502.12558v4)** | 2025-05-20 |  |
 | **[A Challenge to Build Neuro-Symbolic Video Agents](http://arxiv.org/abs/2505.13851v1)** | 2025-05-20 |  |
