@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 04, 2025
+title: Latest 15 Papers - June 05, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BiMa: Towards Biases Mitigation for Text-Video Retrieval via Scene Element Guidance](http://arxiv.org/abs/2506.03589v1)** | 2025-06-04 | 22 pages, 14 figures |
+| **[MamFusion: Multi-Mamba with Temporal Fusion for Partially Relevant Video Retrieval](http://arxiv.org/abs/2506.03473v1)** | 2025-06-04 |  |
+| **[Uneven Event Modeling for Partially Relevant Video Retrieval](http://arxiv.org/abs/2506.00891v2)** | 2025-06-03 | <details><summary>Accep...</summary><p>Accepted by ICME 2025</p></details> |
+| **[Respond Beyond Language: A Benchmark for Video Generation in Response to Realistic User Intents](http://arxiv.org/abs/2506.01689v1)** | 2025-06-02 |  |
 | **[Contrastive Alignment with Semantic Gap-Aware Corrections in Text-Video Retrieval](http://arxiv.org/abs/2505.12499v4)** | 2025-06-02 |  |
 | **[VideoRoPE: What Makes for Good Video Rotary Position Embedding?](http://arxiv.org/abs/2502.05173v3)** | 2025-05-30 |  |
 | **[Leveraging Auxiliary Information in Text-to-Video Retrieval: A Review](http://arxiv.org/abs/2505.23952v1)** | 2025-05-29 |  |
@@ -18,14 +22,13 @@ labels: documentation
 | **[CMAWRNet: Multiple Adverse Weather Removal via a Unified Quaternion Neural Architecture](http://arxiv.org/abs/2505.01882v1)** | 2025-05-03 |  |
 | **[Exploiting Inter-Sample Correlation and Intra-Sample Redundancy for Partially Relevant Video Retrieval](http://arxiv.org/abs/2504.19637v1)** | 2025-04-28 |  |
 | **[ReSpec: Relevance and Specificity Grounded Online Filtering for Learning on Video-Text Data Streams](http://arxiv.org/abs/2504.14875v1)** | 2025-04-21 | <details><summary>CVPR ...</summary><p>CVPR 2025 (main conference)</p></details> |
-| **[Prototypes are Balanced Units for Efficient and Effective Partially Relevant Video Retrieval](http://arxiv.org/abs/2504.13035v1)** | 2025-04-17 |  |
-| **[Towards Efficient Partially Relevant Video Retrieval with Active Moment Discovering](http://arxiv.org/abs/2504.10920v1)** | 2025-04-15 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Multimedia (TMM) on January 19, 2025. The code is available at https://github.com/songpipi/AMDNet</p></details> |
-| **[A Lightweight Moment Retrieval System with Global Re-Ranking and Robust Adaptive Bidirectional Temporal Search](http://arxiv.org/abs/2504.09298v1)** | 2025-04-12 |  |
-| **[ExpertAF: Expert Actionable Feedback from Video](http://arxiv.org/abs/2408.00672v3)** | 2025-04-11 | CVPR 2025 |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CoRe-MMRAG: Cross-Source Knowledge Reconciliation for Multimodal RAG](http://arxiv.org/abs/2506.02544v2)** | 2025-06-04 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 Main</p></details> |
+| **[Robustness in Both Domains: CLIP Needs a Robust Text Encoder](http://arxiv.org/abs/2506.03355v1)** | 2025-06-03 |  |
+| **[Ask in Any Modality: A Comprehensive Survey on Multimodal Retrieval-Augmented Generation](http://arxiv.org/abs/2502.08826v3)** | 2025-06-02 | <details><summary>GitHu...</summary><p>GitHub repository: https://github.com/llm-lab-org/Multimodal-RAG-Survey</p></details> |
 | **[Multi-RAG: A Multimodal Retrieval-Augmented Generation System for Adaptive Video Understanding](http://arxiv.org/abs/2505.23990v1)** | 2025-05-29 |  |
 | **[DocReRank: Single-Page Hard Negative Query Generation for Training Multi-Modal RAG Rerankers](http://arxiv.org/abs/2505.22584v1)** | 2025-05-28 |  |
 | **[Learning to Route Queries Across Knowledge Bases for Step-wise Retrieval-Augmented Reasoning](http://arxiv.org/abs/2505.22095v1)** | 2025-05-28 |  |
@@ -38,7 +41,4 @@ labels: documentation
 | **[RAVENEA: A Benchmark for Multimodal Retrieval-Augmented Visual Culture Understanding](http://arxiv.org/abs/2505.14462v1)** | 2025-05-20 |  |
 | **[Beyond Text: Unveiling Privacy Vulnerabilities in Multi-modal Retrieval-Augmented Generation](http://arxiv.org/abs/2505.13957v1)** | 2025-05-20 |  |
 | **[Multimodal RAG-driven Anomaly Detection and Classification in Laser Powder Bed Fusion using Large Language Models](http://arxiv.org/abs/2505.13828v1)** | 2025-05-20 | <details><summary>ASME ...</summary><p>ASME 2025 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference IDETC/CIE2025, August 17-20, 2025, Anaheim, CA (IDETC2025-168615)</p></details> |
-| **[OMGM: Orchestrate Multiple Granularities and Modalities for Efficient Multimodal Retrieval](http://arxiv.org/abs/2505.07879v1)** | 2025-05-10 | <details><summary>19 pa...</summary><p>19 pages, 6 figures, 17 tables</p></details> |
-| **[LLM2CLIP: Powerful Language Model Unlocks Richer Visual Representation](http://arxiv.org/abs/2411.04997v4)** | 2025-05-07 |  |
-| **[Fill the Gap: Quantifying and Reducing the Modality Gap in Image-Text Representation Learning](http://arxiv.org/abs/2505.03703v1)** | 2025-05-06 |  |
 
