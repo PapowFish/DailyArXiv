@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 08, 2025
+title: Latest 15 Papers - June 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CLaMR: Contextualized Late-Interaction for Multimodal Content Retrieval](http://arxiv.org/abs/2506.06144v1)** | 2025-06-06 | <details><summary>18 pa...</summary><p>18 pages. Code and data: https://github.com/meetdavidwan/clamr</p></details> |
+| **[SafeAuto: Knowledge-Enhanced Safe Autonomous Driving with Multimodal Foundation Models](http://arxiv.org/abs/2503.00211v2)** | 2025-06-06 |  |
 | **[CoRe-MMRAG: Cross-Source Knowledge Reconciliation for Multimodal RAG](http://arxiv.org/abs/2506.02544v2)** | 2025-06-04 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 Main</p></details> |
 | **[Robustness in Both Domains: CLIP Needs a Robust Text Encoder](http://arxiv.org/abs/2506.03355v1)** | 2025-06-03 |  |
 | **[Ask in Any Modality: A Comprehensive Survey on Multimodal Retrieval-Augmented Generation](http://arxiv.org/abs/2502.08826v3)** | 2025-06-02 | <details><summary>GitHu...</summary><p>GitHub repository: https://github.com/llm-lab-org/Multimodal-RAG-Survey</p></details> |
@@ -39,6 +41,4 @@ labels: documentation
 | **[Highlighting What Matters: Promptable Embeddings for Attribute-Focused Image Retrieval](http://arxiv.org/abs/2505.15877v1)** | 2025-05-21 | 25 pages, 5 figures |
 | **[MIRe: Enhancing Multimodal Queries Representation via Fusion-Free Modality Interaction for Multimodal Retrieval](http://arxiv.org/abs/2411.08334v3)** | 2025-05-21 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 (Findings)</p></details> |
 | **[RAVENEA: A Benchmark for Multimodal Retrieval-Augmented Visual Culture Understanding](http://arxiv.org/abs/2505.14462v1)** | 2025-05-20 |  |
-| **[Beyond Text: Unveiling Privacy Vulnerabilities in Multi-modal Retrieval-Augmented Generation](http://arxiv.org/abs/2505.13957v1)** | 2025-05-20 |  |
-| **[Multimodal RAG-driven Anomaly Detection and Classification in Laser Powder Bed Fusion using Large Language Models](http://arxiv.org/abs/2505.13828v1)** | 2025-05-20 | <details><summary>ASME ...</summary><p>ASME 2025 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference IDETC/CIE2025, August 17-20, 2025, Anaheim, CA (IDETC2025-168615)</p></details> |
 
