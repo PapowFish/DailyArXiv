@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 09, 2025
+title: Latest 15 Papers - June 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -8,7 +8,7 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[From Play to Replay: Composed Video Retrieval for Temporally Fine-Grained Videos](http://arxiv.org/abs/2506.05274v1)** | 2025-06-05 |  |
-| **[BiMa: Towards Biases Mitigation for Text-Video Retrieval via Scene Element Guidance](http://arxiv.org/abs/2506.03589v1)** | 2025-06-04 | 22 pages, 14 figures |
+| **[BiMa: Towards Biases Mitigation for Text-Video Retrieval via Scene Element Guidance](http://arxiv.org/abs/2506.03589v2)** | 2025-06-09 | 22 pages, 14 figures |
 | **[MamFusion: Multi-Mamba with Temporal Fusion for Partially Relevant Video Retrieval](http://arxiv.org/abs/2506.03473v1)** | 2025-06-04 |  |
 | **[Uneven Event Modeling for Partially Relevant Video Retrieval](http://arxiv.org/abs/2506.00891v2)** | 2025-06-03 | <details><summary>Accep...</summary><p>Accepted by ICME 2025</p></details> |
 | **[Respond Beyond Language: A Benchmark for Video Generation in Response to Realistic User Intents](http://arxiv.org/abs/2506.01689v1)** | 2025-06-02 |  |
