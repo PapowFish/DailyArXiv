@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 10, 2025
+title: Latest 15 Papers - June 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,8 +7,10 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Play to Replay: Composed Video Retrieval for Temporally Fine-Grained Videos](http://arxiv.org/abs/2506.05274v1)** | 2025-06-05 |  |
+| **[Ambiguity-Restrained Text-Video Representation Learning for Partially Relevant Video Retrieval](http://arxiv.org/abs/2506.07471v1)** | 2025-06-09 | <details><summary>Accep...</summary><p>Accepted to AAAI 2025</p></details> |
 | **[BiMa: Towards Biases Mitigation for Text-Video Retrieval via Scene Element Guidance](http://arxiv.org/abs/2506.03589v2)** | 2025-06-09 | 22 pages, 14 figures |
+| **[MAGNET: A Multi-agent Framework for Finding Audio-Visual Needles by Reasoning over Multi-Video Haystacks](http://arxiv.org/abs/2506.07016v1)** | 2025-06-08 | <details><summary>Audio...</summary><p>Audio-visual learning, Audio-Visual RAG, Multi-Video Linkage</p></details> |
+| **[From Play to Replay: Composed Video Retrieval for Temporally Fine-Grained Videos](http://arxiv.org/abs/2506.05274v1)** | 2025-06-05 |  |
 | **[MamFusion: Multi-Mamba with Temporal Fusion for Partially Relevant Video Retrieval](http://arxiv.org/abs/2506.03473v1)** | 2025-06-04 |  |
 | **[Uneven Event Modeling for Partially Relevant Video Retrieval](http://arxiv.org/abs/2506.00891v2)** | 2025-06-03 | <details><summary>Accep...</summary><p>Accepted by ICME 2025</p></details> |
 | **[Respond Beyond Language: A Benchmark for Video Generation in Response to Realistic User Intents](http://arxiv.org/abs/2506.01689v1)** | 2025-06-02 |  |
@@ -20,12 +22,12 @@ labels: documentation
 | **[MomentSeeker: A Task-Oriented Benchmark For Long-Video Moment Retrieval](http://arxiv.org/abs/2502.12558v4)** | 2025-05-20 |  |
 | **[A Challenge to Build Neuro-Symbolic Video Agents](http://arxiv.org/abs/2505.13851v1)** | 2025-05-20 |  |
 | **[Empowering Agentic Video Analytics Systems with Video Language Models](http://arxiv.org/abs/2505.00254v3)** | 2025-05-16 | <details><summary>15 pa...</summary><p>15 pages, AVAS, add latency breakdown</p></details> |
-| **[CMAWRNet: Multiple Adverse Weather Removal via a Unified Quaternion Neural Architecture](http://arxiv.org/abs/2505.01882v1)** | 2025-05-03 |  |
-| **[Exploiting Inter-Sample Correlation and Intra-Sample Redundancy for Partially Relevant Video Retrieval](http://arxiv.org/abs/2504.19637v1)** | 2025-04-28 |  |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Re-ranking Reasoning Context with Tree Search Makes Large Vision-Language Models Stronger](http://arxiv.org/abs/2506.07785v1)** | 2025-06-09 | <details><summary>ICML ...</summary><p>ICML 2025 Spotlight. 22 pages, 16 figures</p></details> |
+| **[MrM: Black-Box Membership Inference Attacks against Multimodal RAG Systems](http://arxiv.org/abs/2506.07399v1)** | 2025-06-09 |  |
 | **[CLaMR: Contextualized Late-Interaction for Multimodal Content Retrieval](http://arxiv.org/abs/2506.06144v1)** | 2025-06-06 | <details><summary>18 pa...</summary><p>18 pages. Code and data: https://github.com/meetdavidwan/clamr</p></details> |
 | **[SafeAuto: Knowledge-Enhanced Safe Autonomous Driving with Multimodal Foundation Models](http://arxiv.org/abs/2503.00211v2)** | 2025-06-06 |  |
 | **[CoRe-MMRAG: Cross-Source Knowledge Reconciliation for Multimodal RAG](http://arxiv.org/abs/2506.02544v2)** | 2025-06-04 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 Main</p></details> |
@@ -39,6 +41,4 @@ labels: documentation
 | **[REGen: Multimodal Retrieval-Embedded Generation for Long-to-Short Video Editing](http://arxiv.org/abs/2505.18880v1)** | 2025-05-24 |  |
 | **[MLLM as Retriever: Interactively Learning Multimodal Retrieval for Embodied Agents](http://arxiv.org/abs/2410.03450v2)** | 2025-05-22 | ICLR 2025 |
 | **[Highlighting What Matters: Promptable Embeddings for Attribute-Focused Image Retrieval](http://arxiv.org/abs/2505.15877v1)** | 2025-05-21 | 25 pages, 5 figures |
-| **[MIRe: Enhancing Multimodal Queries Representation via Fusion-Free Modality Interaction for Multimodal Retrieval](http://arxiv.org/abs/2411.08334v3)** | 2025-05-21 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 (Findings)</p></details> |
-| **[RAVENEA: A Benchmark for Multimodal Retrieval-Augmented Visual Culture Understanding](http://arxiv.org/abs/2505.14462v1)** | 2025-05-20 |  |
 
