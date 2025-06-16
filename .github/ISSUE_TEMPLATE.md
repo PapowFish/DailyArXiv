@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 15, 2025
+title: Latest 15 Papers - June 16, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -39,6 +39,6 @@ labels: documentation
 | **[CoRe-MMRAG: Cross-Source Knowledge Reconciliation for Multimodal RAG](http://arxiv.org/abs/2506.02544v2)** | 2025-06-04 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 Main</p></details> |
 | **[Robustness in Both Domains: CLIP Needs a Robust Text Encoder](http://arxiv.org/abs/2506.03355v1)** | 2025-06-03 |  |
 | **[Ask in Any Modality: A Comprehensive Survey on Multimodal Retrieval-Augmented Generation](http://arxiv.org/abs/2502.08826v3)** | 2025-06-02 | <details><summary>GitHu...</summary><p>GitHub repository: https://github.com/llm-lab-org/Multimodal-RAG-Survey</p></details> |
+| **[Who is in the Spotlight: The Hidden Bias Undermining Multimodal Retrieval-Augmented Generation](http://arxiv.org/abs/2506.11063v1)** | 2025-05-30 |  |
 | **[Multi-RAG: A Multimodal Retrieval-Augmented Generation System for Adaptive Video Understanding](http://arxiv.org/abs/2505.23990v1)** | 2025-05-29 |  |
-| **[DocReRank: Single-Page Hard Negative Query Generation for Training Multi-Modal RAG Rerankers](http://arxiv.org/abs/2505.22584v1)** | 2025-05-28 |  |
 
