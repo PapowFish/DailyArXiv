@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 24, 2025
+title: Latest 15 Papers - June 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AlzheimerRAG: Multimodal Retrieval Augmented Generation for Clinical Use Cases using PubMed articles](http://arxiv.org/abs/2412.16701v2)** | 2025-06-23 |  |
+| **[Expanding Relevance Judgments for Medical Case-based Retrieval Task with Multimodal LLMs](http://arxiv.org/abs/2506.17782v1)** | 2025-06-21 | <details><summary>To ap...</summary><p>To appear at the Third Workshop on Large Language Models for Evaluation in Information Retrieval (LLM4Eval 2025), co-located with SIGIR 2025. 9 pages, 2 figures, 5 tables</p></details> |
 | **[Vela: Scalable Embeddings with Voice Large Language Models for Multimodal Retrieval](http://arxiv.org/abs/2506.14445v1)** | 2025-06-17 | <details><summary>Accep...</summary><p>Accepted by Interspeech 2025</p></details> |
 | **[Quantifying Memorization and Parametric Response Rates in Retrieval-Augmented Vision-Language Models](http://arxiv.org/abs/2502.13836v2)** | 2025-06-15 |  |
 | **[VideoDeepResearch: Long Video Understanding With Agentic Tool Using](http://arxiv.org/abs/2506.10821v2)** | 2025-06-15 |  |
@@ -39,6 +41,4 @@ labels: documentation
 | **[MrM: Black-Box Membership Inference Attacks against Multimodal RAG Systems](http://arxiv.org/abs/2506.07399v1)** | 2025-06-09 |  |
 | **[CLaMR: Contextualized Late-Interaction for Multimodal Content Retrieval](http://arxiv.org/abs/2506.06144v1)** | 2025-06-06 | <details><summary>18 pa...</summary><p>18 pages. Code and data: https://github.com/meetdavidwan/clamr</p></details> |
 | **[SafeAuto: Knowledge-Enhanced Safe Autonomous Driving with Multimodal Foundation Models](http://arxiv.org/abs/2503.00211v2)** | 2025-06-06 |  |
-| **[CoRe-MMRAG: Cross-Source Knowledge Reconciliation for Multimodal RAG](http://arxiv.org/abs/2506.02544v2)** | 2025-06-04 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 Main</p></details> |
-| **[Robustness in Both Domains: CLIP Needs a Robust Text Encoder](http://arxiv.org/abs/2506.03355v1)** | 2025-06-03 |  |
 
