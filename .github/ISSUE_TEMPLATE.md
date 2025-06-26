@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 25, 2025
+title: Latest 15 Papers - June 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Semantic-enhanced Modality-asymmetric Retrieval for Online E-commerce Search](http://arxiv.org/abs/2506.20330v1)** | 2025-06-25 | <details><summary>publi...</summary><p>published in sigir2023</p></details> |
 | **[AlzheimerRAG: Multimodal Retrieval Augmented Generation for Clinical Use Cases using PubMed articles](http://arxiv.org/abs/2412.16701v2)** | 2025-06-23 |  |
 | **[Expanding Relevance Judgments for Medical Case-based Retrieval Task with Multimodal LLMs](http://arxiv.org/abs/2506.17782v1)** | 2025-06-21 | <details><summary>To ap...</summary><p>To appear at the Third Workshop on Large Language Models for Evaluation in Information Retrieval (LLM4Eval 2025), co-located with SIGIR 2025. 9 pages, 2 figures, 5 tables</p></details> |
 | **[Vela: Scalable Embeddings with Voice Large Language Models for Multimodal Retrieval](http://arxiv.org/abs/2506.14445v1)** | 2025-06-17 | <details><summary>Accep...</summary><p>Accepted by Interspeech 2025</p></details> |
@@ -40,5 +41,4 @@ labels: documentation
 | **[Re-ranking Reasoning Context with Tree Search Makes Large Vision-Language Models Stronger](http://arxiv.org/abs/2506.07785v1)** | 2025-06-09 | <details><summary>ICML ...</summary><p>ICML 2025 Spotlight. 22 pages, 16 figures</p></details> |
 | **[MrM: Black-Box Membership Inference Attacks against Multimodal RAG Systems](http://arxiv.org/abs/2506.07399v1)** | 2025-06-09 |  |
 | **[CLaMR: Contextualized Late-Interaction for Multimodal Content Retrieval](http://arxiv.org/abs/2506.06144v1)** | 2025-06-06 | <details><summary>18 pa...</summary><p>18 pages. Code and data: https://github.com/meetdavidwan/clamr</p></details> |
-| **[SafeAuto: Knowledge-Enhanced Safe Autonomous Driving with Multimodal Foundation Models](http://arxiv.org/abs/2503.00211v2)** | 2025-06-06 |  |
 
