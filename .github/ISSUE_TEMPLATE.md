@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 29, 2025
+title: Latest 15 Papers - June 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,11 +26,14 @@ labels: documentation
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Universal Retrieval for Multimodal Trajectory Modeling](http://arxiv.org/abs/2506.22056v1)** | 2025-06-27 | <details><summary>18 pa...</summary><p>18 pages, 3 figures, accepted by Workshop on Computer-use Agents @ ICML 2025</p></details> |
+| **[CAL-RAG: Retrieval-Augmented Multi-Agent Generation for Content-Aware Layout Design](http://arxiv.org/abs/2506.21934v1)** | 2025-06-27 |  |
 | **[SAMURAI: Shape-Aware Multimodal Retrieval for 3D Object Identification](http://arxiv.org/abs/2506.21056v1)** | 2025-06-26 |  |
 | **[MultiFinRAG: An Optimized Multimodal Retrieval-Augmented Generation (RAG) Framework for Financial Question Answering](http://arxiv.org/abs/2506.20821v1)** | 2025-06-25 | Preprint Copy |
 | **[Semantic-enhanced Modality-asymmetric Retrieval for Online E-commerce Search](http://arxiv.org/abs/2506.20330v1)** | 2025-06-25 | <details><summary>publi...</summary><p>published in sigir2023</p></details> |
 | **[AlzheimerRAG: Multimodal Retrieval Augmented Generation for Clinical Use Cases using PubMed articles](http://arxiv.org/abs/2412.16701v2)** | 2025-06-23 |  |
 | **[Expanding Relevance Judgments for Medical Case-based Retrieval Task with Multimodal LLMs](http://arxiv.org/abs/2506.17782v1)** | 2025-06-21 | <details><summary>To ap...</summary><p>To appear at the Third Workshop on Large Language Models for Evaluation in Information Retrieval (LLM4Eval 2025), co-located with SIGIR 2025. 9 pages, 2 figures, 5 tables</p></details> |
+| **[Evaluating Multimodal Large Language Models on Educational Textbook Question Answering](http://arxiv.org/abs/2506.21596v1)** | 2025-06-18 | 7 Pages |
 | **[Vela: Scalable Embeddings with Voice Large Language Models for Multimodal Retrieval](http://arxiv.org/abs/2506.14445v1)** | 2025-06-17 | <details><summary>Accep...</summary><p>Accepted by Interspeech 2025</p></details> |
 | **[Quantifying Memorization and Parametric Response Rates in Retrieval-Augmented Vision-Language Models](http://arxiv.org/abs/2502.13836v2)** | 2025-06-15 |  |
 | **[VideoDeepResearch: Long Video Understanding With Agentic Tool Using](http://arxiv.org/abs/2506.10821v2)** | 2025-06-15 |  |
@@ -38,7 +41,4 @@ labels: documentation
 | **[MAGMaR Shared Task System Description: Video Retrieval with OmniEmbed](http://arxiv.org/abs/2506.09409v1)** | 2025-06-11 |  |
 | **[Agent-based Condition Monitoring Assistance with Multimodal Industrial Database Retrieval Augmented Generation](http://arxiv.org/abs/2506.09247v1)** | 2025-06-10 |  |
 | **[TRACE: Grounding Time Series in Context for Multimodal Embedding and Retrieval](http://arxiv.org/abs/2506.09114v1)** | 2025-06-10 |  |
-| **[Multimodal Representation Alignment for Cross-modal Information Retrieval](http://arxiv.org/abs/2506.08774v1)** | 2025-06-10 |  |
-| **[SK-VQA: Synthetic Knowledge Generation at Scale for Training Context-Augmented Multimodal LLMs](http://arxiv.org/abs/2406.19593v2)** | 2025-06-09 | <details><summary>ICML ...</summary><p>ICML 2025 Spotlight Oral</p></details> |
-| **[Re-ranking Reasoning Context with Tree Search Makes Large Vision-Language Models Stronger](http://arxiv.org/abs/2506.07785v1)** | 2025-06-09 | <details><summary>ICML ...</summary><p>ICML 2025 Spotlight. 22 pages, 16 figures</p></details> |
 
