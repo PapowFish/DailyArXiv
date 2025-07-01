@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 30, 2025
+title: Latest 15 Papers - July 01, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MOTOR: Multimodal Optimal Transport via Grounded Retrieval in Medical Visual Question Answering](http://arxiv.org/abs/2506.22900v1)** | 2025-06-28 |  |
 | **[Universal Retrieval for Multimodal Trajectory Modeling](http://arxiv.org/abs/2506.22056v1)** | 2025-06-27 | <details><summary>18 pa...</summary><p>18 pages, 3 figures, accepted by Workshop on Computer-use Agents @ ICML 2025</p></details> |
 | **[CAL-RAG: Retrieval-Augmented Multi-Agent Generation for Content-Aware Layout Design](http://arxiv.org/abs/2506.21934v1)** | 2025-06-27 |  |
 | **[SAMURAI: Shape-Aware Multimodal Retrieval for 3D Object Identification](http://arxiv.org/abs/2506.21056v1)** | 2025-06-26 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[Multi-RAG: A Multimodal Retrieval-Augmented Generation System for Adaptive Video Understanding](http://arxiv.org/abs/2505.23990v2)** | 2025-06-14 |  |
 | **[MAGMaR Shared Task System Description: Video Retrieval with OmniEmbed](http://arxiv.org/abs/2506.09409v1)** | 2025-06-11 |  |
 | **[Agent-based Condition Monitoring Assistance with Multimodal Industrial Database Retrieval Augmented Generation](http://arxiv.org/abs/2506.09247v1)** | 2025-06-10 |  |
-| **[TRACE: Grounding Time Series in Context for Multimodal Embedding and Retrieval](http://arxiv.org/abs/2506.09114v1)** | 2025-06-10 |  |
 
