@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 02, 2025
+title: Latest 15 Papers - July 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Embedding-based Retrieval in Multimodal Content Moderation](http://arxiv.org/abs/2507.01066v1)** | 2025-06-30 | <details><summary>Camer...</summary><p>Camera ready for SIGIR 2025</p></details> |
 | **[ViFusion: In-Network Tensor Fusion for Scalable Video Feature Indexing](http://arxiv.org/abs/2506.16258v1)** | 2025-06-19 |  |
 | **[MAGNET: A Multi-agent Framework for Finding Audio-Visual Needles by Reasoning over Multi-Video Haystacks](http://arxiv.org/abs/2506.07016v2)** | 2025-06-13 | <details><summary>Audio...</summary><p>Audio-visual learning, Audio-Visual RAG, Multi-Video Linkage</p></details> |
 | **[Can Sound Replace Vision in LLaVA With Token Substitution?](http://arxiv.org/abs/2506.10416v1)** | 2025-06-12 | <details><summary>29 pa...</summary><p>29 pages including references and appendices</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Contrastive Alignment with Semantic Gap-Aware Corrections in Text-Video Retrieval](http://arxiv.org/abs/2505.12499v4)** | 2025-06-02 |  |
 | **[VideoRoPE: What Makes for Good Video Rotary Position Embedding?](http://arxiv.org/abs/2502.05173v3)** | 2025-05-30 |  |
 | **[Leveraging Auxiliary Information in Text-to-Video Retrieval: A Review](http://arxiv.org/abs/2505.23952v1)** | 2025-05-29 |  |
-| **[Learning World Models for Interactive Video Generation](http://arxiv.org/abs/2505.21996v1)** | 2025-05-28 |  |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
