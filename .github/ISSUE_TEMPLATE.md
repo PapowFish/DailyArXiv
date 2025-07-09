@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 08, 2025
+title: Latest 15 Papers - July 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BiMa: Towards Biases Mitigation for Text-Video Retrieval via Scene Element Guidance](http://arxiv.org/abs/2506.03589v3)** | 2025-07-07 | <details><summary>Accep...</summary><p>Accepted at ACM MM 2025</p></details> |
+| **[VLM2Vec-V2: Advancing Multimodal Embedding for Videos, Images, and Visual Documents](http://arxiv.org/abs/2507.04590v1)** | 2025-07-07 | Technical Report |
 | **[Are Synthetic Videos Useful? A Benchmark for Retrieval-Centric Evaluation of Synthetic Videos](http://arxiv.org/abs/2507.02316v1)** | 2025-07-03 | 7 pages, 10 figures |
 | **[Embedding-based Retrieval in Multimodal Content Moderation](http://arxiv.org/abs/2507.01066v1)** | 2025-06-30 | <details><summary>Camer...</summary><p>Camera ready for SIGIR 2025</p></details> |
 | **[ViFusion: In-Network Tensor Fusion for Scalable Video Feature Indexing](http://arxiv.org/abs/2506.16258v1)** | 2025-06-19 |  |
@@ -15,13 +17,11 @@ labels: documentation
 | **[Q2E: Query-to-Event Decomposition for Zero-Shot Multilingual Text-to-Video Retrieval](http://arxiv.org/abs/2506.10202v1)** | 2025-06-11 |  |
 | **[MAGMaR Shared Task System Description: Video Retrieval with OmniEmbed](http://arxiv.org/abs/2506.09409v1)** | 2025-06-11 |  |
 | **[Ambiguity-Restrained Text-Video Representation Learning for Partially Relevant Video Retrieval](http://arxiv.org/abs/2506.07471v1)** | 2025-06-09 | <details><summary>Accep...</summary><p>Accepted to AAAI 2025</p></details> |
-| **[BiMa: Towards Biases Mitigation for Text-Video Retrieval via Scene Element Guidance](http://arxiv.org/abs/2506.03589v3)** | 2025-07-07 | <details><summary>Accep...</summary><p>Accepted at ACM MM 2025</p></details> |
 | **[From Play to Replay: Composed Video Retrieval for Temporally Fine-Grained Videos](http://arxiv.org/abs/2506.05274v1)** | 2025-06-05 |  |
 | **[MamFusion: Multi-Mamba with Temporal Fusion for Partially Relevant Video Retrieval](http://arxiv.org/abs/2506.03473v1)** | 2025-06-04 |  |
 | **[Uneven Event Modeling for Partially Relevant Video Retrieval](http://arxiv.org/abs/2506.00891v2)** | 2025-06-03 | <details><summary>Accep...</summary><p>Accepted by ICME 2025</p></details> |
 | **[Respond Beyond Language: A Benchmark for Video Generation in Response to Realistic User Intents](http://arxiv.org/abs/2506.01689v1)** | 2025-06-02 |  |
 | **[Contrastive Alignment with Semantic Gap-Aware Corrections in Text-Video Retrieval](http://arxiv.org/abs/2505.12499v4)** | 2025-06-02 |  |
-| **[VideoRoPE: What Makes for Good Video Rotary Position Embedding?](http://arxiv.org/abs/2502.05173v3)** | 2025-05-30 |  |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
