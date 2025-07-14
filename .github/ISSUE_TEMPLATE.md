@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 13, 2025
+title: Latest 15 Papers - July 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PUMA: Layer-Pruned Language Model for Efficient Unified Multimodal Retrieval with Modality-Adaptive Learning](http://arxiv.org/abs/2507.08064v1)** | 2025-07-10 | <details><summary>Accep...</summary><p>Accepted to ACM MM 2025</p></details> |
 | **[Llama Nemoretriever Colembed: Top-Performing Text-Image Retrieval Model](http://arxiv.org/abs/2507.05513v1)** | 2025-07-07 |  |
 | **[MOTOR: Multimodal Optimal Transport via Grounded Retrieval in Medical Visual Question Answering](http://arxiv.org/abs/2506.22900v1)** | 2025-06-28 |  |
 | **[Universal Retrieval for Multimodal Trajectory Modeling](http://arxiv.org/abs/2506.22056v1)** | 2025-06-27 | <details><summary>18 pa...</summary><p>18 pages, 3 figures, accepted by Workshop on Computer-use Agents @ ICML 2025</p></details> |
@@ -40,5 +41,4 @@ labels: documentation
 | **[Quantifying Memorization and Parametric Response Rates in Retrieval-Augmented Vision-Language Models](http://arxiv.org/abs/2502.13836v2)** | 2025-06-15 |  |
 | **[VideoDeepResearch: Long Video Understanding With Agentic Tool Using](http://arxiv.org/abs/2506.10821v2)** | 2025-06-15 |  |
 | **[Multi-RAG: A Multimodal Retrieval-Augmented Generation System for Adaptive Video Understanding](http://arxiv.org/abs/2505.23990v2)** | 2025-06-14 |  |
-| **[MAGMaR Shared Task System Description: Video Retrieval with OmniEmbed](http://arxiv.org/abs/2506.09409v1)** | 2025-06-11 |  |
 
