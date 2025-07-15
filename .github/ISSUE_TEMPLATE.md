@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 14, 2025
+title: Latest 15 Papers - July 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MSVD-Indonesian: A Benchmark for Multimodal Video-Text Tasks in Indonesian](http://arxiv.org/abs/2306.11341v2)** | 2025-07-12 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 5 tables</p></details> |
 | **[BiMa: Towards Biases Mitigation for Text-Video Retrieval via Scene Element Guidance](http://arxiv.org/abs/2506.03589v3)** | 2025-07-07 | <details><summary>Accep...</summary><p>Accepted at ACM MM 2025</p></details> |
 | **[VLM2Vec-V2: Advancing Multimodal Embedding for Videos, Images, and Visual Documents](http://arxiv.org/abs/2507.04590v1)** | 2025-07-07 | Technical Report |
 | **[Are Synthetic Videos Useful? A Benchmark for Retrieval-Centric Evaluation of Synthetic Videos](http://arxiv.org/abs/2507.02316v1)** | 2025-07-03 | 7 pages, 10 figures |
@@ -21,7 +22,6 @@ labels: documentation
 | **[MamFusion: Multi-Mamba with Temporal Fusion for Partially Relevant Video Retrieval](http://arxiv.org/abs/2506.03473v1)** | 2025-06-04 |  |
 | **[Uneven Event Modeling for Partially Relevant Video Retrieval](http://arxiv.org/abs/2506.00891v2)** | 2025-06-03 | <details><summary>Accep...</summary><p>Accepted by ICME 2025</p></details> |
 | **[Respond Beyond Language: A Benchmark for Video Generation in Response to Realistic User Intents](http://arxiv.org/abs/2506.01689v1)** | 2025-06-02 |  |
-| **[Contrastive Alignment with Semantic Gap-Aware Corrections in Text-Video Retrieval](http://arxiv.org/abs/2505.12499v4)** | 2025-06-02 |  |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
