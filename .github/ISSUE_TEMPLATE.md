@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 15, 2025
+title: Latest 15 Papers - July 16, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -17,15 +17,11 @@ labels: documentation
 | **[Can Sound Replace Vision in LLaVA With Token Substitution?](http://arxiv.org/abs/2506.10416v1)** | 2025-06-12 | <details><summary>29 pa...</summary><p>29 pages including references and appendices</p></details> |
 | **[Q2E: Query-to-Event Decomposition for Zero-Shot Multilingual Text-to-Video Retrieval](http://arxiv.org/abs/2506.10202v1)** | 2025-06-11 |  |
 | **[MAGMaR Shared Task System Description: Video Retrieval with OmniEmbed](http://arxiv.org/abs/2506.09409v1)** | 2025-06-11 |  |
-| **[Ambiguity-Restrained Text-Video Representation Learning for Partially Relevant Video Retrieval](http://arxiv.org/abs/2506.07471v1)** | 2025-06-09 | <details><summary>Accep...</summary><p>Accepted to AAAI 2025</p></details> |
-| **[From Play to Replay: Composed Video Retrieval for Temporally Fine-Grained Videos](http://arxiv.org/abs/2506.05274v1)** | 2025-06-05 |  |
-| **[MamFusion: Multi-Mamba with Temporal Fusion for Partially Relevant Video Retrieval](http://arxiv.org/abs/2506.03473v1)** | 2025-06-04 |  |
-| **[Uneven Event Modeling for Partially Relevant Video Retrieval](http://arxiv.org/abs/2506.00891v2)** | 2025-06-03 | <details><summary>Accep...</summary><p>Accepted by ICME 2025</p></details> |
-| **[Respond Beyond Language: A Benchmark for Video Generation in Response to Realistic User Intents](http://arxiv.org/abs/2506.01689v1)** | 2025-06-02 |  |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Evaluating Multimodal Large Language Models on Educational Textbook Question Answering](http://arxiv.org/abs/2506.21596v2)** | 2025-07-15 | 8 Pages |
 | **[PUMA: Layer-Pruned Language Model for Efficient Unified Multimodal Retrieval with Modality-Adaptive Learning](http://arxiv.org/abs/2507.08064v1)** | 2025-07-10 | <details><summary>Accep...</summary><p>Accepted to ACM MM 2025</p></details> |
 | **[Llama Nemoretriever Colembed: Top-Performing Text-Image Retrieval Model](http://arxiv.org/abs/2507.05513v1)** | 2025-07-07 |  |
 | **[MOTOR: Multimodal Optimal Transport via Grounded Retrieval in Medical Visual Question Answering](http://arxiv.org/abs/2506.22900v1)** | 2025-06-28 |  |
@@ -36,7 +32,6 @@ labels: documentation
 | **[Semantic-enhanced Modality-asymmetric Retrieval for Online E-commerce Search](http://arxiv.org/abs/2506.20330v1)** | 2025-06-25 | <details><summary>publi...</summary><p>published in sigir2023</p></details> |
 | **[AlzheimerRAG: Multimodal Retrieval Augmented Generation for Clinical Use Cases using PubMed articles](http://arxiv.org/abs/2412.16701v2)** | 2025-06-23 |  |
 | **[Expanding Relevance Judgments for Medical Case-based Retrieval Task with Multimodal LLMs](http://arxiv.org/abs/2506.17782v1)** | 2025-06-21 | <details><summary>To ap...</summary><p>To appear at the Third Workshop on Large Language Models for Evaluation in Information Retrieval (LLM4Eval 2025), co-located with SIGIR 2025. 9 pages, 2 figures, 5 tables</p></details> |
-| **[Evaluating Multimodal Large Language Models on Educational Textbook Question Answering](http://arxiv.org/abs/2506.21596v1)** | 2025-06-18 | 7 Pages |
 | **[Vela: Scalable Embeddings with Voice Large Language Models for Multimodal Retrieval](http://arxiv.org/abs/2506.14445v1)** | 2025-06-17 | <details><summary>Accep...</summary><p>Accepted by Interspeech 2025</p></details> |
 | **[Quantifying Memorization and Parametric Response Rates in Retrieval-Augmented Vision-Language Models](http://arxiv.org/abs/2502.13836v2)** | 2025-06-15 |  |
 | **[VideoDeepResearch: Long Video Understanding With Agentic Tool Using](http://arxiv.org/abs/2506.10821v2)** | 2025-06-15 |  |
