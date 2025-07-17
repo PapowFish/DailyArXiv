@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 16, 2025
+title: Latest 15 Papers - July 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -17,6 +17,11 @@ labels: documentation
 | **[Can Sound Replace Vision in LLaVA With Token Substitution?](http://arxiv.org/abs/2506.10416v1)** | 2025-06-12 | <details><summary>29 pa...</summary><p>29 pages including references and appendices</p></details> |
 | **[Q2E: Query-to-Event Decomposition for Zero-Shot Multilingual Text-to-Video Retrieval](http://arxiv.org/abs/2506.10202v1)** | 2025-06-11 |  |
 | **[MAGMaR Shared Task System Description: Video Retrieval with OmniEmbed](http://arxiv.org/abs/2506.09409v1)** | 2025-06-11 |  |
+| **[Ambiguity-Restrained Text-Video Representation Learning for Partially Relevant Video Retrieval](http://arxiv.org/abs/2506.07471v1)** | 2025-06-09 | <details><summary>Accep...</summary><p>Accepted to AAAI 2025</p></details> |
+| **[From Play to Replay: Composed Video Retrieval for Temporally Fine-Grained Videos](http://arxiv.org/abs/2506.05274v1)** | 2025-06-05 |  |
+| **[MamFusion: Multi-Mamba with Temporal Fusion for Partially Relevant Video Retrieval](http://arxiv.org/abs/2506.03473v1)** | 2025-06-04 |  |
+| **[Uneven Event Modeling for Partially Relevant Video Retrieval](http://arxiv.org/abs/2506.00891v2)** | 2025-06-03 | <details><summary>Accep...</summary><p>Accepted by ICME 2025</p></details> |
+| **[Respond Beyond Language: A Benchmark for Video Generation in Response to Realistic User Intents](http://arxiv.org/abs/2506.01689v1)** | 2025-06-02 |  |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
