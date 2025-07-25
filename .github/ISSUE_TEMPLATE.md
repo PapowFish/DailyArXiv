@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 24, 2025
+title: Latest 15 Papers - July 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,8 +7,8 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Quantifying and Narrowing the Unknown: Interactive Text-to-Video Retrieval via Uncertainty Minimization](http://arxiv.org/abs/2507.15504v2)** | 2025-07-24 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
 | **[HLFormer: Enhancing Partially Relevant Video Retrieval with Hyperbolic Learning](http://arxiv.org/abs/2507.17402v1)** | 2025-07-23 | <details><summary>Accep...</summary><p>Accepted by ICCV'25. 13 pages, 6 figures, 4 tables</p></details> |
-| **[Quantifying and Narrowing the Unknown: Interactive Text-to-Video Retrieval via Uncertainty Minimization](http://arxiv.org/abs/2507.15504v1)** | 2025-07-21 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
 | **[Prompt-aware of Frame Sampling for Efficient Text-Video Retrieval](http://arxiv.org/abs/2507.15491v1)** | 2025-07-21 |  |
 | **[U-MARVEL: Unveiling Key Factors for Universal Multimodal Retrieval via Embedding Learning with MLLMs](http://arxiv.org/abs/2507.14902v1)** | 2025-07-20 | <details><summary>Techn...</summary><p>Technical Report (in progress)</p></details> |
 | **[Smart Routing for Multimodal Video Retrieval: When to Search What](http://arxiv.org/abs/2507.13374v1)** | 2025-07-12 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025 Multimodal Representation and Retrieval Workshop</p></details> |
