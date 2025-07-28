@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 27, 2025
+title: Latest 15 Papers - July 28, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Short-Form Video Recommendations with Multimodal Embeddings: Addressing Cold-Start and Bias Challenges](http://arxiv.org/abs/2507.19346v1)** | 2025-07-25 |  |
+| **[FrameFusion: Combining Similarity and Importance for Video Token Reduction on Large Vision Language Models](http://arxiv.org/abs/2501.01986v2)** | 2025-07-24 | ICCV 2025 |
 | **[Quantifying and Narrowing the Unknown: Interactive Text-to-Video Retrieval via Uncertainty Minimization](http://arxiv.org/abs/2507.15504v2)** | 2025-07-24 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
 | **[HLFormer: Enhancing Partially Relevant Video Retrieval with Hyperbolic Learning](http://arxiv.org/abs/2507.17402v1)** | 2025-07-23 | <details><summary>Accep...</summary><p>Accepted by ICCV'25. 13 pages, 6 figures, 4 tables</p></details> |
 | **[Prompt-aware of Frame Sampling for Efficient Text-Video Retrieval](http://arxiv.org/abs/2507.15491v1)** | 2025-07-21 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[ViFusion: In-Network Tensor Fusion for Scalable Video Feature Indexing](http://arxiv.org/abs/2506.16258v1)** | 2025-06-19 |  |
 | **[MAGNET: A Multi-agent Framework for Finding Audio-Visual Needles by Reasoning over Multi-Video Haystacks](http://arxiv.org/abs/2506.07016v2)** | 2025-06-13 | <details><summary>Audio...</summary><p>Audio-visual learning, Audio-Visual RAG, Multi-Video Linkage</p></details> |
 | **[Can Sound Replace Vision in LLaVA With Token Substitution?](http://arxiv.org/abs/2506.10416v1)** | 2025-06-12 | <details><summary>29 pa...</summary><p>29 pages including references and appendices</p></details> |
-| **[Q2E: Query-to-Event Decomposition for Zero-Shot Multilingual Text-to-Video Retrieval](http://arxiv.org/abs/2506.10202v1)** | 2025-06-11 |  |
-| **[MAGMaR Shared Task System Description: Video Retrieval with OmniEmbed](http://arxiv.org/abs/2506.09409v1)** | 2025-06-11 |  |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
