@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 04, 2025
+title: Latest 15 Papers - August 05, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GAID: Frame-Level Gated Audio-Visual Integration with Directional Perturbation for Text-Video Retrieval](http://arxiv.org/abs/2508.01711v1)** | 2025-08-03 |  |
 | **[Bidirectional Likelihood Estimation with Multi-Modal Large Language Models for Text-Video Retrieval](http://arxiv.org/abs/2507.23284v1)** | 2025-07-31 | ICCV 2025 Highlight |
 | **[Generative Ghost: Investigating Ranking Bias Hidden in AI-Generated Videos](http://arxiv.org/abs/2502.07327v2)** | 2025-07-29 | <details><summary>13 pa...</summary><p>13 pages, Accepted at ACMMM2025</p></details> |
 | **[T2VParser: Adaptive Decomposition Tokens for Partial Alignment in Text to Video Retrieval](http://arxiv.org/abs/2507.20518v1)** | 2025-07-28 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[BiMa: Towards Biases Mitigation for Text-Video Retrieval via Scene Element Guidance](http://arxiv.org/abs/2506.03589v3)** | 2025-07-07 | <details><summary>Accep...</summary><p>Accepted at ACM MM 2025</p></details> |
 | **[VLM2Vec-V2: Advancing Multimodal Embedding for Videos, Images, and Visual Documents](http://arxiv.org/abs/2507.04590v1)** | 2025-07-07 | Technical Report |
 | **[Are Synthetic Videos Useful? A Benchmark for Retrieval-Centric Evaluation of Synthetic Videos](http://arxiv.org/abs/2507.02316v1)** | 2025-07-03 | 7 pages, 10 figures |
-| **[Embedding-based Retrieval in Multimodal Content Moderation](http://arxiv.org/abs/2507.01066v1)** | 2025-06-30 | <details><summary>Camer...</summary><p>Camera ready for SIGIR 2025</p></details> |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
