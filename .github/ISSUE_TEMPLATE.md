@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 06, 2025
+title: Latest 15 Papers - August 07, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,8 +7,8 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Bidirectional Likelihood Estimation with Multi-Modal Large Language Models for Text-Video Retrieval](http://arxiv.org/abs/2507.23284v2)** | 2025-08-06 | ICCV 2025 Highlight |
 | **[GAID: Frame-Level Gated Audio-Visual Integration with Directional Perturbation for Text-Video Retrieval](http://arxiv.org/abs/2508.01711v1)** | 2025-08-03 |  |
-| **[Bidirectional Likelihood Estimation with Multi-Modal Large Language Models for Text-Video Retrieval](http://arxiv.org/abs/2507.23284v1)** | 2025-07-31 | ICCV 2025 Highlight |
 | **[Generative Ghost: Investigating Ranking Bias Hidden in AI-Generated Videos](http://arxiv.org/abs/2502.07327v2)** | 2025-07-29 | <details><summary>13 pa...</summary><p>13 pages, Accepted at ACMMM2025</p></details> |
 | **[T2VParser: Adaptive Decomposition Tokens for Partial Alignment in Text to Video Retrieval](http://arxiv.org/abs/2507.20518v1)** | 2025-07-28 |  |
 | **[HLFormer: Enhancing Partially Relevant Video Retrieval with Hyperbolic Learning](http://arxiv.org/abs/2507.17402v2)** | 2025-07-27 | <details><summary>Accep...</summary><p>Accepted by ICCV'25. 13 pages, 6 figures, 4 tables</p></details> |
@@ -26,6 +26,7 @@ labels: documentation
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[UniFGVC: Universal Training-Free Few-Shot Fine-Grained Vision Classification via Attribute-Aware Multimodal Retrieval](http://arxiv.org/abs/2508.04136v1)** | 2025-08-06 |  |
 | **[ArtSeek: Deep artwork understanding via multimodal in-context reasoning and late interaction retrieval](http://arxiv.org/abs/2507.21917v1)** | 2025-07-29 |  |
 | **[PUMA: Layer-Pruned Language Model for Efficient Unified Multimodal Retrieval with Modality-Adaptive Learning](http://arxiv.org/abs/2507.08064v2)** | 2025-07-28 | <details><summary>Accep...</summary><p>Accepted to ACM MM 2025</p></details> |
 | **[VL-CLIP: Enhancing Multimodal Recommendations via Visual Grounding and LLM-Augmented CLIP Embeddings](http://arxiv.org/abs/2507.17080v1)** | 2025-07-22 | <details><summary>Accep...</summary><p>Accepted at RecSys 2025; DOI:https://doi.org/10.1145/3705328.3748064</p></details> |
@@ -40,5 +41,4 @@ labels: documentation
 | **[SAMURAI: Shape-Aware Multimodal Retrieval for 3D Object Identification](http://arxiv.org/abs/2506.21056v1)** | 2025-06-26 |  |
 | **[MultiFinRAG: An Optimized Multimodal Retrieval-Augmented Generation (RAG) Framework for Financial Question Answering](http://arxiv.org/abs/2506.20821v1)** | 2025-06-25 | Preprint Copy |
 | **[Semantic-enhanced Modality-asymmetric Retrieval for Online E-commerce Search](http://arxiv.org/abs/2506.20330v1)** | 2025-06-25 | <details><summary>publi...</summary><p>published in sigir2023</p></details> |
-| **[AlzheimerRAG: Multimodal Retrieval Augmented Generation for Clinical Use Cases using PubMed articles](http://arxiv.org/abs/2412.16701v2)** | 2025-06-23 |  |
 
