@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 07, 2025
+title: Latest 15 Papers - August 08, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,7 +26,10 @@ labels: documentation
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Explaining Similarity in Vision-Language Encoders with Weighted Banzhaf Interactions](http://arxiv.org/abs/2508.05430v1)** | 2025-08-07 | Preprint |
+| **[mKG-RAG: Multimodal Knowledge Graph-Enhanced RAG for Visual Question Answering](http://arxiv.org/abs/2508.05318v1)** | 2025-08-07 |  |
 | **[UniFGVC: Universal Training-Free Few-Shot Fine-Grained Vision Classification via Attribute-Aware Multimodal Retrieval](http://arxiv.org/abs/2508.04136v1)** | 2025-08-06 |  |
+| **[Understanding protein function with a multimodal retrieval-augmented foundation model](http://arxiv.org/abs/2508.04724v1)** | 2025-08-05 |  |
 | **[ArtSeek: Deep artwork understanding via multimodal in-context reasoning and late interaction retrieval](http://arxiv.org/abs/2507.21917v1)** | 2025-07-29 |  |
 | **[PUMA: Layer-Pruned Language Model for Efficient Unified Multimodal Retrieval with Modality-Adaptive Learning](http://arxiv.org/abs/2507.08064v2)** | 2025-07-28 | <details><summary>Accep...</summary><p>Accepted to ACM MM 2025</p></details> |
 | **[VL-CLIP: Enhancing Multimodal Recommendations via Visual Grounding and LLM-Augmented CLIP Embeddings](http://arxiv.org/abs/2507.17080v1)** | 2025-07-22 | <details><summary>Accep...</summary><p>Accepted at RecSys 2025; DOI:https://doi.org/10.1145/3705328.3748064</p></details> |
@@ -38,7 +41,4 @@ labels: documentation
 | **[MOTOR: Multimodal Optimal Transport via Grounded Retrieval in Medical Visual Question Answering](http://arxiv.org/abs/2506.22900v1)** | 2025-06-28 |  |
 | **[Universal Retrieval for Multimodal Trajectory Modeling](http://arxiv.org/abs/2506.22056v1)** | 2025-06-27 | <details><summary>18 pa...</summary><p>18 pages, 3 figures, accepted by Workshop on Computer-use Agents @ ICML 2025</p></details> |
 | **[CAL-RAG: Retrieval-Augmented Multi-Agent Generation for Content-Aware Layout Design](http://arxiv.org/abs/2506.21934v1)** | 2025-06-27 |  |
-| **[SAMURAI: Shape-Aware Multimodal Retrieval for 3D Object Identification](http://arxiv.org/abs/2506.21056v1)** | 2025-06-26 |  |
-| **[MultiFinRAG: An Optimized Multimodal Retrieval-Augmented Generation (RAG) Framework for Financial Question Answering](http://arxiv.org/abs/2506.20821v1)** | 2025-06-25 | Preprint Copy |
-| **[Semantic-enhanced Modality-asymmetric Retrieval for Online E-commerce Search](http://arxiv.org/abs/2506.20330v1)** | 2025-06-25 | <details><summary>publi...</summary><p>published in sigir2023</p></details> |
 
