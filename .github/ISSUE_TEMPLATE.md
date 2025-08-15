@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 14, 2025
+title: Latest 15 Papers - August 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multimodal LLM-based Query Paraphrasing for Video Search](http://arxiv.org/abs/2407.12341v2)** | 2025-08-13 |  |
 | **[Adversarial Video Promotion Against Text-to-Video Retrieval](http://arxiv.org/abs/2508.06964v2)** | 2025-08-12 |  |
 | **[Bidirectional Likelihood Estimation with Multi-Modal Large Language Models for Text-Video Retrieval](http://arxiv.org/abs/2507.23284v2)** | 2025-08-06 | ICCV 2025 Highlight |
 | **[GAID: Frame-Level Gated Audio-Visual Integration with Directional Perturbation for Text-Video Retrieval](http://arxiv.org/abs/2508.01711v1)** | 2025-08-03 |  |
@@ -21,11 +22,11 @@ labels: documentation
 | **[Smart Routing for Multimodal Video Retrieval: When to Search What](http://arxiv.org/abs/2507.13374v1)** | 2025-07-12 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025 Multimodal Representation and Retrieval Workshop</p></details> |
 | **[MSVD-Indonesian: A Benchmark for Multimodal Video-Text Tasks in Indonesian](http://arxiv.org/abs/2306.11341v2)** | 2025-07-12 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 5 tables</p></details> |
 | **[BiMa: Towards Biases Mitigation for Text-Video Retrieval via Scene Element Guidance](http://arxiv.org/abs/2506.03589v3)** | 2025-07-07 | <details><summary>Accep...</summary><p>Accepted at ACM MM 2025</p></details> |
-| **[VLM2Vec-V2: Advancing Multimodal Embedding for Videos, Images, and Visual Documents](http://arxiv.org/abs/2507.04590v1)** | 2025-07-07 | Technical Report |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DeepWriter: A Fact-Grounded Multimodal Writing Assistant Based On Offline Knowledge Base](http://arxiv.org/abs/2507.14189v2)** | 2025-08-14 | work in process |
 | **[SMA: Who Said That? Auditing Membership Leakage in Semi-Black-box RAG Controlling](http://arxiv.org/abs/2508.09105v2)** | 2025-08-13 |  |
 | **[Efficient Agent: Optimizing Planning Capability for Multimodal Retrieval Augmented Generation](http://arxiv.org/abs/2508.08816v1)** | 2025-08-12 |  |
 | **[Towards Multimodal Sentiment Analysis via Contrastive Cross-modal Retrieval Augmentation and Hierachical Prompts](http://arxiv.org/abs/2508.07666v1)** | 2025-08-11 | Under review |
@@ -40,5 +41,4 @@ labels: documentation
 | **[VL-CLIP: Enhancing Multimodal Recommendations via Visual Grounding and LLM-Augmented CLIP Embeddings](http://arxiv.org/abs/2507.17080v1)** | 2025-07-22 | <details><summary>Accep...</summary><p>Accepted at RecSys 2025; DOI:https://doi.org/10.1145/3705328.3748064</p></details> |
 | **[U-MARVEL: Unveiling Key Factors for Universal Multimodal Retrieval via Embedding Learning with MLLMs](http://arxiv.org/abs/2507.14902v1)** | 2025-07-20 | <details><summary>Techn...</summary><p>Technical Report (in progress)</p></details> |
 | **[Evaluating Multimodal Large Language Models on Educational Textbook Question Answering](http://arxiv.org/abs/2506.21596v2)** | 2025-07-15 | 8 Pages |
-| **[DeepWriter: A Fact-Grounded Multimodal Writing Assistant Based On Offline Knowledge Base](http://arxiv.org/abs/2507.14189v1)** | 2025-07-14 | work in process |
 
