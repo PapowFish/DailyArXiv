@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 17, 2025
+title: Latest 15 Papers - August 18, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TrajSV: A Trajectory-based Model for Sports Video Representations and Applications](http://arxiv.org/abs/2508.11569v1)** | 2025-08-15 | <details><summary>This ...</summary><p>This paper has been accepted by TCSVT</p></details> |
 | **[Multimodal LLM-based Query Paraphrasing for Video Search](http://arxiv.org/abs/2407.12341v2)** | 2025-08-13 |  |
 | **[Adversarial Video Promotion Against Text-to-Video Retrieval](http://arxiv.org/abs/2508.06964v2)** | 2025-08-12 |  |
 | **[Bidirectional Likelihood Estimation with Multi-Modal Large Language Models for Text-Video Retrieval](http://arxiv.org/abs/2507.23284v2)** | 2025-08-06 | ICCV 2025 Highlight |
@@ -21,7 +22,6 @@ labels: documentation
 | **[U-MARVEL: Unveiling Key Factors for Universal Multimodal Retrieval via Embedding Learning with MLLMs](http://arxiv.org/abs/2507.14902v1)** | 2025-07-20 | <details><summary>Techn...</summary><p>Technical Report (in progress)</p></details> |
 | **[Smart Routing for Multimodal Video Retrieval: When to Search What](http://arxiv.org/abs/2507.13374v1)** | 2025-07-12 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025 Multimodal Representation and Retrieval Workshop</p></details> |
 | **[MSVD-Indonesian: A Benchmark for Multimodal Video-Text Tasks in Indonesian](http://arxiv.org/abs/2306.11341v2)** | 2025-07-12 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 5 tables</p></details> |
-| **[BiMa: Towards Biases Mitigation for Text-Video Retrieval via Scene Element Guidance](http://arxiv.org/abs/2506.03589v3)** | 2025-07-07 | <details><summary>Accep...</summary><p>Accepted at ACM MM 2025</p></details> |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
