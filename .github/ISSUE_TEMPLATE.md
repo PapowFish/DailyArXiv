@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 20, 2025
+title: Latest 15 Papers - August 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Simple Edits: Composed Video Retrieval with Dense Modifications](http://arxiv.org/abs/2508.14039v1)** | 2025-08-19 | <details><summary>Accep...</summary><p>Accepted to ICCV-2025</p></details> |
 | **[VimoRAG: Video-based Retrieval-augmented 3D Motion Generation for Motion Language Models](http://arxiv.org/abs/2508.12081v1)** | 2025-08-16 | 20 pages,13 figures |
 | **[TrajSV: A Trajectory-based Model for Sports Video Representations and Applications](http://arxiv.org/abs/2508.11569v1)** | 2025-08-15 | <details><summary>This ...</summary><p>This paper has been accepted by TCSVT</p></details> |
 | **[Multimodal LLM-based Query Paraphrasing for Video Search](http://arxiv.org/abs/2407.12341v2)** | 2025-08-13 |  |
@@ -21,12 +22,13 @@ labels: documentation
 | **[Quantifying and Narrowing the Unknown: Interactive Text-to-Video Retrieval via Uncertainty Minimization](http://arxiv.org/abs/2507.15504v2)** | 2025-07-24 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
 | **[Prompt-aware of Frame Sampling for Efficient Text-Video Retrieval](http://arxiv.org/abs/2507.15491v1)** | 2025-07-21 |  |
 | **[U-MARVEL: Unveiling Key Factors for Universal Multimodal Retrieval via Embedding Learning with MLLMs](http://arxiv.org/abs/2507.14902v1)** | 2025-07-20 | <details><summary>Techn...</summary><p>Technical Report (in progress)</p></details> |
-| **[Smart Routing for Multimodal Video Retrieval: When to Search What](http://arxiv.org/abs/2507.13374v1)** | 2025-07-12 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025 Multimodal Representation and Retrieval Workshop</p></details> |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[UniECS: Unified Multimodal E-Commerce Search Framework with Gated Cross-modal Fusion](http://arxiv.org/abs/2508.13843v1)** | 2025-08-19 | <details><summary>Accep...</summary><p>Accepted at CIKM2025 as a long paper</p></details> |
 | **[OMGM: Orchestrate Multiple Granularities and Modalities for Efficient Multimodal Retrieval](http://arxiv.org/abs/2505.07879v2)** | 2025-08-17 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 Main Conference; Codes available at: https://github.com/ChaoLinAViy/OMGM</p></details> |
+| **[MM-BrowseComp: A Comprehensive Benchmark for Multimodal Browsing Agents](http://arxiv.org/abs/2508.13186v1)** | 2025-08-14 | <details><summary>The f...</summary><p>The first two authors contribute equally, 26 pages, repo at https://github.com/MMBrowseComp/MM-BrowseComp</p></details> |
 | **[DeepWriter: A Fact-Grounded Multimodal Writing Assistant Based On Offline Knowledge Base](http://arxiv.org/abs/2507.14189v2)** | 2025-08-14 | work in process |
 | **[SMA: Who Said That? Auditing Membership Leakage in Semi-Black-box RAG Controlling](http://arxiv.org/abs/2508.09105v2)** | 2025-08-13 |  |
 | **[Efficient Agent: Optimizing Planning Capability for Multimodal Retrieval Augmented Generation](http://arxiv.org/abs/2508.08816v1)** | 2025-08-12 |  |
@@ -39,6 +41,4 @@ labels: documentation
 | **[Understanding protein function with a multimodal retrieval-augmented foundation model](http://arxiv.org/abs/2508.04724v1)** | 2025-08-05 |  |
 | **[ArtSeek: Deep artwork understanding via multimodal in-context reasoning and late interaction retrieval](http://arxiv.org/abs/2507.21917v1)** | 2025-07-29 |  |
 | **[PUMA: Layer-Pruned Language Model for Efficient Unified Multimodal Retrieval with Modality-Adaptive Learning](http://arxiv.org/abs/2507.08064v2)** | 2025-07-28 | <details><summary>Accep...</summary><p>Accepted to ACM MM 2025</p></details> |
-| **[VL-CLIP: Enhancing Multimodal Recommendations via Visual Grounding and LLM-Augmented CLIP Embeddings](http://arxiv.org/abs/2507.17080v1)** | 2025-07-22 | <details><summary>Accep...</summary><p>Accepted at RecSys 2025; DOI:https://doi.org/10.1145/3705328.3748064</p></details> |
-| **[U-MARVEL: Unveiling Key Factors for Universal Multimodal Retrieval via Embedding Learning with MLLMs](http://arxiv.org/abs/2507.14902v1)** | 2025-07-20 | <details><summary>Techn...</summary><p>Technical Report (in progress)</p></details> |
 
