@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 25, 2025
+title: Latest 15 Papers - August 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,9 @@ labels: documentation
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VisR-Bench: An Empirical Study on Visual Retrieval-Augmented Generation for Multilingual Long Document Understanding](http://arxiv.org/abs/2508.07493v2)** | 2025-08-25 | Under Review |
+| **[Lightweight Joint Optimization of General-Purpose Vision-Language Models and Retrievers for Medical Diagnosis](http://arxiv.org/abs/2508.17394v1)** | 2025-08-24 |  |
+| **[Zero-shot Multimodal Document Retrieval via Cross-modal Question Generation](http://arxiv.org/abs/2508.17079v1)** | 2025-08-23 |  |
 | **[UniECS: Unified Multimodal E-Commerce Search Framework with Gated Cross-modal Fusion](http://arxiv.org/abs/2508.13843v1)** | 2025-08-19 | <details><summary>Accep...</summary><p>Accepted at CIKM2025 as a long paper</p></details> |
 | **[OMGM: Orchestrate Multiple Granularities and Modalities for Efficient Multimodal Retrieval](http://arxiv.org/abs/2505.07879v2)** | 2025-08-17 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 Main Conference; Codes available at: https://github.com/ChaoLinAViy/OMGM</p></details> |
 | **[MM-BrowseComp: A Comprehensive Benchmark for Multimodal Browsing Agents](http://arxiv.org/abs/2508.13186v1)** | 2025-08-14 | <details><summary>The f...</summary><p>The first two authors contribute equally, 26 pages, repo at https://github.com/MMBrowseComp/MM-BrowseComp</p></details> |
@@ -33,12 +36,9 @@ labels: documentation
 | **[SMA: Who Said That? Auditing Membership Leakage in Semi-Black-box RAG Controlling](http://arxiv.org/abs/2508.09105v2)** | 2025-08-13 |  |
 | **[Efficient Agent: Optimizing Planning Capability for Multimodal Retrieval Augmented Generation](http://arxiv.org/abs/2508.08816v1)** | 2025-08-12 |  |
 | **[Towards Multimodal Sentiment Analysis via Contrastive Cross-modal Retrieval Augmentation and Hierachical Prompts](http://arxiv.org/abs/2508.07666v1)** | 2025-08-11 | Under review |
-| **[VisR-Bench: An Empirical Study on Visual Retrieval-Augmented Generation for Multilingual Long Document Understanding](http://arxiv.org/abs/2508.07493v1)** | 2025-08-10 | Under Review |
 | **[M2IO-R1: An Efficient RL-Enhanced Reasoning Framework for Multimodal Retrieval Augmented Multimodal Generation](http://arxiv.org/abs/2508.06328v1)** | 2025-08-08 |  |
 | **[Explaining Similarity in Vision-Language Encoders with Weighted Banzhaf Interactions](http://arxiv.org/abs/2508.05430v1)** | 2025-08-07 | Preprint |
 | **[mKG-RAG: Multimodal Knowledge Graph-Enhanced RAG for Visual Question Answering](http://arxiv.org/abs/2508.05318v1)** | 2025-08-07 |  |
 | **[UniFGVC: Universal Training-Free Few-Shot Fine-Grained Vision Classification via Attribute-Aware Multimodal Retrieval](http://arxiv.org/abs/2508.04136v1)** | 2025-08-06 |  |
 | **[Understanding protein function with a multimodal retrieval-augmented foundation model](http://arxiv.org/abs/2508.04724v1)** | 2025-08-05 |  |
-| **[ArtSeek: Deep artwork understanding via multimodal in-context reasoning and late interaction retrieval](http://arxiv.org/abs/2507.21917v1)** | 2025-07-29 |  |
-| **[PUMA: Layer-Pruned Language Model for Efficient Unified Multimodal Retrieval with Modality-Adaptive Learning](http://arxiv.org/abs/2507.08064v2)** | 2025-07-28 | <details><summary>Accep...</summary><p>Accepted to ACM MM 2025</p></details> |
 
