@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 28, 2025
+title: Latest 15 Papers - August 29, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
