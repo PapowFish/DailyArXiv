@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 03, 2025
+title: Latest 15 Papers - September 04, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Leveraging Modality Tags for Enhanced Cross-Modal Video Retrieval](http://arxiv.org/abs/2504.01591v3)** | 2025-08-31 | <details><summary>Accep...</summary><p>Accepted at BMVC 2025</p></details> |
 | **[ProPy: Building Interactive Prompt Pyramids upon CLIP for Partially Relevant Video Retrieval](http://arxiv.org/abs/2508.19024v1)** | 2025-08-26 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2025 Findings</p></details> |
 | **[Repeating Words for Video-Language Retrieval with Coarse-to-Fine Objectives](http://arxiv.org/abs/2508.14812v1)** | 2025-08-20 | 11 pages, 4 figures |
 | **[Beyond Simple Edits: Composed Video Retrieval with Dense Modifications](http://arxiv.org/abs/2508.14039v1)** | 2025-08-19 | <details><summary>Accep...</summary><p>Accepted to ICCV-2025</p></details> |
@@ -21,13 +22,14 @@ labels: documentation
 | **[HLFormer: Enhancing Partially Relevant Video Retrieval with Hyperbolic Learning](http://arxiv.org/abs/2507.17402v2)** | 2025-07-27 | <details><summary>Accep...</summary><p>Accepted by ICCV'25. 13 pages, 6 figures, 4 tables</p></details> |
 | **[Short-Form Video Recommendations with Multimodal Embeddings: Addressing Cold-Start and Bias Challenges](http://arxiv.org/abs/2507.19346v1)** | 2025-07-25 |  |
 | **[FrameFusion: Combining Similarity and Importance for Video Token Reduction on Large Vision Language Models](http://arxiv.org/abs/2501.01986v2)** | 2025-07-24 | ICCV 2025 |
-| **[Quantifying and Narrowing the Unknown: Interactive Text-to-Video Retrieval via Uncertainty Minimization](http://arxiv.org/abs/2507.15504v2)** | 2025-07-24 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[VisR-Bench: An Empirical Study on Visual Retrieval-Augmented Generation for Multilingual Long Document Understanding](http://arxiv.org/abs/2508.07493v2)** | 2025-08-25 | Under Review |
 | **[Lightweight Joint Optimization of General-Purpose Vision-Language Models and Retrievers for Medical Diagnosis](http://arxiv.org/abs/2508.17394v2)** | 2025-08-31 |  |
+| **[PS-ReID: Advancing Person Re-Identification and Precise Segmentation with Multimodal Retrieval](http://arxiv.org/abs/2503.21595v2)** | 2025-08-31 |  |
+| **[AlzheimerRAG: Multimodal Retrieval Augmented Generation for Clinical Use Cases using PubMed articles](http://arxiv.org/abs/2412.16701v3)** | 2025-08-30 |  |
+| **[VisR-Bench: An Empirical Study on Visual Retrieval-Augmented Generation for Multilingual Long Document Understanding](http://arxiv.org/abs/2508.07493v2)** | 2025-08-25 | Under Review |
 | **[Zero-shot Multimodal Document Retrieval via Cross-modal Question Generation](http://arxiv.org/abs/2508.17079v1)** | 2025-08-23 |  |
 | **[UniECS: Unified Multimodal E-Commerce Search Framework with Gated Cross-modal Fusion](http://arxiv.org/abs/2508.13843v1)** | 2025-08-19 | <details><summary>Accep...</summary><p>Accepted at CIKM2025 as a long paper</p></details> |
 | **[OMGM: Orchestrate Multiple Granularities and Modalities for Efficient Multimodal Retrieval](http://arxiv.org/abs/2505.07879v2)** | 2025-08-17 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 Main Conference; Codes available at: https://github.com/ChaoLinAViy/OMGM</p></details> |
@@ -39,6 +41,4 @@ labels: documentation
 | **[M2IO-R1: An Efficient RL-Enhanced Reasoning Framework for Multimodal Retrieval Augmented Multimodal Generation](http://arxiv.org/abs/2508.06328v1)** | 2025-08-08 |  |
 | **[Explaining Similarity in Vision-Language Encoders with Weighted Banzhaf Interactions](http://arxiv.org/abs/2508.05430v1)** | 2025-08-07 | Preprint |
 | **[mKG-RAG: Multimodal Knowledge Graph-Enhanced RAG for Visual Question Answering](http://arxiv.org/abs/2508.05318v1)** | 2025-08-07 |  |
-| **[UniFGVC: Universal Training-Free Few-Shot Fine-Grained Vision Classification via Attribute-Aware Multimodal Retrieval](http://arxiv.org/abs/2508.04136v1)** | 2025-08-06 |  |
-| **[Understanding protein function with a multimodal retrieval-augmented foundation model](http://arxiv.org/abs/2508.04724v1)** | 2025-08-05 |  |
 
