@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 05, 2025
+title: Latest 15 Papers - September 06, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Short-Form Video Recommendations with Multimodal Embeddings: Addressing Cold-Start and Bias Challenges](http://arxiv.org/abs/2507.19346v2)** | 2025-09-03 |  |
 | **[Enhancing Partially Relevant Video Retrieval with Robust Alignment Learning](http://arxiv.org/abs/2509.01383v1)** | 2025-09-01 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025</p></details> |
 | **[Leveraging Modality Tags for Enhanced Cross-Modal Video Retrieval](http://arxiv.org/abs/2504.01591v3)** | 2025-08-31 | <details><summary>Accep...</summary><p>Accepted at BMVC 2025</p></details> |
 | **[Multi-Focused Video Group Activities Hashing](http://arxiv.org/abs/2509.00490v1)** | 2025-08-30 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[GAID: Frame-Level Gated Audio-Visual Integration with Directional Perturbation for Text-Video Retrieval](http://arxiv.org/abs/2508.01711v1)** | 2025-08-03 |  |
 | **[Generative Ghost: Investigating Ranking Bias Hidden in AI-Generated Videos](http://arxiv.org/abs/2502.07327v2)** | 2025-07-29 | <details><summary>13 pa...</summary><p>13 pages, Accepted at ACMMM2025</p></details> |
 | **[T2VParser: Adaptive Decomposition Tokens for Partial Alignment in Text to Video Retrieval](http://arxiv.org/abs/2507.20518v1)** | 2025-07-28 |  |
-| **[HLFormer: Enhancing Partially Relevant Video Retrieval with Hyperbolic Learning](http://arxiv.org/abs/2507.17402v2)** | 2025-07-27 | <details><summary>Accep...</summary><p>Accepted by ICCV'25. 13 pages, 6 figures, 4 tables</p></details> |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
