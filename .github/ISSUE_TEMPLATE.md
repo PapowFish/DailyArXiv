@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 10, 2025
+title: Latest 15 Papers - September 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Vector embedding of multi-modal texts: a tool for discovery?](http://arxiv.org/abs/2509.08216v1)** | 2025-09-10 |  |
 | **[Lightweight Joint Optimization of General-Purpose Vision-Language Models and Retrievers for Medical Diagnosis](http://arxiv.org/abs/2508.17394v2)** | 2025-08-31 |  |
 | **[PS-ReID: Advancing Person Re-Identification and Precise Segmentation with Multimodal Retrieval](http://arxiv.org/abs/2503.21595v2)** | 2025-08-31 |  |
 | **[EVENT-Retriever: Event-Aware Multimodal Image Retrieval for Realistic Captions](http://arxiv.org/abs/2509.00751v1)** | 2025-08-31 | ACM Multimedia 2025 |
@@ -40,5 +41,4 @@ labels: documentation
 | **[Efficient Agent: Optimizing Planning Capability for Multimodal Retrieval Augmented Generation](http://arxiv.org/abs/2508.08816v1)** | 2025-08-12 |  |
 | **[Towards Multimodal Sentiment Analysis via Contrastive Cross-modal Retrieval Augmentation and Hierachical Prompts](http://arxiv.org/abs/2508.07666v1)** | 2025-08-11 | Under review |
 | **[M2IO-R1: An Efficient RL-Enhanced Reasoning Framework for Multimodal Retrieval Augmented Multimodal Generation](http://arxiv.org/abs/2508.06328v1)** | 2025-08-08 |  |
-| **[Explaining Similarity in Vision-Language Encoders with Weighted Banzhaf Interactions](http://arxiv.org/abs/2508.05430v1)** | 2025-08-07 | Preprint |
 
