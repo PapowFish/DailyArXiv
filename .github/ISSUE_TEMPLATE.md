@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 14, 2025
+title: Latest 15 Papers - September 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -35,7 +35,7 @@ labels: documentation
 | **[VisR-Bench: An Empirical Study on Visual Retrieval-Augmented Generation for Multilingual Long Document Understanding](http://arxiv.org/abs/2508.07493v2)** | 2025-08-25 | Under Review |
 | **[Zero-shot Multimodal Document Retrieval via Cross-modal Question Generation](http://arxiv.org/abs/2508.17079v1)** | 2025-08-23 |  |
 | **[UniECS: Unified Multimodal E-Commerce Search Framework with Gated Cross-modal Fusion](http://arxiv.org/abs/2508.13843v1)** | 2025-08-19 | <details><summary>Accep...</summary><p>Accepted at CIKM2025 as a long paper</p></details> |
-| **[OMGM: Orchestrate Multiple Granularities and Modalities for Efficient Multimodal Retrieval](http://arxiv.org/abs/2505.07879v2)** | 2025-08-17 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 Main Conference; Codes available at: https://github.com/ChaoLinAViy/OMGM</p></details> |
+| **[OMGM: Orchestrate Multiple Granularities and Modalities for Efficient Multimodal Retrieval](http://arxiv.org/abs/2505.07879v3)** | 2025-09-12 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 Main Conference</p></details> |
 | **[MM-BrowseComp: A Comprehensive Benchmark for Multimodal Browsing Agents](http://arxiv.org/abs/2508.13186v1)** | 2025-08-14 | <details><summary>The f...</summary><p>The first two authors contribute equally, 26 pages, repo at https://github.com/MMBrowseComp/MM-BrowseComp</p></details> |
 | **[DeepWriter: A Fact-Grounded Multimodal Writing Assistant Based On Offline Knowledge Base](http://arxiv.org/abs/2507.14189v2)** | 2025-08-14 | work in process |
 | **[SMA: Who Said That? Auditing Membership Leakage in Semi-Black-box RAG Controlling](http://arxiv.org/abs/2508.09105v2)** | 2025-08-13 |  |
