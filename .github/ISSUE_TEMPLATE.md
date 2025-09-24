@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 23, 2025
+title: Latest 15 Papers - September 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VidCLearn: A Continual Learning Approach for Text-to-Video Generation](http://arxiv.org/abs/2509.16956v1)** | 2025-09-21 |  |
+| **[Captioning for Text-Video Retrieval via Dual-Group Direct Preference Optimization](http://arxiv.org/abs/2509.16560v1)** | 2025-09-20 | EMNLP 2025 Findings |
+| **[AutoArabic: A Three-Stage Framework for Localizing Video-Text Retrieval Benchmarks](http://arxiv.org/abs/2509.16438v1)** | 2025-09-19 | <details><summary>Accep...</summary><p>Accepted at ArabicNLP 2025 (EMNLP 2025 workshop)</p></details> |
 | **[Enhanced Partially Relevant Video Retrieval through Inter- and Intra-Sample Analysis with Coherence Prediction](http://arxiv.org/abs/2504.19637v2)** | 2025-09-08 |  |
 | **[Hybrid-Tower: Fine-grained Pseudo-query Interaction and Generation for Text-to-Video Retrieval](http://arxiv.org/abs/2509.04773v1)** | 2025-09-05 | Accepted to ICCV2025 |
 | **[Short-Form Video Recommendations with Multimodal Embeddings: Addressing Cold-Start and Bias Challenges](http://arxiv.org/abs/2507.19346v2)** | 2025-09-03 |  |
@@ -19,13 +22,13 @@ labels: documentation
 | **[VimoRAG: Video-based Retrieval-augmented 3D Motion Generation for Motion Language Models](http://arxiv.org/abs/2508.12081v1)** | 2025-08-16 | 20 pages,13 figures |
 | **[TrajSV: A Trajectory-based Model for Sports Video Representations and Applications](http://arxiv.org/abs/2508.11569v1)** | 2025-08-15 | <details><summary>This ...</summary><p>This paper has been accepted by TCSVT</p></details> |
 | **[Multimodal LLM-based Query Paraphrasing for Video Search](http://arxiv.org/abs/2407.12341v2)** | 2025-08-13 |  |
-| **[Adversarial Video Promotion Against Text-to-Video Retrieval](http://arxiv.org/abs/2508.06964v2)** | 2025-08-12 |  |
-| **[Bidirectional Likelihood Estimation with Multi-Modal Large Language Models for Text-Video Retrieval](http://arxiv.org/abs/2507.23284v2)** | 2025-08-06 | ICCV 2025 Highlight |
-| **[GAID: Frame-Level Gated Audio-Visual Integration with Directional Perturbation for Text-Video Retrieval](http://arxiv.org/abs/2508.01711v1)** | 2025-08-03 |  |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MetaEmbed: Scaling Multimodal Retrieval at Test-Time with Flexible Late Interaction](http://arxiv.org/abs/2509.18095v1)** | 2025-09-22 |  |
+| **[A Multimodal Conversational Assistant for the Characterization of Agricultural Plots from Geospatial Open Data](http://arxiv.org/abs/2509.17544v2)** | 2025-09-23 | <details><summary>Accep...</summary><p>Accepted at 2025 4th International Conference on Geographic Information and Remote Sensing Technology</p></details> |
+| **[MPIC: Position-Independent Multimodal Context Caching System for Efficient MLLM Serving](http://arxiv.org/abs/2502.01960v2)** | 2025-09-20 | <details><summary>17 pa...</summary><p>17 pages, 13 figures, the second version</p></details> |
 | **[Rate-Distortion Limits for Multimodal Retrieval: Theory, Optimal Codes, and Finite-Sample Guarantees](http://arxiv.org/abs/2509.11054v1)** | 2025-09-14 | ICCV MRR 2025 |
 | **[A Survey on Retrieval And Structuring Augmented Generation with Large Language Models](http://arxiv.org/abs/2509.10697v1)** | 2025-09-12 | KDD'25 survey track |
 | **[OMGM: Orchestrate Multiple Granularities and Modalities for Efficient Multimodal Retrieval](http://arxiv.org/abs/2505.07879v3)** | 2025-09-12 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 Main Conference</p></details> |
@@ -38,7 +41,4 @@ labels: documentation
 | **[AlzheimerRAG: Multimodal Retrieval Augmented Generation for Clinical Use Cases using PubMed articles](http://arxiv.org/abs/2412.16701v3)** | 2025-08-30 |  |
 | **[VisR-Bench: An Empirical Study on Visual Retrieval-Augmented Generation for Multilingual Long Document Understanding](http://arxiv.org/abs/2508.07493v2)** | 2025-08-25 | Under Review |
 | **[Zero-shot Multimodal Document Retrieval via Cross-modal Question Generation](http://arxiv.org/abs/2508.17079v1)** | 2025-08-23 |  |
-| **[UniECS: Unified Multimodal E-Commerce Search Framework with Gated Cross-modal Fusion](http://arxiv.org/abs/2508.13843v1)** | 2025-08-19 | <details><summary>Accep...</summary><p>Accepted at CIKM2025 as a long paper</p></details> |
-| **[MM-BrowseComp: A Comprehensive Benchmark for Multimodal Browsing Agents](http://arxiv.org/abs/2508.13186v1)** | 2025-08-14 | <details><summary>The f...</summary><p>The first two authors contribute equally, 26 pages, repo at https://github.com/MMBrowseComp/MM-BrowseComp</p></details> |
-| **[DeepWriter: A Fact-Grounded Multimodal Writing Assistant Based On Offline Knowledge Base](http://arxiv.org/abs/2507.14189v2)** | 2025-08-14 | work in process |
 
