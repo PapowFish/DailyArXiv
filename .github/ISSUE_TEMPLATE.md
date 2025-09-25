@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 24, 2025
+title: Latest 15 Papers - September 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ConViS-Bench: Estimating Video Similarity Through Semantic Concepts](http://arxiv.org/abs/2509.19245v1)** | 2025-09-23 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
 | **[VidCLearn: A Continual Learning Approach for Text-to-Video Generation](http://arxiv.org/abs/2509.16956v1)** | 2025-09-21 |  |
 | **[Captioning for Text-Video Retrieval via Dual-Group Direct Preference Optimization](http://arxiv.org/abs/2509.16560v1)** | 2025-09-20 | EMNLP 2025 Findings |
 | **[AutoArabic: A Three-Stage Framework for Localizing Video-Text Retrieval Benchmarks](http://arxiv.org/abs/2509.16438v1)** | 2025-09-19 | <details><summary>Accep...</summary><p>Accepted at ArabicNLP 2025 (EMNLP 2025 workshop)</p></details> |
@@ -21,13 +22,12 @@ labels: documentation
 | **[Beyond Simple Edits: Composed Video Retrieval with Dense Modifications](http://arxiv.org/abs/2508.14039v1)** | 2025-08-19 | <details><summary>Accep...</summary><p>Accepted to ICCV-2025</p></details> |
 | **[VimoRAG: Video-based Retrieval-augmented 3D Motion Generation for Motion Language Models](http://arxiv.org/abs/2508.12081v1)** | 2025-08-16 | 20 pages,13 figures |
 | **[TrajSV: A Trajectory-based Model for Sports Video Representations and Applications](http://arxiv.org/abs/2508.11569v1)** | 2025-08-15 | <details><summary>This ...</summary><p>This paper has been accepted by TCSVT</p></details> |
-| **[Multimodal LLM-based Query Paraphrasing for Video Search](http://arxiv.org/abs/2407.12341v2)** | 2025-08-13 |  |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MetaEmbed: Scaling Multimodal Retrieval at Test-Time with Flexible Late Interaction](http://arxiv.org/abs/2509.18095v1)** | 2025-09-22 |  |
 | **[A Multimodal Conversational Assistant for the Characterization of Agricultural Plots from Geospatial Open Data](http://arxiv.org/abs/2509.17544v2)** | 2025-09-23 | <details><summary>Accep...</summary><p>Accepted at 2025 4th International Conference on Geographic Information and Remote Sensing Technology</p></details> |
+| **[MetaEmbed: Scaling Multimodal Retrieval at Test-Time with Flexible Late Interaction](http://arxiv.org/abs/2509.18095v1)** | 2025-09-22 |  |
 | **[MPIC: Position-Independent Multimodal Context Caching System for Efficient MLLM Serving](http://arxiv.org/abs/2502.01960v2)** | 2025-09-20 | <details><summary>17 pa...</summary><p>17 pages, 13 figures, the second version</p></details> |
 | **[Rate-Distortion Limits for Multimodal Retrieval: Theory, Optimal Codes, and Finite-Sample Guarantees](http://arxiv.org/abs/2509.11054v1)** | 2025-09-14 | ICCV MRR 2025 |
 | **[A Survey on Retrieval And Structuring Augmented Generation with Large Language Models](http://arxiv.org/abs/2509.10697v1)** | 2025-09-12 | KDD'25 survey track |
