@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 25, 2025
+title: Latest 15 Papers - September 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,9 @@ labels: documentation
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Provenance Analysis of Archaeological Artifacts via Multimodal RAG Systems](http://arxiv.org/abs/2509.20769v1)** | 2025-09-25 |  |
+| **[RadAgents: Multimodal Agentic Reasoning for Chest X-ray Interpretation with Radiologist-like Workflows](http://arxiv.org/abs/2509.20490v1)** | 2025-09-24 | In progress |
+| **[When Words Can't Capture It All: Towards Video-Based User Complaint Text Generation with Multimodal Video Complaint Dataset](http://arxiv.org/abs/2509.19952v1)** | 2025-09-24 |  |
 | **[A Multimodal Conversational Assistant for the Characterization of Agricultural Plots from Geospatial Open Data](http://arxiv.org/abs/2509.17544v2)** | 2025-09-23 | <details><summary>Accep...</summary><p>Accepted at 2025 4th International Conference on Geographic Information and Remote Sensing Technology</p></details> |
 | **[MetaEmbed: Scaling Multimodal Retrieval at Test-Time with Flexible Late Interaction](http://arxiv.org/abs/2509.18095v1)** | 2025-09-22 |  |
 | **[MPIC: Position-Independent Multimodal Context Caching System for Efficient MLLM Serving](http://arxiv.org/abs/2502.01960v2)** | 2025-09-20 | <details><summary>17 pa...</summary><p>17 pages, 13 figures, the second version</p></details> |
@@ -38,7 +41,4 @@ labels: documentation
 | **[Lightweight Joint Optimization of General-Purpose Vision-Language Models and Retrievers for Medical Diagnosis](http://arxiv.org/abs/2508.17394v2)** | 2025-08-31 |  |
 | **[PS-ReID: Advancing Person Re-Identification and Precise Segmentation with Multimodal Retrieval](http://arxiv.org/abs/2503.21595v2)** | 2025-08-31 |  |
 | **[EVENT-Retriever: Event-Aware Multimodal Image Retrieval for Realistic Captions](http://arxiv.org/abs/2509.00751v1)** | 2025-08-31 | ACM Multimedia 2025 |
-| **[AlzheimerRAG: Multimodal Retrieval Augmented Generation for Clinical Use Cases using PubMed articles](http://arxiv.org/abs/2412.16701v3)** | 2025-08-30 |  |
-| **[VisR-Bench: An Empirical Study on Visual Retrieval-Augmented Generation for Multilingual Long Document Understanding](http://arxiv.org/abs/2508.07493v2)** | 2025-08-25 | Under Review |
-| **[Zero-shot Multimodal Document Retrieval via Cross-modal Question Generation](http://arxiv.org/abs/2508.17079v1)** | 2025-08-23 |  |
 
