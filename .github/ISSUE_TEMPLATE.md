@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 29, 2025
+title: Latest 15 Papers - September 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[X-CoT: Explainable Text-to-Video Retrieval via LLM-based Chain-of-Thought Reasoning](http://arxiv.org/abs/2509.21559v1)** | 2025-09-25 | <details><summary>12 pa...</summary><p>12 pages, 7 figures. Accepted at EMNLP 2025 (Main Conference)</p></details> |
 | **[ConViS-Bench: Estimating Video Similarity Through Semantic Concepts](http://arxiv.org/abs/2509.19245v1)** | 2025-09-23 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
 | **[VidCLearn: A Continual Learning Approach for Text-to-Video Generation](http://arxiv.org/abs/2509.16956v1)** | 2025-09-21 |  |
 | **[Captioning for Text-Video Retrieval via Dual-Group Direct Preference Optimization](http://arxiv.org/abs/2509.16560v1)** | 2025-09-20 | EMNLP 2025 Findings |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Repeating Words for Video-Language Retrieval with Coarse-to-Fine Objectives](http://arxiv.org/abs/2508.14812v1)** | 2025-08-20 | 11 pages, 4 figures |
 | **[Beyond Simple Edits: Composed Video Retrieval with Dense Modifications](http://arxiv.org/abs/2508.14039v1)** | 2025-08-19 | <details><summary>Accep...</summary><p>Accepted to ICCV-2025</p></details> |
 | **[VimoRAG: Video-based Retrieval-augmented 3D Motion Generation for Motion Language Models](http://arxiv.org/abs/2508.12081v1)** | 2025-08-16 | 20 pages,13 figures |
-| **[TrajSV: A Trajectory-based Model for Sports Video Representations and Applications](http://arxiv.org/abs/2508.11569v1)** | 2025-08-15 | <details><summary>This ...</summary><p>This paper has been accepted by TCSVT</p></details> |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
