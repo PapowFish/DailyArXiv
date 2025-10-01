@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 30, 2025
+title: Latest 15 Papers - October 01, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Bidirectional Likelihood Estimation with Multi-Modal Large Language Models for Text-Video Retrieval](http://arxiv.org/abs/2507.23284v3)** | 2025-09-29 | ICCV 2025 Highlight |
 | **[X-CoT: Explainable Text-to-Video Retrieval via LLM-based Chain-of-Thought Reasoning](http://arxiv.org/abs/2509.21559v1)** | 2025-09-25 | <details><summary>12 pa...</summary><p>12 pages, 7 figures. Accepted at EMNLP 2025 (Main Conference)</p></details> |
 | **[ConViS-Bench: Estimating Video Similarity Through Semantic Concepts](http://arxiv.org/abs/2509.19245v1)** | 2025-09-23 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
 | **[VidCLearn: A Continual Learning Approach for Text-to-Video Generation](http://arxiv.org/abs/2509.16956v1)** | 2025-09-21 |  |
@@ -21,11 +22,11 @@ labels: documentation
 | **[ProPy: Building Interactive Prompt Pyramids upon CLIP for Partially Relevant Video Retrieval](http://arxiv.org/abs/2508.19024v1)** | 2025-08-26 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2025 Findings</p></details> |
 | **[Repeating Words for Video-Language Retrieval with Coarse-to-Fine Objectives](http://arxiv.org/abs/2508.14812v1)** | 2025-08-20 | 11 pages, 4 figures |
 | **[Beyond Simple Edits: Composed Video Retrieval with Dense Modifications](http://arxiv.org/abs/2508.14039v1)** | 2025-08-19 | <details><summary>Accep...</summary><p>Accepted to ICCV-2025</p></details> |
-| **[VimoRAG: Video-based Retrieval-augmented 3D Motion Generation for Motion Language Models](http://arxiv.org/abs/2508.12081v1)** | 2025-08-16 | 20 pages,13 figures |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MRAG-Suite: A Diagnostic Evaluation Platform for Visual Retrieval-Augmented Generation](http://arxiv.org/abs/2509.24253v1)** | 2025-09-29 |  |
 | **[Provenance Analysis of Archaeological Artifacts via Multimodal RAG Systems](http://arxiv.org/abs/2509.20769v1)** | 2025-09-25 |  |
 | **[RadAgents: Multimodal Agentic Reasoning for Chest X-ray Interpretation with Radiologist-like Workflows](http://arxiv.org/abs/2509.20490v1)** | 2025-09-24 | In progress |
 | **[When Words Can't Capture It All: Towards Video-Based User Complaint Text Generation with Multimodal Video Complaint Dataset](http://arxiv.org/abs/2509.19952v1)** | 2025-09-24 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[Vector embedding of multi-modal texts: a tool for discovery?](http://arxiv.org/abs/2509.08216v1)** | 2025-09-10 |  |
 | **[Lightweight Joint Optimization of General-Purpose Vision-Language Models and Retrievers for Medical Diagnosis](http://arxiv.org/abs/2508.17394v2)** | 2025-08-31 |  |
 | **[PS-ReID: Advancing Person Re-Identification and Precise Segmentation with Multimodal Retrieval](http://arxiv.org/abs/2503.21595v2)** | 2025-08-31 |  |
-| **[EVENT-Retriever: Event-Aware Multimodal Image Retrieval for Realistic Captions](http://arxiv.org/abs/2509.00751v1)** | 2025-08-31 | ACM Multimedia 2025 |
 
