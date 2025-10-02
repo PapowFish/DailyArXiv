@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 01, 2025
+title: Latest 15 Papers - October 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MR$^2$-Bench: Going Beyond Matching to Reasoning in Multimodal Retrieval](http://arxiv.org/abs/2509.26378v1)** | 2025-09-30 |  |
+| **[Generalized Contrastive Learning for Universal Multimodal Retrieval](http://arxiv.org/abs/2509.25638v1)** | 2025-09-30 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
 | **[MRAG-Suite: A Diagnostic Evaluation Platform for Visual Retrieval-Augmented Generation](http://arxiv.org/abs/2509.24253v1)** | 2025-09-29 |  |
 | **[Provenance Analysis of Archaeological Artifacts via Multimodal RAG Systems](http://arxiv.org/abs/2509.20769v1)** | 2025-09-25 |  |
 | **[RadAgents: Multimodal Agentic Reasoning for Chest X-ray Interpretation with Radiologist-like Workflows](http://arxiv.org/abs/2509.20490v1)** | 2025-09-24 | In progress |
@@ -39,6 +41,4 @@ labels: documentation
 | **[Recurrence Meets Transformers for Universal Multimodal Retrieval](http://arxiv.org/abs/2509.08897v1)** | 2025-09-10 |  |
 | **[A Multimodal RAG Framework for Housing Damage Assessment: Collaborative Optimization of Image Encoding and Policy Vector Retrieval](http://arxiv.org/abs/2509.09721v1)** | 2025-09-10 |  |
 | **[Vector embedding of multi-modal texts: a tool for discovery?](http://arxiv.org/abs/2509.08216v1)** | 2025-09-10 |  |
-| **[Lightweight Joint Optimization of General-Purpose Vision-Language Models and Retrievers for Medical Diagnosis](http://arxiv.org/abs/2508.17394v2)** | 2025-08-31 |  |
-| **[PS-ReID: Advancing Person Re-Identification and Precise Segmentation with Multimodal Retrieval](http://arxiv.org/abs/2503.21595v2)** | 2025-08-31 |  |
 
