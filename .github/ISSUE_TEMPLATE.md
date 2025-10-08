@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 07, 2025
+title: Latest 15 Papers - October 08, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Watch and Learn: Learning to Use Computers from Online Videos](http://arxiv.org/abs/2510.04673v1)** | 2025-10-06 |  |
+| **[Evaluating Keyframe Layouts for Visual Known-Item Search in Homogeneous Collections](http://arxiv.org/abs/2510.04396v1)** | 2025-10-05 | 28 Pages, 17 Figures |
+| **[Omni-Embed-Nemotron: A Unified Multimodal Retrieval Model for Text, Image, Audio, and Video](http://arxiv.org/abs/2510.03458v1)** | 2025-10-03 |  |
 | **[Panorama: Fast-Track Nearest Neighbors](http://arxiv.org/abs/2510.00566v1)** | 2025-10-01 |  |
 | **[Bidirectional Likelihood Estimation with Multi-Modal Large Language Models for Text-Video Retrieval](http://arxiv.org/abs/2507.23284v3)** | 2025-09-29 | ICCV 2025 Highlight |
 | **[X-CoT: Explainable Text-to-Video Retrieval via LLM-based Chain-of-Thought Reasoning](http://arxiv.org/abs/2509.21559v1)** | 2025-09-25 | <details><summary>12 pa...</summary><p>12 pages, 7 figures. Accepted at EMNLP 2025 (Main Conference)</p></details> |
@@ -19,13 +22,13 @@ labels: documentation
 | **[Short-Form Video Recommendations with Multimodal Embeddings: Addressing Cold-Start and Bias Challenges](http://arxiv.org/abs/2507.19346v2)** | 2025-09-03 |  |
 | **[Enhancing Partially Relevant Video Retrieval with Robust Alignment Learning](http://arxiv.org/abs/2509.01383v1)** | 2025-09-01 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025</p></details> |
 | **[Leveraging Modality Tags for Enhanced Cross-Modal Video Retrieval](http://arxiv.org/abs/2504.01591v3)** | 2025-08-31 | <details><summary>Accep...</summary><p>Accepted at BMVC 2025</p></details> |
-| **[Multi-Focused Video Group Activities Hashing](http://arxiv.org/abs/2509.00490v1)** | 2025-08-30 |  |
-| **[ProPy: Building Interactive Prompt Pyramids upon CLIP for Partially Relevant Video Retrieval](http://arxiv.org/abs/2508.19024v1)** | 2025-08-26 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2025 Findings</p></details> |
-| **[Repeating Words for Video-Language Retrieval with Coarse-to-Fine Objectives](http://arxiv.org/abs/2508.14812v1)** | 2025-08-20 | 11 pages, 4 figures |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Guided Query Refinement: Multimodal Hybrid Retrieval with Test-Time Optimization](http://arxiv.org/abs/2510.05038v1)** | 2025-10-06 |  |
+| **[UNIDOC-BENCH: A Unified Benchmark for Document-Centric Multimodal RAG](http://arxiv.org/abs/2510.03663v1)** | 2025-10-04 |  |
+| **[Omni-Embed-Nemotron: A Unified Multimodal Retrieval Model for Text, Image, Audio, and Video](http://arxiv.org/abs/2510.03458v1)** | 2025-10-03 |  |
 | **[Retrv-R1: A Reasoning-Driven MLLM Framework for Universal and Efficient Multimodal Retrieval](http://arxiv.org/abs/2510.02745v1)** | 2025-10-03 | NeurIPS 2025 |
 | **[MR$^2$-Bench: Going Beyond Matching to Reasoning in Multimodal Retrieval](http://arxiv.org/abs/2509.26378v1)** | 2025-09-30 |  |
 | **[Generalized Contrastive Learning for Universal Multimodal Retrieval](http://arxiv.org/abs/2509.25638v1)** | 2025-09-30 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
@@ -38,7 +41,4 @@ labels: documentation
 | **[MPIC: Position-Independent Multimodal Context Caching System for Efficient MLLM Serving](http://arxiv.org/abs/2502.01960v2)** | 2025-09-20 | <details><summary>17 pa...</summary><p>17 pages, 13 figures, the second version</p></details> |
 | **[Rate-Distortion Limits for Multimodal Retrieval: Theory, Optimal Codes, and Finite-Sample Guarantees](http://arxiv.org/abs/2509.11054v1)** | 2025-09-14 | ICCV MRR 2025 |
 | **[A Survey on Retrieval And Structuring Augmented Generation with Large Language Models](http://arxiv.org/abs/2509.10697v1)** | 2025-09-12 | KDD'25 survey track |
-| **[OMGM: Orchestrate Multiple Granularities and Modalities for Efficient Multimodal Retrieval](http://arxiv.org/abs/2505.07879v3)** | 2025-09-12 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 Main Conference</p></details> |
-| **[Recurrence Meets Transformers for Universal Multimodal Retrieval](http://arxiv.org/abs/2509.08897v1)** | 2025-09-10 |  |
-| **[A Multimodal RAG Framework for Housing Damage Assessment: Collaborative Optimization of Image Encoding and Policy Vector Retrieval](http://arxiv.org/abs/2509.09721v1)** | 2025-09-10 |  |
 
