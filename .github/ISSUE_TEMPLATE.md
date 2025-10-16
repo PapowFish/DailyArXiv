@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 15, 2025
+title: Latest 15 Papers - October 16, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Dual Learning with Dynamic Knowledge Distillation and Soft Alignment for Partially Relevant Video Retrieval](http://arxiv.org/abs/2510.12283v1)** | 2025-10-14 |  |
 | **[TCMA: Text-Conditioned Multi-granularity Alignment for Drone Cross-Modal Text-Video Retrieval](http://arxiv.org/abs/2510.10180v1)** | 2025-10-11 |  |
 | **[Panorama: Fast-Track Nearest Neighbors](http://arxiv.org/abs/2510.00566v2)** | 2025-10-09 |  |
 | **[TransMamba: Fast Universal Architecture Adaption from Transformers to Mamba](http://arxiv.org/abs/2502.15130v2)** | 2025-10-09 |  |
@@ -17,10 +18,16 @@ labels: documentation
 | **[Evaluating Keyframe Layouts for Visual Known-Item Search in Homogeneous Collections](http://arxiv.org/abs/2510.04396v1)** | 2025-10-05 | 28 Pages, 17 Figures |
 | **[Omni-Embed-Nemotron: A Unified Multimodal Retrieval Model for Text, Image, Audio, and Video](http://arxiv.org/abs/2510.03458v1)** | 2025-10-03 |  |
 | **[Bidirectional Likelihood Estimation with Multi-Modal Large Language Models for Text-Video Retrieval](http://arxiv.org/abs/2507.23284v3)** | 2025-09-29 | ICCV 2025 Highlight |
+| **[X-CoT: Explainable Text-to-Video Retrieval via LLM-based Chain-of-Thought Reasoning](http://arxiv.org/abs/2509.21559v1)** | 2025-09-25 | <details><summary>12 pa...</summary><p>12 pages, 7 figures. Accepted at EMNLP 2025 (Main Conference)</p></details> |
+| **[ConViS-Bench: Estimating Video Similarity Through Semantic Concepts](http://arxiv.org/abs/2509.19245v1)** | 2025-09-23 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
+| **[VidCLearn: A Continual Learning Approach for Text-to-Video Generation](http://arxiv.org/abs/2509.16956v1)** | 2025-09-21 |  |
+| **[Captioning for Text-Video Retrieval via Dual-Group Direct Preference Optimization](http://arxiv.org/abs/2509.16560v1)** | 2025-09-20 | EMNLP 2025 Findings |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Highlighting What Matters: Promptable Embeddings for Attribute-Focused Image Retrieval](http://arxiv.org/abs/2505.15877v2)** | 2025-10-14 | <details><summary>NeurI...</summary><p>NeurIPS 2025; 27 pages, 6 figures</p></details> |
+| **[PRISM: Enhancing Protein Inverse Folding through Fine-Grained Retrieval on Structure-Sequence Multimodal Representations](http://arxiv.org/abs/2510.11750v1)** | 2025-10-12 |  |
 | **[Lightweight Joint Optimization of General-Purpose Vision-Language Models and Retrievers for RAG-Based Medical Diagnosis](http://arxiv.org/abs/2508.17394v3)** | 2025-10-11 |  |
 | **[MRMR: A Realistic and Expert-Level Multidisciplinary Benchmark for Reasoning-Intensive Multimodal Retrieval](http://arxiv.org/abs/2510.09510v1)** | 2025-10-10 |  |
 | **[Robustness in Both Domains: CLIP Needs a Robust Text Encoder](http://arxiv.org/abs/2506.03355v2)** | 2025-10-10 | <details><summary>Accep...</summary><p>Accepted in NeurIPS 2025</p></details> |
@@ -34,6 +41,4 @@ labels: documentation
 | **[MR$^2$-Bench: Going Beyond Matching to Reasoning in Multimodal Retrieval](http://arxiv.org/abs/2509.26378v1)** | 2025-09-30 |  |
 | **[Generalized Contrastive Learning for Universal Multimodal Retrieval](http://arxiv.org/abs/2509.25638v1)** | 2025-09-30 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
 | **[MRAG-Suite: A Diagnostic Evaluation Platform for Visual Retrieval-Augmented Generation](http://arxiv.org/abs/2509.24253v1)** | 2025-09-29 |  |
-| **[Provenance Analysis of Archaeological Artifacts via Multimodal RAG Systems](http://arxiv.org/abs/2509.20769v1)** | 2025-09-25 |  |
-| **[RadAgents: Multimodal Agentic Reasoning for Chest X-ray Interpretation with Radiologist-like Workflows](http://arxiv.org/abs/2509.20490v1)** | 2025-09-24 | In progress |
 
