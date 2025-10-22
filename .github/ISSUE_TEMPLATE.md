@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 21, 2025
+title: Latest 15 Papers - October 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VimoRAG: Video-based Retrieval-augmented 3D Motion Generation for Motion Language Models](http://arxiv.org/abs/2508.12081v2)** | 2025-10-20 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025; Project Page: https://walkermitty.github.io/VimoRAG</p></details> |
+| **[RefAtomNet++: Advancing Referring Atomic Video Action Recognition using Semantic Retrieval based Multi-Trajectory Mamba](http://arxiv.org/abs/2510.16444v1)** | 2025-10-18 | <details><summary>Exten...</summary><p>Extended version of ECCV 2024 paper arXiv:2407.01872. The dataset and code are released at https://github.com/KPeng9510/refAVA2</p></details> |
 | **[Dual Learning with Dynamic Knowledge Distillation and Soft Alignment for Partially Relevant Video Retrieval](http://arxiv.org/abs/2510.12283v1)** | 2025-10-14 |  |
 | **[TCMA: Text-Conditioned Multi-granularity Alignment for Drone Cross-Modal Text-Video Retrieval](http://arxiv.org/abs/2510.10180v1)** | 2025-10-11 |  |
 | **[Panorama: Fast-Track Nearest Neighbors](http://arxiv.org/abs/2510.00566v2)** | 2025-10-09 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Bidirectional Likelihood Estimation with Multi-Modal Large Language Models for Text-Video Retrieval](http://arxiv.org/abs/2507.23284v3)** | 2025-09-29 | ICCV 2025 Highlight |
 | **[X-CoT: Explainable Text-to-Video Retrieval via LLM-based Chain-of-Thought Reasoning](http://arxiv.org/abs/2509.21559v1)** | 2025-09-25 | <details><summary>12 pa...</summary><p>12 pages, 7 figures. Accepted at EMNLP 2025 (Main Conference)</p></details> |
 | **[ConViS-Bench: Estimating Video Similarity Through Semantic Concepts](http://arxiv.org/abs/2509.19245v1)** | 2025-09-23 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
-| **[VidCLearn: A Continual Learning Approach for Text-to-Video Generation](http://arxiv.org/abs/2509.16956v1)** | 2025-09-21 |  |
-| **[Captioning for Text-Video Retrieval via Dual-Group Direct Preference Optimization](http://arxiv.org/abs/2509.16560v1)** | 2025-09-20 | EMNLP 2025 Findings |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
