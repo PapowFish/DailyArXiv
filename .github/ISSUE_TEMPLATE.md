@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 28, 2025
+title: Latest 15 Papers - October 29, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -10,6 +10,7 @@ labels: documentation
 | **[MUVR: A Multi-Modal Untrimmed Video Retrieval Benchmark with Multi-Level Visual Correspondence](http://arxiv.org/abs/2510.21406v1)** | 2025-10-24 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025 D&B Track</p></details> |
 | **[Panorama: Fast-Track Nearest Neighbors](http://arxiv.org/abs/2510.00566v3)** | 2025-10-23 |  |
 | **[Rebalancing Contrastive Alignment with Bottlenecked Semantic Increments in Text-Video Retrieval](http://arxiv.org/abs/2505.12499v5)** | 2025-10-23 |  |
+| **[Frame-Difference Guided Dynamic Region Perception for CLIP Adaptation in Text-Video Retrieval](http://arxiv.org/abs/2510.21806v1)** | 2025-10-21 | 5 pages |
 | **[VimoRAG: Video-based Retrieval-augmented 3D Motion Generation for Motion Language Models](http://arxiv.org/abs/2508.12081v2)** | 2025-10-20 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025; Project Page: https://walkermitty.github.io/VimoRAG</p></details> |
 | **[RefAtomNet++: Advancing Referring Atomic Video Action Recognition using Semantic Retrieval based Multi-Trajectory Mamba](http://arxiv.org/abs/2510.16444v1)** | 2025-10-18 | <details><summary>Exten...</summary><p>Extended version of ECCV 2024 paper arXiv:2407.01872. The dataset and code are released at https://github.com/KPeng9510/refAVA2</p></details> |
 | **[Dual Learning with Dynamic Knowledge Distillation and Soft Alignment for Partially Relevant Video Retrieval](http://arxiv.org/abs/2510.12283v1)** | 2025-10-14 |  |
@@ -21,11 +22,14 @@ labels: documentation
 | **[Watch and Learn: Learning to Use Computers from Online Videos](http://arxiv.org/abs/2510.04673v1)** | 2025-10-06 |  |
 | **[Evaluating Keyframe Layouts for Visual Known-Item Search in Homogeneous Collections](http://arxiv.org/abs/2510.04396v1)** | 2025-10-05 | 28 Pages, 17 Figures |
 | **[Omni-Embed-Nemotron: A Unified Multimodal Retrieval Model for Text, Image, Audio, and Video](http://arxiv.org/abs/2510.03458v1)** | 2025-10-03 |  |
-| **[Bidirectional Likelihood Estimation with Multi-Modal Large Language Models for Text-Video Retrieval](http://arxiv.org/abs/2507.23284v3)** | 2025-09-29 | ICCV 2025 Highlight |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Windsock is Dancing: Adaptive Multimodal Retrieval-Augmented Generation](http://arxiv.org/abs/2510.22694v1)** | 2025-10-26 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025 UniReps Workshop</p></details> |
+| **[Open Multimodal Retrieval-Augmented Factual Image Generation](http://arxiv.org/abs/2510.22521v1)** | 2025-10-26 | Preprint |
+| **[Retrv-R1: A Reasoning-Driven MLLM Framework for Universal and Efficient Multimodal Retrieval](http://arxiv.org/abs/2510.02745v2)** | 2025-10-25 | NeurIPS 2025 |
+| **[TRACE: Grounding Time Series in Context for Multimodal Embedding and Retrieval](http://arxiv.org/abs/2506.09114v2)** | 2025-10-24 |  |
 | **[MCA: Modality Composition Awareness for Robust Composed Multimodal Retrieval](http://arxiv.org/abs/2510.15543v1)** | 2025-10-17 |  |
 | **[Scaling Beyond Context: A Survey of Multimodal Retrieval-Augmented Generation for Document Understanding](http://arxiv.org/abs/2510.15253v1)** | 2025-10-17 |  |
 | **[Supervised Fine-Tuning or Contrastive Learning? Towards Better Multimodal LLM Reranking](http://arxiv.org/abs/2510.14824v1)** | 2025-10-16 |  |
@@ -37,8 +41,4 @@ labels: documentation
 | **[MRMR: A Realistic and Expert-Level Multidisciplinary Benchmark for Reasoning-Intensive Multimodal Retrieval](http://arxiv.org/abs/2510.09510v1)** | 2025-10-10 |  |
 | **[Robustness in Both Domains: CLIP Needs a Robust Text Encoder](http://arxiv.org/abs/2506.03355v2)** | 2025-10-10 | <details><summary>Accep...</summary><p>Accepted in NeurIPS 2025</p></details> |
 | **[CFVBench: A Comprehensive Video Benchmark for Fine-grained Multimodal Retrieval-Augmented Generation](http://arxiv.org/abs/2510.09266v1)** | 2025-10-10 |  |
-| **[UNIDOC-BENCH: A Unified Benchmark for Document-Centric Multimodal RAG](http://arxiv.org/abs/2510.03663v2)** | 2025-10-09 |  |
-| **[M3Retrieve: Benchmarking Multimodal Retrieval for Medicine](http://arxiv.org/abs/2510.06888v1)** | 2025-10-08 | EMNLP Mains 2025 |
-| **[Efficient Discriminative Joint Encoders for Large Scale Vision-Language Reranking](http://arxiv.org/abs/2510.06820v1)** | 2025-10-08 | preprint |
-| **[Guided Query Refinement: Multimodal Hybrid Retrieval with Test-Time Optimization](http://arxiv.org/abs/2510.05038v1)** | 2025-10-06 |  |
 
