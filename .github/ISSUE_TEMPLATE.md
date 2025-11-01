@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 31, 2025
+title: Latest 15 Papers - November 01, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Empowering Agentic Video Analytics Systems with Video Language Models](http://arxiv.org/abs/2505.00254v4)** | 2025-10-30 | <details><summary>Accep...</summary><p>Accepted to NDSI 2026, 19pages, 12 figures, complementary evaluations and appendix</p></details> |
+| **[Learning World Models for Interactive Video Generation](http://arxiv.org/abs/2505.21996v2)** | 2025-10-29 | <details><summary>Proje...</summary><p>Project page: https://sites.google.com/view/vrag</p></details> |
 | **[MUVR: A Multi-Modal Untrimmed Video Retrieval Benchmark with Multi-Level Visual Correspondence](http://arxiv.org/abs/2510.21406v1)** | 2025-10-24 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025 D&B Track</p></details> |
 | **[Panorama: Fast-Track Nearest Neighbors](http://arxiv.org/abs/2510.00566v3)** | 2025-10-23 |  |
 | **[Rebalancing Contrastive Alignment with Bottlenecked Semantic Increments in Text-Video Retrieval](http://arxiv.org/abs/2505.12499v5)** | 2025-10-23 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[PRVR: Partially Relevant Video Retrieval](http://arxiv.org/abs/2208.12510v2)** | 2025-10-09 | <details><summary>Accep...</summary><p>Accepted by TPAMI. The paper's homepage is https://github.com/HuiGuanLab/ms-sl-pp</p></details> |
 | **[LogSTOP: Temporal Scores over Prediction Sequences for Matching and Retrieval](http://arxiv.org/abs/2510.06512v1)** | 2025-10-07 |  |
 | **[Watch and Learn: Learning to Use Computers from Online Videos](http://arxiv.org/abs/2510.04673v1)** | 2025-10-06 |  |
-| **[Evaluating Keyframe Layouts for Visual Known-Item Search in Homogeneous Collections](http://arxiv.org/abs/2510.04396v1)** | 2025-10-05 | 28 Pages, 17 Figures |
-| **[Omni-Embed-Nemotron: A Unified Multimodal Retrieval Model for Text, Image, Audio, and Video](http://arxiv.org/abs/2510.03458v1)** | 2025-10-03 |  |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
