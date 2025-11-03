@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 02, 2025
+title: Latest 15 Papers - November 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,7 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Empowering Agentic Video Analytics Systems with Video Language Models](http://arxiv.org/abs/2505.00254v4)** | 2025-10-30 | <details><summary>Accep...</summary><p>Accepted to NDSI 2026, 19pages, 12 figures, complementary evaluations and appendix</p></details> |
+| **[AVA: Towards Agentic Video Analytics with Vision Language Models](http://arxiv.org/abs/2505.00254v5)** | 2025-10-31 | <details><summary>Accep...</summary><p>Accepted to NDSI 2026, 19pages, 12 figures, complementary evaluations and appendix</p></details> |
 | **[Learning World Models for Interactive Video Generation](http://arxiv.org/abs/2505.21996v2)** | 2025-10-29 | <details><summary>Proje...</summary><p>Project page: https://sites.google.com/view/vrag</p></details> |
 | **[MUVR: A Multi-Modal Untrimmed Video Retrieval Benchmark with Multi-Level Visual Correspondence](http://arxiv.org/abs/2510.21406v1)** | 2025-10-24 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025 D&B Track</p></details> |
 | **[Panorama: Fast-Track Nearest Neighbors](http://arxiv.org/abs/2510.00566v3)** | 2025-10-23 |  |
@@ -36,4 +36,9 @@ labels: documentation
 | **[Scaling Beyond Context: A Survey of Multimodal Retrieval-Augmented Generation for Document Understanding](http://arxiv.org/abs/2510.15253v1)** | 2025-10-17 |  |
 | **[Supervised Fine-Tuning or Contrastive Learning? Towards Better Multimodal LLM Reranking](http://arxiv.org/abs/2510.14824v1)** | 2025-10-16 |  |
 | **[Multimodal RAG for Unstructured Data:Leveraging Modality-Aware Knowledge Graphs with Hybrid Retrieval](http://arxiv.org/abs/2510.14592v1)** | 2025-10-16 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, submitted for review</p></details> |
+| **[Highlighting What Matters: Promptable Embeddings for Attribute-Focused Image Retrieval](http://arxiv.org/abs/2505.15877v2)** | 2025-10-14 | <details><summary>NeurI...</summary><p>NeurIPS 2025; 27 pages, 6 figures</p></details> |
+| **[Multimodal Retrieval-Augmented Generation with Large Language Models for Medical VQA](http://arxiv.org/abs/2510.13856v1)** | 2025-10-12 |  |
+| **[PRISM: Enhancing Protein Inverse Folding through Fine-Grained Retrieval on Structure-Sequence Multimodal Representations](http://arxiv.org/abs/2510.11750v1)** | 2025-10-12 |  |
+| **[Lightweight Joint Optimization of General-Purpose Vision-Language Models and Retrievers for RAG-Based Medical Diagnosis](http://arxiv.org/abs/2508.17394v3)** | 2025-10-11 |  |
+| **[MRMR: A Realistic and Expert-Level Multidisciplinary Benchmark for Reasoning-Intensive Multimodal Retrieval](http://arxiv.org/abs/2510.09510v1)** | 2025-10-10 |  |
 
