@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 04, 2025
+title: Latest 15 Papers - November 05, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multi-Focused Video Group Activities Hashing](http://arxiv.org/abs/2509.00490v2)** | 2025-11-03 |  |
+| **[LoVR: A Benchmark for Long Video Retrieval in Multimodal Contexts](http://arxiv.org/abs/2505.13928v2)** | 2025-11-02 |  |
 | **[Towards Universal Video Retrieval: Generalizing Video Embedding via Synthesized Multimodal Pyramid Curriculum](http://arxiv.org/abs/2510.27571v1)** | 2025-10-31 |  |
 | **[Mitigating Semantic Collapse in Partially Relevant Video Retrieval](http://arxiv.org/abs/2510.27432v1)** | 2025-10-31 | <details><summary>Accpe...</summary><p>Accpeted to NeurIPS 2025. Code is available at https://github.com/admins97/MSC_PRVR</p></details> |
 | **[AVA: Towards Agentic Video Analytics with Vision Language Models](http://arxiv.org/abs/2505.00254v5)** | 2025-10-31 | <details><summary>Accep...</summary><p>Accepted to NDSI 2026, 19pages, 12 figures, complementary evaluations and appendix</p></details> |
@@ -20,15 +22,13 @@ labels: documentation
 | **[Dual Learning with Dynamic Knowledge Distillation and Soft Alignment for Partially Relevant Video Retrieval](http://arxiv.org/abs/2510.12283v1)** | 2025-10-14 |  |
 | **[TCMA: Text-Conditioned Multi-granularity Alignment for Drone Cross-Modal Text-Video Retrieval](http://arxiv.org/abs/2510.10180v1)** | 2025-10-11 |  |
 | **[TransMamba: Fast Universal Architecture Adaption from Transformers to Mamba](http://arxiv.org/abs/2502.15130v2)** | 2025-10-09 |  |
-| **[Queries Are Not Alone: Clustering Text Embeddings for Video Search](http://arxiv.org/abs/2510.07720v1)** | 2025-10-09 | <details><summary>Accep...</summary><p>Accepted by International ACM SIGIR Conference on Research and Development in Information Retrieval 2025</p></details> |
-| **[PRVR: Partially Relevant Video Retrieval](http://arxiv.org/abs/2208.12510v2)** | 2025-10-09 | <details><summary>Accep...</summary><p>Accepted by TPAMI. The paper's homepage is https://github.com/HuiGuanLab/ms-sl-pp</p></details> |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Evaluating Perspectival Biases in Cross-Modal Retrieval](http://arxiv.org/abs/2510.26861v2)** | 2025-11-03 |  |
 | **[RzenEmbed: Towards Comprehensive Multimodal Retrieval](http://arxiv.org/abs/2510.27350v1)** | 2025-10-31 |  |
 | **[CogPlanner: Unveiling the Potential of Agentic Multimodal Retrieval Augmented Generation with Planning](http://arxiv.org/abs/2501.15470v2)** | 2025-10-31 | <details><summary>Accep...</summary><p>Accepted by SIGIR-AP 2025</p></details> |
-| **[Evaluating Perspectival Biases in Cross-Modal Retrieval](http://arxiv.org/abs/2510.26861v2)** | 2025-11-03 |  |
 | **[Why Foundation Models in Pathology Are Failing](http://arxiv.org/abs/2510.23807v2)** | 2025-10-29 |  |
 | **[Seeing Through the MiRAGE: Evaluating Multimodal Retrieval Augmented Generation](http://arxiv.org/abs/2510.24870v1)** | 2025-10-28 | <details><summary>https...</summary><p>https://github.com/alexmartin1722/mirage</p></details> |
 | **[Windsock is Dancing: Adaptive Multimodal Retrieval-Augmented Generation](http://arxiv.org/abs/2510.22694v1)** | 2025-10-26 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025 UniReps Workshop</p></details> |
