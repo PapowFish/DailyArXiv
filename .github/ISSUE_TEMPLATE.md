@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 05, 2025
+title: Latest 15 Papers - November 06, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Vote-in-Context: Turning VLMs into Zero-Shot Rank Fusers](http://arxiv.org/abs/2511.01617v1)** | 2025-11-03 |  |
 | **[Multi-Focused Video Group Activities Hashing](http://arxiv.org/abs/2509.00490v2)** | 2025-11-03 |  |
 | **[LoVR: A Benchmark for Long Video Retrieval in Multimodal Contexts](http://arxiv.org/abs/2505.13928v2)** | 2025-11-02 |  |
 | **[Towards Universal Video Retrieval: Generalizing Video Embedding via Synthesized Multimodal Pyramid Curriculum](http://arxiv.org/abs/2510.27571v1)** | 2025-10-31 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[RefAtomNet++: Advancing Referring Atomic Video Action Recognition using Semantic Retrieval based Multi-Trajectory Mamba](http://arxiv.org/abs/2510.16444v1)** | 2025-10-18 | <details><summary>Exten...</summary><p>Extended version of ECCV 2024 paper arXiv:2407.01872. The dataset and code are released at https://github.com/KPeng9510/refAVA2</p></details> |
 | **[Dual Learning with Dynamic Knowledge Distillation and Soft Alignment for Partially Relevant Video Retrieval](http://arxiv.org/abs/2510.12283v1)** | 2025-10-14 |  |
 | **[TCMA: Text-Conditioned Multi-granularity Alignment for Drone Cross-Modal Text-Video Retrieval](http://arxiv.org/abs/2510.10180v1)** | 2025-10-11 |  |
-| **[TransMamba: Fast Universal Architecture Adaption from Transformers to Mamba](http://arxiv.org/abs/2502.15130v2)** | 2025-10-09 |  |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
