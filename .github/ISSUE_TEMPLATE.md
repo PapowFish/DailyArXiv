@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 06, 2025
+title: Latest 15 Papers - November 07, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multi-Object Tracking Retrieval with LLaVA-Video: A Training-Free Solution to MOT25-StAG Challenge](http://arxiv.org/abs/2511.03332v1)** | 2025-11-05 |  |
 | **[Vote-in-Context: Turning VLMs into Zero-Shot Rank Fusers](http://arxiv.org/abs/2511.01617v1)** | 2025-11-03 |  |
 | **[Multi-Focused Video Group Activities Hashing](http://arxiv.org/abs/2509.00490v2)** | 2025-11-03 |  |
 | **[LoVR: A Benchmark for Long Video Retrieval in Multimodal Contexts](http://arxiv.org/abs/2505.13928v2)** | 2025-11-02 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[VimoRAG: Video-based Retrieval-augmented 3D Motion Generation for Motion Language Models](http://arxiv.org/abs/2508.12081v2)** | 2025-10-20 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025; Project Page: https://walkermitty.github.io/VimoRAG</p></details> |
 | **[RefAtomNet++: Advancing Referring Atomic Video Action Recognition using Semantic Retrieval based Multi-Trajectory Mamba](http://arxiv.org/abs/2510.16444v1)** | 2025-10-18 | <details><summary>Exten...</summary><p>Extended version of ECCV 2024 paper arXiv:2407.01872. The dataset and code are released at https://github.com/KPeng9510/refAVA2</p></details> |
 | **[Dual Learning with Dynamic Knowledge Distillation and Soft Alignment for Partially Relevant Video Retrieval](http://arxiv.org/abs/2510.12283v1)** | 2025-10-14 |  |
-| **[TCMA: Text-Conditioned Multi-granularity Alignment for Drone Cross-Modal Text-Video Retrieval](http://arxiv.org/abs/2510.10180v1)** | 2025-10-11 |  |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
@@ -29,7 +29,7 @@ labels: documentation
 | **[Evaluating Perspectival Biases in Cross-Modal Retrieval](http://arxiv.org/abs/2510.26861v2)** | 2025-11-03 |  |
 | **[RzenEmbed: Towards Comprehensive Multimodal Retrieval](http://arxiv.org/abs/2510.27350v1)** | 2025-10-31 |  |
 | **[CogPlanner: Unveiling the Potential of Agentic Multimodal Retrieval Augmented Generation with Planning](http://arxiv.org/abs/2501.15470v2)** | 2025-10-31 | <details><summary>Accep...</summary><p>Accepted by SIGIR-AP 2025</p></details> |
-| **[Why Foundation Models in Pathology Are Failing](http://arxiv.org/abs/2510.23807v2)** | 2025-10-29 |  |
+| **[Toward Clinically Grounded Foundation Models in Pathology](http://arxiv.org/abs/2510.23807v3)** | 2025-11-06 |  |
 | **[Seeing Through the MiRAGE: Evaluating Multimodal Retrieval Augmented Generation](http://arxiv.org/abs/2510.24870v1)** | 2025-10-28 | <details><summary>https...</summary><p>https://github.com/alexmartin1722/mirage</p></details> |
 | **[Windsock is Dancing: Adaptive Multimodal Retrieval-Augmented Generation](http://arxiv.org/abs/2510.22694v1)** | 2025-10-26 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025 UniReps Workshop</p></details> |
 | **[Open Multimodal Retrieval-Augmented Factual Image Generation](http://arxiv.org/abs/2510.22521v1)** | 2025-10-26 | Preprint |
