@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 10, 2025
+title: Latest 15 Papers - November 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Let Me Show You: Learning by Retrieving from Egocentric Video for Robotic Manipulation](http://arxiv.org/abs/2511.05199v1)** | 2025-11-07 | <details><summary>Accep...</summary><p>Accepted by IROS 2025</p></details> |
 | **[Multi-Object Tracking Retrieval with LLaVA-Video: A Training-Free Solution to MOT25-StAG Challenge](http://arxiv.org/abs/2511.03332v1)** | 2025-11-05 |  |
 | **[Vote-in-Context: Turning VLMs into Zero-Shot Rank Fusers](http://arxiv.org/abs/2511.01617v1)** | 2025-11-03 |  |
 | **[Multi-Focused Video Group Activities Hashing](http://arxiv.org/abs/2509.00490v2)** | 2025-11-03 |  |
@@ -21,11 +22,13 @@ labels: documentation
 | **[Frame-Difference Guided Dynamic Region Perception for CLIP Adaptation in Text-Video Retrieval](http://arxiv.org/abs/2510.21806v1)** | 2025-10-21 | 5 pages |
 | **[VimoRAG: Video-based Retrieval-augmented 3D Motion Generation for Motion Language Models](http://arxiv.org/abs/2508.12081v2)** | 2025-10-20 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025; Project Page: https://walkermitty.github.io/VimoRAG</p></details> |
 | **[RefAtomNet++: Advancing Referring Atomic Video Action Recognition using Semantic Retrieval based Multi-Trajectory Mamba](http://arxiv.org/abs/2510.16444v1)** | 2025-10-18 | <details><summary>Exten...</summary><p>Extended version of ECCV 2024 paper arXiv:2407.01872. The dataset and code are released at https://github.com/KPeng9510/refAVA2</p></details> |
-| **[Dual Learning with Dynamic Knowledge Distillation and Soft Alignment for Partially Relevant Video Retrieval](http://arxiv.org/abs/2510.12283v1)** | 2025-10-14 |  |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Turning Adversaries into Allies: Reversing Typographic Attacks for Multimodal E-Commerce Product Retrieval](http://arxiv.org/abs/2511.05325v1)** | 2025-11-07 |  |
+| **[MMDocIR: Benchmarking Multimodal Retrieval for Long Documents](http://arxiv.org/abs/2501.08828v3)** | 2025-11-07 | <details><summary>Paper...</summary><p>Paper accepted to EMNLP-2025(Main)</p></details> |
+| **[SDS KoPub VDR: A Benchmark Dataset for Visual Document Retrieval in Korean Public Documents](http://arxiv.org/abs/2511.04910v2)** | 2025-11-10 | <details><summary>27 pa...</summary><p>27 pages, 15 figures, 6 tables</p></details> |
 | **[Toward Clinically Grounded Foundation Models in Pathology](http://arxiv.org/abs/2510.23807v3)** | 2025-11-06 |  |
 | **[Caption Injection for Optimization in Generative Search Engine](http://arxiv.org/abs/2511.04080v1)** | 2025-11-06 |  |
 | **[Evaluating Perspectival Biases in Cross-Modal Retrieval](http://arxiv.org/abs/2510.26861v2)** | 2025-11-03 |  |
@@ -38,7 +41,4 @@ labels: documentation
 | **[TRACE: Grounding Time Series in Context for Multimodal Embedding and Retrieval](http://arxiv.org/abs/2506.09114v2)** | 2025-10-24 |  |
 | **[MCA: Modality Composition Awareness for Robust Composed Multimodal Retrieval](http://arxiv.org/abs/2510.15543v1)** | 2025-10-17 |  |
 | **[Scaling Beyond Context: A Survey of Multimodal Retrieval-Augmented Generation for Document Understanding](http://arxiv.org/abs/2510.15253v1)** | 2025-10-17 |  |
-| **[Supervised Fine-Tuning or Contrastive Learning? Towards Better Multimodal LLM Reranking](http://arxiv.org/abs/2510.14824v1)** | 2025-10-16 |  |
-| **[Multimodal RAG for Unstructured Data:Leveraging Modality-Aware Knowledge Graphs with Hybrid Retrieval](http://arxiv.org/abs/2510.14592v1)** | 2025-10-16 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, submitted for review</p></details> |
-| **[Highlighting What Matters: Promptable Embeddings for Attribute-Focused Image Retrieval](http://arxiv.org/abs/2505.15877v2)** | 2025-10-14 | <details><summary>NeurI...</summary><p>NeurIPS 2025; 27 pages, 6 figures</p></details> |
 
