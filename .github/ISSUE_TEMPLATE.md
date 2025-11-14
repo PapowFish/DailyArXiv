@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 13, 2025
+title: Latest 15 Papers - November 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -8,19 +8,19 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[Video Editing for Video Retrieval](https://arxiv.org/pdf/2402.02335v2)** | 2024-09-10 |  |
-| **[Dialogue-to-Video Retrieval](https://arxiv.org/pdf/2303.16761v1)** | 2023-03-30 |  |
 | **[Content based video retrieval](https://arxiv.org/pdf/1211.4683v1)** | 2012-11-21 |  |
+| **[Dialogue-to-Video Retrieval](https://arxiv.org/pdf/2303.16761v1)** | 2023-03-30 |  |
 | **[Denoise-then-Retrieve: Text-Conditioned Video Denoising for Video Moment Retrieval](https://arxiv.org/pdf/2508.11313v1)** | 2025-08-18 | <details><summary>Accep...</summary><p>Accepted by IJCAI 2025</p></details> |
 | **[Multi-Query Video Retrieval](https://arxiv.org/pdf/2201.03639v2)** | 2022-07-22 | ECCV 2022 |
-| **[On Semantic Similarity in Video Retrieval](https://arxiv.org/pdf/2103.10095v1)** | 2021-03-19 | <details><summary>Accep...</summary><p>Accepted in CVPR 2021. Project Page: https://mwray.github.io/SSVR/</p></details> |
 | **[Interactive Video Retrieval with Dialog](https://arxiv.org/pdf/1905.02442v1)** | 2019-05-08 |  |
+| **[On Semantic Similarity in Video Retrieval](https://arxiv.org/pdf/2103.10095v1)** | 2021-03-19 | <details><summary>Accep...</summary><p>Accepted in CVPR 2021. Project Page: https://mwray.github.io/SSVR/</p></details> |
 | **[Retrieval-Augmented Egocentric Video Captioning](https://arxiv.org/pdf/2401.00789v4)** | 2024-06-21 | <details><summary>CVPR ...</summary><p>CVPR 2024. Project page is available at: https://jazzcharles.github.io/Egoinstructor/</p></details> |
 | **[Self-supervised Video Retrieval Transformer Network](https://arxiv.org/pdf/2104.07993v1)** | 2021-04-19 |  |
 | **[Content based video retrieval systems](https://arxiv.org/pdf/1205.1641v1)** | 2012-05-09 | 18 Pages |
 | **[VVS: Video-to-Video Retrieval with Irrelevant Frame Suppression](https://arxiv.org/pdf/2303.08906v2)** | 2023-12-20 | AAAI-24 |
 | **[T2VIndexer: A Generative Video Indexer for Efficient Text-Video Retrieval](https://arxiv.org/pdf/2408.11432v1)** | 2024-08-22 |  |
-| **[Multimodal Lengthy Videos Retrieval Framework and Evaluation Metric](https://arxiv.org/pdf/2504.04572v1)** | 2025-04-08 |  |
 | **[Learning to Retrieve Videos by Asking Questions](https://arxiv.org/pdf/2205.05739v3)** | 2022-07-19 |  |
+| **[Multimodal Lengthy Videos Retrieval Framework and Evaluation Metric](https://arxiv.org/pdf/2504.04572v1)** | 2025-04-08 |  |
 | **[FIVR: Fine-grained Incident Video Retrieval](https://arxiv.org/pdf/1809.04094v2)** | 2019-03-26 |  |
 
 ## Multimodal Retrieval
