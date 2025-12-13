@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 12, 2025
+title: Latest 15 Papers - December 13, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VL-JEPA: Joint Embedding Predictive Architecture for Vision-language](https://arxiv.org/abs/2512.10942v1)** | 2025-12-11 |  |
 | **[Enhanced Multimodal Video Retrieval System: Integrating Query Expansion and Cross-modal Temporal Event Retrieval](https://arxiv.org/abs/2512.06334v1)** | 2025-12-06 | <details><summary>11 pa...</summary><p>11 pages, 6 figures, SOICT 2025</p></details> |
 | **[HUD: Hierarchical Uncertainty-Aware Disambiguation Network for Composed Video Retrieval](https://arxiv.org/abs/2512.02792v1)** | 2025-12-02 | <details><summary>Accep...</summary><p>Accepted by ACM MM 2025</p></details> |
 | **[IVCR-200K: A Large-Scale Multi-turn Dialogue Benchmark for Interactive Video Corpus Retrieval](https://arxiv.org/abs/2512.01312v1)** | 2025-12-01 | <details><summary>Accep...</summary><p>Accepted by SIGIR2025</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Let Me Show You: Learning by Retrieving from Egocentric Video for Robotic Manipulation](https://arxiv.org/abs/2511.05199v1)** | 2025-11-07 | <details><summary>Accep...</summary><p>Accepted by IROS 2025</p></details> |
 | **[Multi-Object Tracking Retrieval with LLaVA-Video: A Training-Free Solution to MOT25-StAG Challenge](https://arxiv.org/abs/2511.03332v1)** | 2025-11-05 |  |
 | **[Vote-in-Context: Turning VLMs into Zero-Shot Rank Fusers](https://arxiv.org/abs/2511.01617v1)** | 2025-11-03 |  |
-| **[Multi-Focused Video Group Activities Hashing](https://arxiv.org/abs/2509.00490v2)** | 2025-11-03 |  |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
