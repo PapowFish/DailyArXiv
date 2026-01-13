@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 12, 2026
+title: Latest 15 Papers - January 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MomentSeeker: A Task-Oriented Benchmark For Long-Video Moment Retrieval](https://arxiv.org/abs/2502.12558v5)** | 2026-01-10 |  |
 | **[SOVABench: A Vehicle Surveillance Action Retrieval Benchmark for Multimodal Large Language Models](https://arxiv.org/abs/2601.04824v2)** | 2026-01-09 | <details><summary>This ...</summary><p>This work has been accepted at Real World Surveillance: Applications and Challenges, 6th (in WACV Workshops)</p></details> |
 | **[Plenoptic Video Generation](https://arxiv.org/abs/2601.05239v1)** | 2026-01-08 | <details><summary>Proje...</summary><p>Project Page: https://research.nvidia.com/labs/dir/plenopticdreamer/</p></details> |
 | **[V-Agent: An Interactive Video Search System Using Vision-Language Models](https://arxiv.org/abs/2512.16925v2)** | 2026-01-07 | <details><summary>CIKM ...</summary><p>CIKM 2025 MMGENSR Workshop</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Enhanced Multimodal Video Retrieval System: Integrating Query Expansion and Cross-modal Temporal Event Retrieval](https://arxiv.org/abs/2512.06334v1)** | 2025-12-06 | <details><summary>11 pa...</summary><p>11 pages, 6 figures, SOICT 2025</p></details> |
 | **[IVCR-200K: A Large-Scale Multi-turn Dialogue Benchmark for Interactive Video Corpus Retrieval](https://arxiv.org/abs/2512.01312v1)** | 2025-12-01 | <details><summary>Accep...</summary><p>Accepted by SIGIR2025</p></details> |
 | **[Enhanced Partially Relevant Video Retrieval through Inter- and Intra-Sample Analysis with Coherence Prediction](https://arxiv.org/abs/2504.19637v5)** | 2025-11-28 |  |
-| **[Video-RAG: Visually-aligned Retrieval-Augmented Long Video Comprehension](https://arxiv.org/abs/2411.13093v4)** | 2025-11-23 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025. Camera-ready version</p></details> |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
