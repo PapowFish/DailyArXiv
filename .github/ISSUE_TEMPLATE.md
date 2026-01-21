@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 20, 2026
+title: Latest 15 Papers - January 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VIRTUE: Versatile Video Retrieval Through Unified Embeddings](https://arxiv.org/abs/2601.12193v1)** | 2026-01-17 |  |
+| **[SMc2f: Robust Scenario Mining for Robotic Autonomy from Coarse to Fine](https://arxiv.org/abs/2601.12010v1)** | 2026-01-17 |  |
 | **[Fusionista2.0: Efficiency Retrieval System for Large-Scale Datasets](https://arxiv.org/abs/2511.12255v2)** | 2026-01-15 |  |
 | **[MomentSeeker: A Task-Oriented Benchmark For Long-Video Moment Retrieval](https://arxiv.org/abs/2502.12558v5)** | 2026-01-10 |  |
 | **[SOVABench: A Vehicle Surveillance Action Retrieval Benchmark for Multimodal Large Language Models](https://arxiv.org/abs/2601.04824v2)** | 2026-01-09 | <details><summary>This ...</summary><p>This work has been accepted at Real World Surveillance: Applications and Challenges, 6th (in WACV Workshops)</p></details> |
@@ -20,12 +22,11 @@ labels: documentation
 | **[MADTempo: An Interactive System for Multi-Event Temporal Video Retrieval with Query Augmentation](https://arxiv.org/abs/2512.12929v1)** | 2025-12-15 |  |
 | **[HUD: Hierarchical Uncertainty-Aware Disambiguation Network for Composed Video Retrieval](https://arxiv.org/abs/2512.02792v2)** | 2025-12-14 | <details><summary>Accep...</summary><p>Accepted by ACM MM 2025</p></details> |
 | **[VL-JEPA: Joint Embedding Predictive Architecture for Vision-language](https://arxiv.org/abs/2512.10942v1)** | 2025-12-11 |  |
-| **[Enhanced Multimodal Video Retrieval System: Integrating Query Expansion and Cross-modal Temporal Event Retrieval](https://arxiv.org/abs/2512.06334v1)** | 2025-12-06 | <details><summary>11 pa...</summary><p>11 pages, 6 figures, SOICT 2025</p></details> |
-| **[IVCR-200K: A Large-Scale Multi-turn Dialogue Benchmark for Interactive Video Corpus Retrieval](https://arxiv.org/abs/2512.01312v1)** | 2025-12-01 | <details><summary>Accep...</summary><p>Accepted by SIGIR2025</p></details> |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LLM2CLIP: Powerful Language Model Unlocks Richer Visual Representation](https://arxiv.org/abs/2411.04997v5)** | 2026-01-17 |  |
 | **[MM-BRIGHT: A Multi-Task Multimodal Benchmark for Reasoning-Intensive Retrieval](https://arxiv.org/abs/2601.09562v2)** | 2026-01-15 |  |
 | **[LVLM-Aware Multimodal Retrieval for RAG-Based Medical Diagnosis with General-Purpose Models](https://arxiv.org/abs/2508.17394v5)** | 2026-01-14 |  |
 | **[From Rows to Reasoning: A Retrieval-Augmented Multimodal Framework for Spreadsheet Understanding](https://arxiv.org/abs/2601.08741v1)** | 2026-01-13 |  |
@@ -40,11 +41,11 @@ labels: documentation
 | **[Spatially-Grounded Document Retrieval via Patch-to-Region Relevance Propagation](https://arxiv.org/abs/2512.02660v3)** | 2026-01-01 | <details><summary>21 pa...</summary><p>21 pages, 6 figures, 8 tables. Includes ancillary files with full benchmark results and ablation studies. Code available at https://github.com/athrael-soju/Snappy</p></details> |
 | **[RadAgents: Multimodal Agentic Reasoning for Chest X-ray Interpretation with Radiologist-like Workflows](https://arxiv.org/abs/2509.20490v3)** | 2025-12-22 | <details><summary>ML4H'...</summary><p>ML4H'25; Work in progress</p></details> |
 | **[Generative Giants, Retrieval Weaklings: Why do Multimodal Large Language Models Fail at Multimodal Retrieval?](https://arxiv.org/abs/2512.19115v1)** | 2025-12-22 |  |
-| **[Affordance RAG: Hierarchical Multimodal Retrieval with Affordance-Aware Embodied Memory for Mobile Manipulation](https://arxiv.org/abs/2512.18987v1)** | 2025-12-22 | <details><summary>Accep...</summary><p>Accepted to IEEE RA-L, with presentation at ICRA 2026</p></details> |
 
 ## Moment Localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VIRTUE: Versatile Video Retrieval Through Unified Embeddings](https://arxiv.org/abs/2601.12193v1)** | 2026-01-17 |  |
 | **[Aligning Moments in Time using Video Queries](https://arxiv.org/abs/2508.15439v2)** | 2025-09-01 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, accepted at ICCV 2025</p></details> |
 | **[Music Grounding by Short Video](https://arxiv.org/abs/2408.16990v4)** | 2025-07-21 | Accepted to ICCV2025 |
 | **[Object-Shot Enhanced Grounding Network for Egocentric Video](https://arxiv.org/abs/2505.04270v1)** | 2025-05-07 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025</p></details> |
@@ -59,5 +60,4 @@ labels: documentation
 | **[A Survey on Video Moment Localization](https://arxiv.org/abs/2306.07515v1)** | 2023-06-13 |  |
 | **[Prompting Large Language Models to Reformulate Queries for Moment Localization](https://arxiv.org/abs/2306.03422v1)** | 2023-06-06 | 4 pages, 2 figures |
 | **[Multi-video Moment Ranking with Multimodal Clue](https://arxiv.org/abs/2301.13606v1)** | 2023-01-29 | 9 pages,6 figures |
-| **[AssistSR: Task-oriented Video Segment Retrieval for Personal AI Assistant](https://arxiv.org/abs/2111.15050v4)** | 2022-10-10 | 20 pages, 12 figures |
 
