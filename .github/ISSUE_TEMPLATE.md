@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 21, 2026
+title: Latest 15 Papers - January 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PREGEN: Uncovering Latent Thoughts in Composed Video Retrieval](https://arxiv.org/abs/2601.13797v1)** | 2026-01-20 |  |
 | **[VIRTUE: Versatile Video Retrieval Through Unified Embeddings](https://arxiv.org/abs/2601.12193v1)** | 2026-01-17 |  |
 | **[SMc2f: Robust Scenario Mining for Robotic Autonomy from Coarse to Fine](https://arxiv.org/abs/2601.12010v1)** | 2026-01-17 |  |
 | **[Fusionista2.0: Efficiency Retrieval System for Large-Scale Datasets](https://arxiv.org/abs/2511.12255v2)** | 2026-01-15 |  |
@@ -21,11 +22,12 @@ labels: documentation
 | **[Integrated Semantic and Temporal Alignment for Interactive Video Retrieval](https://arxiv.org/abs/2512.13169v1)** | 2025-12-15 |  |
 | **[MADTempo: An Interactive System for Multi-Event Temporal Video Retrieval with Query Augmentation](https://arxiv.org/abs/2512.12929v1)** | 2025-12-15 |  |
 | **[HUD: Hierarchical Uncertainty-Aware Disambiguation Network for Composed Video Retrieval](https://arxiv.org/abs/2512.02792v2)** | 2025-12-14 | <details><summary>Accep...</summary><p>Accepted by ACM MM 2025</p></details> |
-| **[VL-JEPA: Joint Embedding Predictive Architecture for Vision-language](https://arxiv.org/abs/2512.10942v1)** | 2025-12-11 |  |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Unified Multimodal and Multilingual Retrieval via Multi-Task Learning with NLU Integration](https://arxiv.org/abs/2601.14714v1)** | 2026-01-21 | <details><summary>4 pag...</summary><p>4 pages, 2 figures, submitted to IEEE ICASSP 2026</p></details> |
+| **[Qwen3-VL-Embedding and Qwen3-VL-Reranker: A Unified Framework for State-of-the-Art Multimodal Retrieval and Ranking](https://arxiv.org/abs/2601.04720v2)** | 2026-01-19 |  |
 | **[LLM2CLIP: Powerful Language Model Unlocks Richer Visual Representation](https://arxiv.org/abs/2411.04997v5)** | 2026-01-17 |  |
 | **[MM-BRIGHT: A Multi-Task Multimodal Benchmark for Reasoning-Intensive Retrieval](https://arxiv.org/abs/2601.09562v2)** | 2026-01-15 |  |
 | **[LVLM-Aware Multimodal Retrieval for RAG-Based Medical Diagnosis with General-Purpose Models](https://arxiv.org/abs/2508.17394v5)** | 2026-01-14 |  |
@@ -34,13 +36,11 @@ labels: documentation
 | **[CLIP-GS: Unifying Vision-Language Representation with 3D Gaussian Splatting](https://arxiv.org/abs/2412.19142v2)** | 2026-01-12 |  |
 | **[BayesRAG: Probabilistic Mutual Evidence Corroboration for Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2601.07329v1)** | 2026-01-12 | 17 pages, 8 figures |
 | **[Scaling Beyond Context: A Survey of Multimodal Retrieval-Augmented Generation for Document Understanding](https://arxiv.org/abs/2510.15253v2)** | 2026-01-09 |  |
-| **[Qwen3-VL-Embedding and Qwen3-VL-Reranker: A Unified Framework for State-of-the-Art Multimodal Retrieval and Ranking](https://arxiv.org/abs/2601.04720v1)** | 2026-01-08 |  |
 | **[Enhancing Multimodal Retrieval via Complementary Information Extraction and Alignment](https://arxiv.org/abs/2601.04571v1)** | 2026-01-08 | Accepted by ACL'2025 |
 | **[Beyond Patch Aggregation: 3-Pass Pyramid Indexing for Vision-Enhanced Document Retrieval](https://arxiv.org/abs/2511.21121v2)** | 2026-01-06 |  |
 | **[UNIDOC-BENCH: A Unified Benchmark for Document-Centric Multimodal RAG](https://arxiv.org/abs/2510.03663v3)** | 2026-01-05 |  |
 | **[Spatially-Grounded Document Retrieval via Patch-to-Region Relevance Propagation](https://arxiv.org/abs/2512.02660v3)** | 2026-01-01 | <details><summary>21 pa...</summary><p>21 pages, 6 figures, 8 tables. Includes ancillary files with full benchmark results and ablation studies. Code available at https://github.com/athrael-soju/Snappy</p></details> |
 | **[RadAgents: Multimodal Agentic Reasoning for Chest X-ray Interpretation with Radiologist-like Workflows](https://arxiv.org/abs/2509.20490v3)** | 2025-12-22 | <details><summary>ML4H'...</summary><p>ML4H'25; Work in progress</p></details> |
-| **[Generative Giants, Retrieval Weaklings: Why do Multimodal Large Language Models Fail at Multimodal Retrieval?](https://arxiv.org/abs/2512.19115v1)** | 2025-12-22 |  |
 
 ## Moment Localization
 | **Title** | **Date** | **Comment** |
