@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 22, 2026
+title: Latest 15 Papers - January 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[HVD: Human Vision-Driven Video Representation Learning for Text-Video Retrieval](https://arxiv.org/abs/2601.16155v1)** | 2026-01-22 | <details><summary>Accep...</summary><p>Accepted by ICASSP 2026</p></details> |
 | **[PREGEN: Uncovering Latent Thoughts in Composed Video Retrieval](https://arxiv.org/abs/2601.13797v1)** | 2026-01-20 |  |
 | **[VIRTUE: Versatile Video Retrieval Through Unified Embeddings](https://arxiv.org/abs/2601.12193v1)** | 2026-01-17 |  |
 | **[SMc2f: Robust Scenario Mining for Robotic Autonomy from Coarse to Fine](https://arxiv.org/abs/2601.12010v1)** | 2026-01-17 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[TARA: Simple and Efficient Time Aware Retrieval Adaptation of MLLMs for Video Understanding](https://arxiv.org/abs/2512.13511v1)** | 2025-12-15 | <details><summary>18 Pa...</summary><p>18 Pages. Project page at http://bpiyush.github.io/tara-website</p></details> |
 | **[Integrated Semantic and Temporal Alignment for Interactive Video Retrieval](https://arxiv.org/abs/2512.13169v1)** | 2025-12-15 |  |
 | **[MADTempo: An Interactive System for Multi-Event Temporal Video Retrieval with Query Augmentation](https://arxiv.org/abs/2512.12929v1)** | 2025-12-15 |  |
-| **[HUD: Hierarchical Uncertainty-Aware Disambiguation Network for Composed Video Retrieval](https://arxiv.org/abs/2512.02792v2)** | 2025-12-14 | <details><summary>Accep...</summary><p>Accepted by ACM MM 2025</p></details> |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
