@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 28, 2026
+title: Latest 15 Papers - January 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[StructAlign: Structured Cross-Modal Alignment for Continual Text-to-Video Retrieval](https://arxiv.org/abs/2601.20597v1)** | 2026-01-28 |  |
 | **[X-Aligner: Composed Visual Retrieval without the Bells and Whistles](https://arxiv.org/abs/2601.16582v1)** | 2026-01-23 | 8 pages |
 | **[HVD: Human Vision-Driven Video Representation Learning for Text-Video Retrieval](https://arxiv.org/abs/2601.16155v1)** | 2026-01-22 | <details><summary>Accep...</summary><p>Accepted by ICASSP 2026</p></details> |
 | **[PREGEN: Uncovering Latent Thoughts in Composed Video Retrieval](https://arxiv.org/abs/2601.13797v1)** | 2026-01-20 |  |
@@ -21,14 +22,14 @@ labels: documentation
 | **[Multi-Focused Video Group Activities Hashing](https://arxiv.org/abs/2509.00490v3)** | 2025-12-27 |  |
 | **[Atom: Efficient On-Device Video-Language Pipelines Through Modular Reuse](https://arxiv.org/abs/2512.17108v1)** | 2025-12-18 |  |
 | **[TARA: Simple and Efficient Time Aware Retrieval Adaptation of MLLMs for Video Understanding](https://arxiv.org/abs/2512.13511v1)** | 2025-12-15 | <details><summary>18 Pa...</summary><p>18 Pages. Project page at http://bpiyush.github.io/tara-website</p></details> |
-| **[Integrated Semantic and Temporal Alignment for Interactive Video Retrieval](https://arxiv.org/abs/2512.13169v1)** | 2025-12-15 |  |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Efficient Multimodal Planning Agent for Visual Question-Answering](https://arxiv.org/abs/2601.20676v1)** | 2026-01-28 |  |
+| **[UI Remix: Supporting UI Design Through Interactive Example Retrieval and Remixing](https://arxiv.org/abs/2601.18759v2)** | 2026-01-28 | <details><summary>Accep...</summary><p>Accepted at the 31st International Conference on Intelligent User Interfaces (IUI 2026)</p></details> |
 | **[A Systemic Evaluation of Multimodal RAG Privacy](https://arxiv.org/abs/2601.17644v2)** | 2026-01-27 |  |
 | **[Pixel-Grounded Retrieval for Knowledgeable Large Multimodal Models](https://arxiv.org/abs/2601.19060v1)** | 2026-01-27 | Preprint |
-| **[UI Remix: Supporting UI Design Through Interactive Example Retrieval and Remixing](https://arxiv.org/abs/2601.18759v1)** | 2026-01-26 | <details><summary>Accep...</summary><p>Accepted at the 31st International Conference on Intelligent User Interfaces (IUI 2026)</p></details> |
 | **[Making medical vision-language models think causally across modalities with retrieval-augmented cross-modal reasoning](https://arxiv.org/abs/2601.18356v1)** | 2026-01-26 |  |
 | **[Evaluating Perspectival Biases in Cross-Modal Retrieval](https://arxiv.org/abs/2510.26861v3)** | 2026-01-24 |  |
 | **[UniFGVC: Universal Training-Free Few-Shot Fine-Grained Vision Classification via Attribute-Aware Multimodal Retrieval](https://arxiv.org/abs/2508.04136v2)** | 2026-01-23 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[From Rows to Reasoning: A Retrieval-Augmented Multimodal Framework for Spreadsheet Understanding](https://arxiv.org/abs/2601.08741v1)** | 2026-01-13 |  |
 | **[MRAG-Suite: A Diagnostic Evaluation Platform for Visual Retrieval-Augmented Generation](https://arxiv.org/abs/2509.24253v3)** | 2026-01-13 |  |
 | **[CLIP-GS: Unifying Vision-Language Representation with 3D Gaussian Splatting](https://arxiv.org/abs/2412.19142v2)** | 2026-01-12 |  |
-| **[BayesRAG: Probabilistic Mutual Evidence Corroboration for Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2601.07329v1)** | 2026-01-12 | 17 pages, 8 figures |
 
 ## Moment Localization
 | **Title** | **Date** | **Comment** |
