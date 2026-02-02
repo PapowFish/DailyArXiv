@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 01, 2026
+title: Latest 15 Papers - February 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ShotFinder: Imagination-Driven Open-Domain Video Shot Retrieval via Web Search](https://arxiv.org/abs/2601.23232v1)** | 2026-01-30 | 28 pages, 7 figures |
+| **[CoVA: Text-Guided Composed Video Retrieval for Audio-Visual Content](https://arxiv.org/abs/2601.22508v1)** | 2026-01-30 | <details><summary>Pleas...</summary><p>Please visit our project page at https://perceptualai-lab.github.io/CoVA/</p></details> |
 | **[Generative Recall, Dense Reranking: Learning Multi-View Semantic IDs for Efficient Text-to-Video Retrieval](https://arxiv.org/abs/2601.21193v1)** | 2026-01-29 | 10 pages |
 | **[StructAlign: Structured Cross-Modal Alignment for Continual Text-to-Video Retrieval](https://arxiv.org/abs/2601.20597v1)** | 2026-01-28 |  |
 | **[X-Aligner: Composed Visual Retrieval without the Bells and Whistles](https://arxiv.org/abs/2601.16582v1)** | 2026-01-23 | 8 pages |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Plenoptic Video Generation](https://arxiv.org/abs/2601.05239v1)** | 2026-01-08 | <details><summary>Proje...</summary><p>Project Page: https://research.nvidia.com/labs/dir/plenopticdreamer/</p></details> |
 | **[V-Agent: An Interactive Video Search System Using Vision-Language Models](https://arxiv.org/abs/2512.16925v2)** | 2026-01-07 | <details><summary>CIKM ...</summary><p>CIKM 2025 MMGENSR Workshop</p></details> |
 | **[TV-RAG: A Temporal-aware and Semantic Entropy-Weighted Framework for Long Video Retrieval and Understanding](https://arxiv.org/abs/2512.23483v1)** | 2025-12-29 |  |
-| **[Multi-Focused Video Group Activities Hashing](https://arxiv.org/abs/2509.00490v3)** | 2025-12-27 |  |
-| **[Atom: Efficient On-Device Video-Language Pipelines Through Modular Reuse](https://arxiv.org/abs/2512.17108v1)** | 2025-12-18 |  |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
