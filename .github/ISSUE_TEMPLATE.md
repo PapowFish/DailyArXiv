@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 03, 2026
+title: Latest 15 Papers - February 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,8 +7,10 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RANKVIDEO: Reasoning Reranking for Text-to-Video Retrieval](https://arxiv.org/abs/2602.02444v2)** | 2026-02-03 |  |
+| **[Human-in-the-loop Adaptation in Group Activity Feature Learning for Team Sports Video Retrieval](https://arxiv.org/abs/2602.03157v1)** | 2026-02-03 | <details><summary>Accep...</summary><p>Accepted to Computer Vision and Image Understanding (CVIU)</p></details> |
+| **[ShotFinder: Imagination-Driven Open-Domain Video Shot Retrieval via Web Search](https://arxiv.org/abs/2601.23232v2)** | 2026-02-03 | 28 pages, 7 figures |
 | **[VL-JEPA: Joint Embedding Predictive Architecture for Vision-language](https://arxiv.org/abs/2512.10942v2)** | 2026-02-02 |  |
-| **[ShotFinder: Imagination-Driven Open-Domain Video Shot Retrieval via Web Search](https://arxiv.org/abs/2601.23232v1)** | 2026-01-30 | 28 pages, 7 figures |
 | **[CoVA: Text-Guided Composed Video Retrieval for Audio-Visual Content](https://arxiv.org/abs/2601.22508v1)** | 2026-01-30 | <details><summary>Pleas...</summary><p>Please visit our project page at https://perceptualai-lab.github.io/CoVA/</p></details> |
 | **[Generative Recall, Dense Reranking: Learning Multi-View Semantic IDs for Efficient Text-to-Video Retrieval](https://arxiv.org/abs/2601.21193v1)** | 2026-01-29 | 10 pages |
 | **[StructAlign: Structured Cross-Modal Alignment for Continual Text-to-Video Retrieval](https://arxiv.org/abs/2601.20597v1)** | 2026-01-28 |  |
@@ -20,12 +22,11 @@ labels: documentation
 | **[Fusionista2.0: Efficiency Retrieval System for Large-Scale Datasets](https://arxiv.org/abs/2511.12255v2)** | 2026-01-15 |  |
 | **[MomentSeeker: A Task-Oriented Benchmark For Long-Video Moment Retrieval](https://arxiv.org/abs/2502.12558v5)** | 2026-01-10 |  |
 | **[SOVABench: A Vehicle Surveillance Action Retrieval Benchmark for Multimodal Large Language Models](https://arxiv.org/abs/2601.04824v2)** | 2026-01-09 | <details><summary>This ...</summary><p>This work has been accepted at Real World Surveillance: Applications and Challenges, 6th (in WACV Workshops)</p></details> |
-| **[Plenoptic Video Generation](https://arxiv.org/abs/2601.05239v1)** | 2026-01-08 | <details><summary>Proje...</summary><p>Project Page: https://research.nvidia.com/labs/dir/plenopticdreamer/</p></details> |
-| **[V-Agent: An Interactive Video Search System Using Vision-Language Models](https://arxiv.org/abs/2512.16925v2)** | 2026-01-07 | <details><summary>CIKM ...</summary><p>CIKM 2025 MMGENSR Workshop</p></details> |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[UniFGVC: Universal Training-Free Few-Shot Fine-Grained Vision Classification via Attribute-Aware Multimodal Retrieval](https://arxiv.org/abs/2508.04136v3)** | 2026-02-03 |  |
 | **[TRACE: Grounding Time Series in Context for Multimodal Embedding and Retrieval](https://arxiv.org/abs/2506.09114v3)** | 2026-01-31 |  |
 | **[Efficient Multimodal Planning Agent for Visual Question-Answering](https://arxiv.org/abs/2601.20676v1)** | 2026-01-28 |  |
 | **[UI Remix: Supporting UI Design Through Interactive Example Retrieval and Remixing](https://arxiv.org/abs/2601.18759v2)** | 2026-01-28 | <details><summary>Accep...</summary><p>Accepted at the 31st International Conference on Intelligent User Interfaces (IUI 2026)</p></details> |
@@ -33,7 +34,6 @@ labels: documentation
 | **[Pixel-Grounded Retrieval for Knowledgeable Large Multimodal Models](https://arxiv.org/abs/2601.19060v1)** | 2026-01-27 | Preprint |
 | **[Making medical vision-language models think causally across modalities with retrieval-augmented cross-modal reasoning](https://arxiv.org/abs/2601.18356v1)** | 2026-01-26 |  |
 | **[Evaluating Perspectival Biases in Cross-Modal Retrieval](https://arxiv.org/abs/2510.26861v3)** | 2026-01-24 |  |
-| **[UniFGVC: Universal Training-Free Few-Shot Fine-Grained Vision Classification via Attribute-Aware Multimodal Retrieval](https://arxiv.org/abs/2508.04136v2)** | 2026-01-23 |  |
 | **[Unified Multimodal and Multilingual Retrieval via Multi-Task Learning with NLU Integration](https://arxiv.org/abs/2601.14714v1)** | 2026-01-21 | <details><summary>4 pag...</summary><p>4 pages, 2 figures, submitted to IEEE ICASSP 2026</p></details> |
 | **[Qwen3-VL-Embedding and Qwen3-VL-Reranker: A Unified Framework for State-of-the-Art Multimodal Retrieval and Ranking](https://arxiv.org/abs/2601.04720v2)** | 2026-01-19 |  |
 | **[RAPTOR-AI for Disaster OODA Loop: Hierarchical Multimodal RAG with Experience-Driven Agentic Decision-Making](https://arxiv.org/abs/2602.00030v1)** | 2026-01-18 | 4 figures, 3 tables |
