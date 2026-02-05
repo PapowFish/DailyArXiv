@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 04, 2026
+title: Latest 15 Papers - February 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LoVR: A Benchmark for Long Video Retrieval in Multimodal Contexts](https://arxiv.org/abs/2505.13928v4)** | 2026-02-04 |  |
 | **[RANKVIDEO: Reasoning Reranking for Text-to-Video Retrieval](https://arxiv.org/abs/2602.02444v2)** | 2026-02-03 |  |
 | **[Human-in-the-loop Adaptation in Group Activity Feature Learning for Team Sports Video Retrieval](https://arxiv.org/abs/2602.03157v1)** | 2026-02-03 | <details><summary>Accep...</summary><p>Accepted to Computer Vision and Image Understanding (CVIU)</p></details> |
 | **[ShotFinder: Imagination-Driven Open-Domain Video Shot Retrieval via Web Search](https://arxiv.org/abs/2601.23232v2)** | 2026-02-03 | 28 pages, 7 figures |
@@ -21,11 +22,11 @@ labels: documentation
 | **[SMc2f: Robust Scenario Mining for Robotic Autonomy from Coarse to Fine](https://arxiv.org/abs/2601.12010v1)** | 2026-01-17 |  |
 | **[Fusionista2.0: Efficiency Retrieval System for Large-Scale Datasets](https://arxiv.org/abs/2511.12255v2)** | 2026-01-15 |  |
 | **[MomentSeeker: A Task-Oriented Benchmark For Long-Video Moment Retrieval](https://arxiv.org/abs/2502.12558v5)** | 2026-01-10 |  |
-| **[SOVABench: A Vehicle Surveillance Action Retrieval Benchmark for Multimodal Large Language Models](https://arxiv.org/abs/2601.04824v2)** | 2026-01-09 | <details><summary>This ...</summary><p>This work has been accepted at Real World Surveillance: Applications and Challenges, 6th (in WACV Workshops)</p></details> |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LILaC: Late Interacting in Layered Component Graph for Open-domain Multimodal Multihop Retrieval](https://arxiv.org/abs/2602.04263v1)** | 2026-02-04 | <details><summary>Proje...</summary><p>Project page: https://lilac-emnlp2025.github.io/</p></details> |
 | **[UniFGVC: Universal Training-Free Few-Shot Fine-Grained Vision Classification via Attribute-Aware Multimodal Retrieval](https://arxiv.org/abs/2508.04136v3)** | 2026-02-03 |  |
 | **[TRACE: Grounding Time Series in Context for Multimodal Embedding and Retrieval](https://arxiv.org/abs/2506.09114v3)** | 2026-01-31 |  |
 | **[Efficient Multimodal Planning Agent for Visual Question-Answering](https://arxiv.org/abs/2601.20676v1)** | 2026-01-28 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[LLM2CLIP: Powerful Language Model Unlocks Richer Visual Representation](https://arxiv.org/abs/2411.04997v5)** | 2026-01-17 |  |
 | **[MM-BRIGHT: A Multi-Task Multimodal Benchmark for Reasoning-Intensive Retrieval](https://arxiv.org/abs/2601.09562v2)** | 2026-01-15 |  |
 | **[LVLM-Aware Multimodal Retrieval for RAG-Based Medical Diagnosis with General-Purpose Models](https://arxiv.org/abs/2508.17394v5)** | 2026-01-14 |  |
-| **[From Rows to Reasoning: A Retrieval-Augmented Multimodal Framework for Spreadsheet Understanding](https://arxiv.org/abs/2601.08741v1)** | 2026-01-13 |  |
 
 ## Moment Localization
 | **Title** | **Date** | **Comment** |
