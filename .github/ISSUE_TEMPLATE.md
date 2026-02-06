@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 05, 2026
+title: Latest 15 Papers - February 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[V-Retrver: Evidence-Driven Agentic Reasoning for Universal Multimodal Retrieval](https://arxiv.org/abs/2602.06034v1)** | 2026-02-05 |  |
+| **[Magic-MM-Embedding: Towards Visual-Token-Efficient Universal Multimodal Embedding with MLLMs](https://arxiv.org/abs/2602.05275v1)** | 2026-02-05 |  |
 | **[LILaC: Late Interacting in Layered Component Graph for Open-domain Multimodal Multihop Retrieval](https://arxiv.org/abs/2602.04263v1)** | 2026-02-04 | <details><summary>Proje...</summary><p>Project page: https://lilac-emnlp2025.github.io/</p></details> |
 | **[UniFGVC: Universal Training-Free Few-Shot Fine-Grained Vision Classification via Attribute-Aware Multimodal Retrieval](https://arxiv.org/abs/2508.04136v3)** | 2026-02-03 |  |
 | **[TRACE: Grounding Time Series in Context for Multimodal Embedding and Retrieval](https://arxiv.org/abs/2506.09114v3)** | 2026-01-31 |  |
@@ -39,8 +41,6 @@ labels: documentation
 | **[Qwen3-VL-Embedding and Qwen3-VL-Reranker: A Unified Framework for State-of-the-Art Multimodal Retrieval and Ranking](https://arxiv.org/abs/2601.04720v2)** | 2026-01-19 |  |
 | **[RAPTOR-AI for Disaster OODA Loop: Hierarchical Multimodal RAG with Experience-Driven Agentic Decision-Making](https://arxiv.org/abs/2602.00030v1)** | 2026-01-18 | 4 figures, 3 tables |
 | **[LLM2CLIP: Powerful Language Model Unlocks Richer Visual Representation](https://arxiv.org/abs/2411.04997v5)** | 2026-01-17 |  |
-| **[MM-BRIGHT: A Multi-Task Multimodal Benchmark for Reasoning-Intensive Retrieval](https://arxiv.org/abs/2601.09562v2)** | 2026-01-15 |  |
-| **[LVLM-Aware Multimodal Retrieval for RAG-Based Medical Diagnosis with General-Purpose Models](https://arxiv.org/abs/2508.17394v5)** | 2026-01-14 |  |
 
 ## Moment Localization
 | **Title** | **Date** | **Comment** |
