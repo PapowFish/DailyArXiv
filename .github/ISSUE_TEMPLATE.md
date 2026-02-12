@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 09, 2026
+title: Latest 15 Papers - February 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Closed-Pool Video Retrieval: A Benchmark and Agent Framework for Real-World Video Search and Moment Localization](https://arxiv.org/abs/2602.10159v1)** | 2026-02-10 | 49 pages, 9 figures |
+| **[VidVec: Unlocking Video MLLM Embeddings for Video-Text Retrieval](https://arxiv.org/abs/2602.08099v1)** | 2026-02-08 | <details><summary>Proje...</summary><p>Project page: https://iyttor.github.io/VidVec/</p></details> |
 | **[LoVR: A Benchmark for Long Video Retrieval in Multimodal Contexts](https://arxiv.org/abs/2505.13928v4)** | 2026-02-04 |  |
 | **[RANKVIDEO: Reasoning Reranking for Text-to-Video Retrieval](https://arxiv.org/abs/2602.02444v2)** | 2026-02-03 |  |
 | **[Human-in-the-loop Adaptation in Group Activity Feature Learning for Team Sports Video Retrieval](https://arxiv.org/abs/2602.03157v1)** | 2026-02-03 | <details><summary>Accep...</summary><p>Accepted to Computer Vision and Image Understanding (CVIU)</p></details> |
@@ -20,12 +22,17 @@ labels: documentation
 | **[PREGEN: Uncovering Latent Thoughts in Composed Video Retrieval](https://arxiv.org/abs/2601.13797v1)** | 2026-01-20 |  |
 | **[VIRTUE: Versatile Video Retrieval Through Unified Embeddings](https://arxiv.org/abs/2601.12193v1)** | 2026-01-17 |  |
 | **[SMc2f: Robust Scenario Mining for Robotic Autonomy from Coarse to Fine](https://arxiv.org/abs/2601.12010v1)** | 2026-01-17 |  |
-| **[Fusionista2.0: Efficiency Retrieval System for Large-Scale Datasets](https://arxiv.org/abs/2511.12255v2)** | 2026-01-15 |  |
-| **[MomentSeeker: A Task-Oriented Benchmark For Long-Video Moment Retrieval](https://arxiv.org/abs/2502.12558v5)** | 2026-01-10 |  |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DeepImageSearch: Benchmarking Multimodal Agents for Context-Aware Image Retrieval in Visual Histories](https://arxiv.org/abs/2602.10809v1)** | 2026-02-11 | 17 pages, 5 figures |
+| **[A Vision-Language Foundation Model for Zero-shot Clinical Collaboration and Automated Concept Discovery in Dermatology](https://arxiv.org/abs/2602.10624v1)** | 2026-02-11 | reports |
+| **[ARK: A Dual-Axis Multimodal Retrieval Benchmark along Reasoning and Knowledge](https://arxiv.org/abs/2602.09839v1)** | 2026-02-10 |  |
+| **[From Rows to Reasoning: A Retrieval-Augmented Multimodal Framework for Spreadsheet Understanding](https://arxiv.org/abs/2601.08741v2)** | 2026-02-09 |  |
+| **[A Sketch+Text Composed Image Retrieval Dataset for Thangka](https://arxiv.org/abs/2602.08411v1)** | 2026-02-09 | 9 pages |
+| **[RAPTOR-AI for Disaster OODA Loop: Hierarchical Multimodal RAG with Experience-Driven Agentic Decision-Making](https://arxiv.org/abs/2602.00030v2)** | 2026-02-08 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, 2 tables</p></details> |
+| **[Reasoning-Augmented Representations for Multimodal Retrieval](https://arxiv.org/abs/2602.07125v1)** | 2026-02-06 |  |
 | **[Multimodal Generative Retrieval Model with Staged Pretraining for Food Delivery on Meituan](https://arxiv.org/abs/2602.06654v1)** | 2026-02-06 |  |
 | **[Multimodal Iterative RAG for Knowledge-Intensive Visual Question Answering](https://arxiv.org/abs/2509.00798v5)** | 2026-02-06 |  |
 | **[V-Retrver: Evidence-Driven Agentic Reasoning for Universal Multimodal Retrieval](https://arxiv.org/abs/2602.06034v1)** | 2026-02-05 |  |
@@ -34,17 +41,11 @@ labels: documentation
 | **[UniFGVC: Universal Training-Free Few-Shot Fine-Grained Vision Classification via Attribute-Aware Multimodal Retrieval](https://arxiv.org/abs/2508.04136v3)** | 2026-02-03 |  |
 | **[TRACE: Grounding Time Series in Context for Multimodal Embedding and Retrieval](https://arxiv.org/abs/2506.09114v3)** | 2026-01-31 |  |
 | **[Efficient Multimodal Planning Agent for Visual Question-Answering](https://arxiv.org/abs/2601.20676v1)** | 2026-01-28 |  |
-| **[UI Remix: Supporting UI Design Through Interactive Example Retrieval and Remixing](https://arxiv.org/abs/2601.18759v2)** | 2026-01-28 | <details><summary>Accep...</summary><p>Accepted at the 31st International Conference on Intelligent User Interfaces (IUI 2026)</p></details> |
-| **[A Systemic Evaluation of Multimodal RAG Privacy](https://arxiv.org/abs/2601.17644v2)** | 2026-01-27 |  |
-| **[Pixel-Grounded Retrieval for Knowledgeable Large Multimodal Models](https://arxiv.org/abs/2601.19060v1)** | 2026-01-27 | Preprint |
-| **[Making medical vision-language models think causally across modalities with retrieval-augmented cross-modal reasoning](https://arxiv.org/abs/2601.18356v1)** | 2026-01-26 |  |
-| **[Evaluating Perspectival Biases in Cross-Modal Retrieval](https://arxiv.org/abs/2510.26861v3)** | 2026-01-24 |  |
-| **[Unified Multimodal and Multilingual Retrieval via Multi-Task Learning with NLU Integration](https://arxiv.org/abs/2601.14714v1)** | 2026-01-21 | <details><summary>4 pag...</summary><p>4 pages, 2 figures, submitted to IEEE ICASSP 2026</p></details> |
-| **[Qwen3-VL-Embedding and Qwen3-VL-Reranker: A Unified Framework for State-of-the-Art Multimodal Retrieval and Ranking](https://arxiv.org/abs/2601.04720v2)** | 2026-01-19 |  |
 
 ## Moment Localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Closed-Pool Video Retrieval: A Benchmark and Agent Framework for Real-World Video Search and Moment Localization](https://arxiv.org/abs/2602.10159v1)** | 2026-02-10 | 49 pages, 9 figures |
 | **[VIRTUE: Versatile Video Retrieval Through Unified Embeddings](https://arxiv.org/abs/2601.12193v1)** | 2026-01-17 |  |
 | **[Aligning Moments in Time using Video Queries](https://arxiv.org/abs/2508.15439v2)** | 2025-09-01 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, accepted at ICCV 2025</p></details> |
 | **[Music Grounding by Short Video](https://arxiv.org/abs/2408.16990v4)** | 2025-07-21 | Accepted to ICCV2025 |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Counterfactual Cross-modality Reasoning for Weakly Supervised Video Moment Localization](https://arxiv.org/abs/2308.05648v2)** | 2023-10-14 | <details><summary>Accep...</summary><p>Accepted by ACM MM 2023</p></details> |
 | **[A Survey on Video Moment Localization](https://arxiv.org/abs/2306.07515v1)** | 2023-06-13 |  |
 | **[Prompting Large Language Models to Reformulate Queries for Moment Localization](https://arxiv.org/abs/2306.03422v1)** | 2023-06-06 | 4 pages, 2 figures |
-| **[Multi-video Moment Ranking with Multimodal Clue](https://arxiv.org/abs/2301.13606v1)** | 2023-01-29 | 9 pages,6 figures |
 
