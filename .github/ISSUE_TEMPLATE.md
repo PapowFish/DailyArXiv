@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 26, 2026
+title: Latest 15 Papers - February 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,9 @@ labels: documentation
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Understanding protein function with a multimodal retrieval-augmented foundation model](https://arxiv.org/abs/2508.04724v2)** | 2026-02-26 |  |
+| **[MammoWise: Multi-Model Local RAG Pipeline for Mammography Report Generation](https://arxiv.org/abs/2602.22462v1)** | 2026-02-25 | <details><summary>arXiv...</summary><p>arXiv preprint (submitted 25 Feb 2026). Local multi-model pipeline for mammography report generation + classification using prompting, multimodal RAG (ChromaDB), and QLoRA fine-tuning; evaluates MedGemma, LLaVA-Med, Qwen2.5-VL on VinDr-Mammo and DMID; reports BERTScore/ROUGE-L and classification metrics</p></details> |
+| **[Breaking the Visual Shortcuts in Multimodal Knowledge-Based Visual Question Answering](https://arxiv.org/abs/2511.22843v2)** | 2026-02-25 |  |
 | **[V-Retrver: Evidence-Driven Agentic Reasoning for Universal Multimodal Retrieval](https://arxiv.org/abs/2602.06034v2)** | 2026-02-25 | <details><summary>Proje...</summary><p>Project page: https://github.com/chendy25/V-Retrver</p></details> |
 | **[Sculpting the Vector Space: Towards Efficient Multi-Vector Visual Document Retrieval via Prune-then-Merge Framework](https://arxiv.org/abs/2602.19549v1)** | 2026-02-23 | Under review |
 | **[Efficient Discriminative Joint Encoders for Large Scale Vision-Language Reranking](https://arxiv.org/abs/2510.06820v2)** | 2026-02-22 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
@@ -38,9 +41,6 @@ labels: documentation
 | **[JARVIS: An Evidence-Grounded Retrieval System for Interpretable Deceptive Reviews Adjudication](https://arxiv.org/abs/2602.12941v1)** | 2026-02-13 |  |
 | **[WISE: A Multimodal Search Engine for Visual Scenes, Audio, Objects, Faces, Speech, and Metadata](https://arxiv.org/abs/2602.12819v1)** | 2026-02-13 | <details><summary>Softw...</summary><p>Software: https://www.robots.ox.ac.uk/~vgg/software/wise/ , Online demos: https://www.robots.ox.ac.uk/~vgg/software/wise/demo/ , Example Queries: https://www.robots.ox.ac.uk/~vgg/software/wise/examples/</p></details> |
 | **[VimRAG: Navigating Massive Visual Context in Retrieval-Augmented Generation via Multimodal Memory Graph](https://arxiv.org/abs/2602.12735v1)** | 2026-02-13 |  |
-| **[BLUEPRINT Rebuilding a Legacy: Multimodal Retrieval for Complex Engineering Drawings and Documents](https://arxiv.org/abs/2602.13345v1)** | 2026-02-12 | <details><summary>20 pa...</summary><p>20 pages 8 main + 12 appendix + references</p></details> |
-| **[DeepImageSearch: Benchmarking Multimodal Agents for Context-Aware Image Retrieval in Visual Histories](https://arxiv.org/abs/2602.10809v1)** | 2026-02-11 | 17 pages, 5 figures |
-| **[A Vision-Language Foundation Model for Zero-shot Clinical Collaboration and Automated Concept Discovery in Dermatology](https://arxiv.org/abs/2602.10624v1)** | 2026-02-11 | reports |
 
 ## Moment Localization
 | **Title** | **Date** | **Comment** |
