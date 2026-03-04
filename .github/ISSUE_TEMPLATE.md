@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 03, 2026
+title: Latest 15 Papers - March 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LLandMark: A Multi-Agent Framework for Landmark-Aware Multimodal Interactive Video Retrieval](https://arxiv.org/abs/2603.02888v1)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026 Workshop on New Frontiers in Information Retrieval</p></details> |
+| **[OmniRet: Efficient and High-Fidelity Omni Modality Retrieval](https://arxiv.org/abs/2603.02098v1)** | 2026-03-02 | <details><summary>CVPR ...</summary><p>CVPR 2026. Project link: https://github.com/hmchuong/omniret</p></details> |
 | **[Unified Vision-Language Modeling via Concept Space Alignment](https://arxiv.org/abs/2603.01096v1)** | 2026-03-01 | ICLR 2026 |
 | **[LLaVE: Large Language and Vision Embedding Models with Hardness-Weighted Contrastive Learning](https://arxiv.org/abs/2503.04812v2)** | 2026-03-01 | <details><summary>Accep...</summary><p>Accepted by Findings of EMNLP 2025</p></details> |
 | **[VQPP: Video Query Performance Prediction Benchmark](https://arxiv.org/abs/2602.17814v1)** | 2026-02-19 |  |
@@ -20,12 +22,13 @@ labels: documentation
 | **[Human-in-the-loop Adaptation in Group Activity Feature Learning for Team Sports Video Retrieval](https://arxiv.org/abs/2602.03157v1)** | 2026-02-03 | <details><summary>Accep...</summary><p>Accepted to Computer Vision and Image Understanding (CVIU)</p></details> |
 | **[VL-JEPA: Joint Embedding Predictive Architecture for Vision-language](https://arxiv.org/abs/2512.10942v2)** | 2026-02-02 |  |
 | **[CoVA: Text-Guided Composed Video Retrieval for Audio-Visual Content](https://arxiv.org/abs/2601.22508v1)** | 2026-01-30 | <details><summary>Pleas...</summary><p>Please visit our project page at https://perceptualai-lab.github.io/CoVA/</p></details> |
-| **[Generative Recall, Dense Reranking: Learning Multi-View Semantic IDs for Efficient Text-to-Video Retrieval](https://arxiv.org/abs/2601.21193v1)** | 2026-01-29 | 10 pages |
-| **[StructAlign: Structured Cross-Modal Alignment for Continual Text-to-Video Retrieval](https://arxiv.org/abs/2601.20597v1)** | 2026-01-28 |  |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TRACE: Task-Adaptive Reasoning and Representation Learning for Universal Multimodal Retrieval](https://arxiv.org/abs/2603.02929v1)** | 2026-03-03 |  |
+| **[LLandMark: A Multi-Agent Framework for Landmark-Aware Multimodal Interactive Video Retrieval](https://arxiv.org/abs/2603.02888v1)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026 Workshop on New Frontiers in Information Retrieval</p></details> |
+| **[OmniRet: Efficient and High-Fidelity Omni Modality Retrieval](https://arxiv.org/abs/2603.02098v1)** | 2026-03-02 | <details><summary>CVPR ...</summary><p>CVPR 2026. Project link: https://github.com/hmchuong/omniret</p></details> |
 | **[PhotoBench: Beyond Visual Matching Towards Personalized Intent-Driven Photo Retrieval](https://arxiv.org/abs/2603.01493v1)** | 2026-03-02 | Under review |
 | **[Beyond Global Similarity: Towards Fine-Grained, Multi-Condition Multimodal Retrieval](https://arxiv.org/abs/2603.01082v1)** | 2026-03-01 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
 | **[MC-Search: Evaluating and Enhancing Multimodal Agentic Search with Structured Long Reasoning Chains](https://arxiv.org/abs/2603.00873v1)** | 2026-03-01 | ICLR 2026 |
@@ -38,9 +41,6 @@ labels: documentation
 | **[Sculpting the Vector Space: Towards Efficient Multi-Vector Visual Document Retrieval via Prune-then-Merge Framework](https://arxiv.org/abs/2602.19549v1)** | 2026-02-23 | Under review |
 | **[Efficient Discriminative Joint Encoders for Large Scale Vision-Language Reranking](https://arxiv.org/abs/2510.06820v2)** | 2026-02-22 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
 | **[CREM: Compression-Driven Representation Enhancement for Multimodal Retrieval and Comprehension](https://arxiv.org/abs/2602.19091v1)** | 2026-02-22 |  |
-| **[On the Adversarial Robustness of Discrete Image Tokenizers](https://arxiv.org/abs/2602.18252v1)** | 2026-02-20 |  |
-| **[U-MARVEL: Unveiling Key Factors for Universal Multimodal Retrieval via Embedding Learning with MLLMs](https://arxiv.org/abs/2507.14902v2)** | 2026-02-15 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
-| **[RAVENEA: A Benchmark for Multimodal Retrieval-Augmented Visual Culture Understanding](https://arxiv.org/abs/2505.14462v2)** | 2026-02-14 | <details><summary>ICLR ...</summary><p>ICLR 2026; Project page: https://jiaangli.github.io/ravenea/</p></details> |
 
 ## Moment Localization
 | **Title** | **Date** | **Comment** |
