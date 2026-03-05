@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 04, 2026
+title: Latest 15 Papers - March 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,7 +26,8 @@ labels: documentation
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[TRACE: Task-Adaptive Reasoning and Representation Learning for Universal Multimodal Retrieval](https://arxiv.org/abs/2603.02929v1)** | 2026-03-03 |  |
+| **[Retrieval or Representation? Reassessing Benchmark Gaps in Multilingual and Visually Rich RAG](https://arxiv.org/abs/2603.04238v1)** | 2026-03-04 | <details><summary>ICLR ...</summary><p>ICLR 2026 Workshop I Can't Believe It's Not Better: Where Large Language Models Need to Improve</p></details> |
+| **[TRACE: Task-Adaptive Reasoning and Representation Learning for Universal Multimodal Retrieval](https://arxiv.org/abs/2603.02929v2)** | 2026-03-04 |  |
 | **[LLandMark: A Multi-Agent Framework for Landmark-Aware Multimodal Interactive Video Retrieval](https://arxiv.org/abs/2603.02888v1)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026 Workshop on New Frontiers in Information Retrieval</p></details> |
 | **[OmniRet: Efficient and High-Fidelity Omni Modality Retrieval](https://arxiv.org/abs/2603.02098v1)** | 2026-03-02 | <details><summary>CVPR ...</summary><p>CVPR 2026. Project link: https://github.com/hmchuong/omniret</p></details> |
 | **[PhotoBench: Beyond Visual Matching Towards Personalized Intent-Driven Photo Retrieval](https://arxiv.org/abs/2603.01493v1)** | 2026-03-02 | Under review |
@@ -40,7 +41,6 @@ labels: documentation
 | **[V-Retrver: Evidence-Driven Agentic Reasoning for Universal Multimodal Retrieval](https://arxiv.org/abs/2602.06034v2)** | 2026-02-25 | <details><summary>Proje...</summary><p>Project page: https://github.com/chendy25/V-Retrver</p></details> |
 | **[Sculpting the Vector Space: Towards Efficient Multi-Vector Visual Document Retrieval via Prune-then-Merge Framework](https://arxiv.org/abs/2602.19549v1)** | 2026-02-23 | Under review |
 | **[Efficient Discriminative Joint Encoders for Large Scale Vision-Language Reranking](https://arxiv.org/abs/2510.06820v2)** | 2026-02-22 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
-| **[CREM: Compression-Driven Representation Enhancement for Multimodal Retrieval and Comprehension](https://arxiv.org/abs/2602.19091v1)** | 2026-02-22 |  |
 
 ## Moment Localization
 | **Title** | **Date** | **Comment** |
