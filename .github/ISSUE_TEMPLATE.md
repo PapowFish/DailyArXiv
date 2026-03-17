@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 16, 2026
+title: Latest 15 Papers - March 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GenState-AI: State-Aware Dataset for Text-to-Video Retrieval on AI-Generated Videos](https://arxiv.org/abs/2603.14426v1)** | 2026-03-15 |  |
 | **[CAST: Modeling Visual State Transitions for Consistent Video Retrieval](https://arxiv.org/abs/2603.08648v1)** | 2026-03-09 |  |
 | **[VDCook:DIY video data cook your MLLMs](https://arxiv.org/abs/2603.05539v1)** | 2026-03-04 |  |
 | **[LLandMark: A Multi-Agent Framework for Landmark-Aware Multimodal Interactive Video Retrieval](https://arxiv.org/abs/2603.02888v1)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026 Workshop on New Frontiers in Information Retrieval</p></details> |
@@ -21,11 +22,11 @@ labels: documentation
 | **[VidVec: Unlocking Video MLLM Embeddings for Video-Text Retrieval](https://arxiv.org/abs/2602.08099v1)** | 2026-02-08 | <details><summary>Proje...</summary><p>Project page: https://iyttor.github.io/VidVec/</p></details> |
 | **[LoVR: A Benchmark for Long Video Retrieval in Multimodal Contexts](https://arxiv.org/abs/2505.13928v4)** | 2026-02-04 |  |
 | **[RANKVIDEO: Reasoning Reranking for Text-to-Video Retrieval](https://arxiv.org/abs/2602.02444v2)** | 2026-02-03 |  |
-| **[Human-in-the-loop Adaptation in Group Activity Feature Learning for Team Sports Video Retrieval](https://arxiv.org/abs/2602.03157v1)** | 2026-02-03 | <details><summary>Accep...</summary><p>Accepted to Computer Vision and Image Understanding (CVIU)</p></details> |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PRISM: Enhancing Protein Inverse Folding through Fine-Grained Retrieval on Structure-Sequence Multimodal Representations](https://arxiv.org/abs/2510.11750v2)** | 2026-03-14 | <details><summary>Publi...</summary><p>Published as a conference paper at International Conference on Learning Representation (ICLR) 2026</p></details> |
 | **[Beyond Relevance: On the Relationship Between Retrieval and RAG Information Coverage](https://arxiv.org/abs/2603.08819v2)** | 2026-03-11 | 11 pages |
 | **[DEO: Training-Free Direct Embedding Optimization for Negation-Aware Retrieval](https://arxiv.org/abs/2603.09185v1)** | 2026-03-10 |  |
 | **[BRIDGE: Benchmark for multi-hop Reasoning In long multimodal Documents with Grounded Evidence](https://arxiv.org/abs/2603.07931v1)** | 2026-03-09 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[PhotoBench: Beyond Visual Matching Towards Personalized Intent-Driven Photo Retrieval](https://arxiv.org/abs/2603.01493v1)** | 2026-03-02 | Under review |
 | **[Beyond Global Similarity: Towards Fine-Grained, Multi-Condition Multimodal Retrieval](https://arxiv.org/abs/2603.01082v1)** | 2026-03-01 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
 | **[MC-Search: Evaluating and Enhancing Multimodal Agentic Search with Structured Long Reasoning Chains](https://arxiv.org/abs/2603.00873v1)** | 2026-03-01 | ICLR 2026 |
-| **[Zero-Shot Robotic Manipulation via 3D Gaussian Splatting-Enhanced Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2603.00500v1)** | 2026-02-28 | 9 pages, 5 figures |
 
 ## Moment Localization
 | **Title** | **Date** | **Comment** |
