@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 23, 2026
+title: Latest 15 Papers - March 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VIRTUE: Versatile Video Retrieval Through Unified Embeddings](https://arxiv.org/abs/2601.12193v2)** | 2026-03-23 |  |
 | **[CoVR-R:Reason-Aware Composed Video Retrieval](https://arxiv.org/abs/2603.20190v1)** | 2026-03-20 | CVPR 2026 (findings) |
 | **[GenState-AI: State-Aware Dataset for Text-to-Video Retrieval on AI-Generated Videos](https://arxiv.org/abs/2603.14426v1)** | 2026-03-15 |  |
 | **[CAST: Modeling Visual State Transitions for Consistent Video Retrieval](https://arxiv.org/abs/2603.08648v1)** | 2026-03-09 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[ShotFinder: Imagination-Driven Open-Domain Video Shot Retrieval via Web Search](https://arxiv.org/abs/2601.23232v3)** | 2026-02-14 | <details><summary>28 pa...</summary><p>28 pages, 7 figures, Project website: https://github.com/yutao1024/ShotFinder</p></details> |
 | **[Beyond Closed-Pool Video Retrieval: A Benchmark and Agent Framework for Real-World Video Search and Moment Localization](https://arxiv.org/abs/2602.10159v1)** | 2026-02-10 | 49 pages, 9 figures |
 | **[VidVec: Unlocking Video MLLM Embeddings for Video-Text Retrieval](https://arxiv.org/abs/2602.08099v1)** | 2026-02-08 | <details><summary>Proje...</summary><p>Project page: https://iyttor.github.io/VidVec/</p></details> |
-| **[LoVR: A Benchmark for Long Video Retrieval in Multimodal Contexts](https://arxiv.org/abs/2505.13928v4)** | 2026-02-04 |  |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
@@ -45,8 +45,8 @@ labels: documentation
 ## Moment Localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VIRTUE: Versatile Video Retrieval Through Unified Embeddings](https://arxiv.org/abs/2601.12193v2)** | 2026-03-23 |  |
 | **[Beyond Closed-Pool Video Retrieval: A Benchmark and Agent Framework for Real-World Video Search and Moment Localization](https://arxiv.org/abs/2602.10159v1)** | 2026-02-10 | 49 pages, 9 figures |
-| **[VIRTUE: Versatile Video Retrieval Through Unified Embeddings](https://arxiv.org/abs/2601.12193v1)** | 2026-01-17 |  |
 | **[Aligning Moments in Time using Video Queries](https://arxiv.org/abs/2508.15439v2)** | 2025-09-01 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, accepted at ICCV 2025</p></details> |
 | **[Music Grounding by Short Video](https://arxiv.org/abs/2408.16990v4)** | 2025-07-21 | Accepted to ICCV2025 |
 | **[Object-Shot Enhanced Grounding Network for Egocentric Video](https://arxiv.org/abs/2505.04270v1)** | 2025-05-07 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025</p></details> |
