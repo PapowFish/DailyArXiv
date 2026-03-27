@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 26, 2026
+title: Latest 15 Papers - March 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[EagleNet: Energy-Aware Fine-Grained Relationship Learning Network for Text-Video Retrieval](https://arxiv.org/abs/2603.25267v1)** | 2026-03-26 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026</p></details> |
+| **[SportSkills: Physical Skill Learning from Sports Instructional Videos](https://arxiv.org/abs/2603.25163v1)** | 2026-03-26 | Technical report |
 | **[Knowledge-Refined Dual Context-Aware Network for Partially Relevant Video Retrieval](https://arxiv.org/abs/2603.23902v1)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted in ICME 2026</p></details> |
 | **[Efficient and High-Fidelity Omni Modality Retrieval](https://arxiv.org/abs/2603.02098v2)** | 2026-03-24 | <details><summary>CVPR ...</summary><p>CVPR 2026. Project page: https://hmchuong.github.io/omniret</p></details> |
 | **[VIRTUE: Versatile Video Retrieval Through Unified Embeddings](https://arxiv.org/abs/2601.12193v2)** | 2026-03-23 |  |
@@ -20,12 +22,11 @@ labels: documentation
 | **[VQPP: Video Query Performance Prediction Benchmark](https://arxiv.org/abs/2602.17814v1)** | 2026-02-19 |  |
 | **[DataCube: A Video Retrieval Platform via Natural Language Semantic Profiling](https://arxiv.org/abs/2602.16231v1)** | 2026-02-18 | <details><summary>This ...</summary><p>This paper is under review for the IJCAI-ECAI 2026 Demonstrations Track</p></details> |
 | **[U-MARVEL: Unveiling Key Factors for Universal Multimodal Retrieval via Embedding Learning with MLLMs](https://arxiv.org/abs/2507.14902v2)** | 2026-02-15 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
-| **[ShotFinder: Imagination-Driven Open-Domain Video Shot Retrieval via Web Search](https://arxiv.org/abs/2601.23232v3)** | 2026-02-14 | <details><summary>28 pa...</summary><p>28 pages, 7 figures, Project website: https://github.com/yutao1024/ShotFinder</p></details> |
-| **[Beyond Closed-Pool Video Retrieval: A Benchmark and Agent Framework for Real-World Video Search and Moment Localization](https://arxiv.org/abs/2602.10159v1)** | 2026-02-10 | 49 pages, 9 figures |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AutoSAM: an Agentic Framework for Automating Input File Generation for the SAM Code with Multi-Modal Retrieval-Augmented Generation](https://arxiv.org/abs/2603.24736v1)** | 2026-03-25 | 34 Pages, 14 Figures |
 | **[Efficient and High-Fidelity Omni Modality Retrieval](https://arxiv.org/abs/2603.02098v2)** | 2026-03-24 | <details><summary>CVPR ...</summary><p>CVPR 2026. Project page: https://hmchuong.github.io/omniret</p></details> |
 | **[Grounded Multimodal Retrieval-Augmented Drafting of Radiology Impressions Using Case-Based Similarity Search](https://arxiv.org/abs/2603.17765v1)** | 2026-03-18 | <details><summary>15 pa...</summary><p>15 pages, 4 figures, 3 tables</p></details> |
 | **[Caption Injection for Optimization in Generative Search Engine](https://arxiv.org/abs/2511.04080v2)** | 2026-03-18 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Beyond Text: Aligning Vision and Language for Multimodal E-Commerce Retrieval](https://arxiv.org/abs/2603.04836v1)** | 2026-03-05 |  |
 | **[Retrieval or Representation? Reassessing Benchmark Gaps in Multilingual and Visually Rich RAG](https://arxiv.org/abs/2603.04238v1)** | 2026-03-04 | <details><summary>ICLR ...</summary><p>ICLR 2026 Workshop I Can't Believe It's Not Better: Where Large Language Models Need to Improve</p></details> |
 | **[TRACE: Task-Adaptive Reasoning and Representation Learning for Universal Multimodal Retrieval](https://arxiv.org/abs/2603.02929v2)** | 2026-03-04 |  |
-| **[LLandMark: A Multi-Agent Framework for Landmark-Aware Multimodal Interactive Video Retrieval](https://arxiv.org/abs/2603.02888v1)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026 Workshop on New Frontiers in Information Retrieval</p></details> |
 
 ## Moment Localization
 | **Title** | **Date** | **Comment** |
