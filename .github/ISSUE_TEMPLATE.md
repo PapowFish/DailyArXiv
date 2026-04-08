@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 07, 2026
+title: Latest 15 Papers - April 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,7 +26,11 @@ labels: documentation
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[WikiSeeker: Rethinking the Role of Vision-Language Models in Knowledge-Based Visual Question Answering](https://arxiv.org/abs/2604.05818v1)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted by ACL 2026 Findings</p></details> |
+| **[Guided Query Refinement: Multimodal Hybrid Retrieval with Test-Time Optimization](https://arxiv.org/abs/2510.05038v3)** | 2026-04-06 | ICLR 2026 |
+| **[MetaEmbed: Scaling Multimodal Retrieval at Test-Time with Flexible Late Interaction](https://arxiv.org/abs/2509.18095v2)** | 2026-04-06 | ICLR 2026 Oral |
 | **[Mixture-of-Retrieval Experts for Reasoning-Guided Multimodal Knowledge Exploitation](https://arxiv.org/abs/2505.22095v2)** | 2026-04-06 |  |
+| **[MG$^2$-RAG: Multi-Granularity Graph for Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2604.04969v1)** | 2026-04-04 |  |
 | **[FusionBERT: Multi-View Image-3D Retrieval via Cross-Attention Visual Fusion and Normal-Aware 3D Encoder](https://arxiv.org/abs/2604.02583v1)** | 2026-04-02 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, 2 tables</p></details> |
 | **[CiQi-Agent: Aligning Vision, Tools and Aesthetics in Multimodal Agent for Cultural Reasoning on Chinese Porcelains](https://arxiv.org/abs/2603.28474v1)** | 2026-03-30 |  |
 | **[Towards Hyper-Efficient RAG Systems in VecDBs: Distributed Parallel Multi-Resolution Vector Search](https://arxiv.org/abs/2511.16681v2)** | 2026-03-28 |  |
@@ -37,10 +41,6 @@ labels: documentation
 | **[Caption Injection for Optimization in Generative Search Engine](https://arxiv.org/abs/2511.04080v2)** | 2026-03-18 |  |
 | **[Work Sharing and Offloading for Efficient Approximate Threshold-based Vector Join](https://arxiv.org/abs/2603.16360v1)** | 2026-03-17 |  |
 | **[PRISM: Enhancing Protein Inverse Folding through Fine-Grained Retrieval on Structure-Sequence Multimodal Representations](https://arxiv.org/abs/2510.11750v2)** | 2026-03-14 | <details><summary>Publi...</summary><p>Published as a conference paper at International Conference on Learning Representation (ICLR) 2026</p></details> |
-| **[Beyond Relevance: On the Relationship Between Retrieval and RAG Information Coverage](https://arxiv.org/abs/2603.08819v2)** | 2026-03-11 | 11 pages |
-| **[LITTA: Late-Interaction and Test-Time Alignment for Visually-Grounded Multimodal Retrieval](https://arxiv.org/abs/2603.26683v1)** | 2026-03-10 |  |
-| **[DEO: Training-Free Direct Embedding Optimization for Negation-Aware Retrieval](https://arxiv.org/abs/2603.09185v1)** | 2026-03-10 |  |
-| **[BRIDGE: Benchmark for multi-hop Reasoning In long multimodal Documents with Grounded Evidence](https://arxiv.org/abs/2603.07931v1)** | 2026-03-09 |  |
 
 ## Moment Localization
 | **Title** | **Date** | **Comment** |
