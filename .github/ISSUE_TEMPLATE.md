@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 09, 2026
+title: Latest 15 Papers - April 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Semantic Noise Reduction via Teacher-Guided Dual-Path Audio-Visual Representation Learning](https://arxiv.org/abs/2604.08147v1)** | 2026-04-09 |  |
 | **[Interpreting Video Representations with Spatio-Temporal Sparse Autoencoders](https://arxiv.org/abs/2604.03919v1)** | 2026-04-05 | <details><summary>9 pag...</summary><p>9 pages, 2 figures, 5 tables. Submitted to ACM Multimedia 2026</p></details> |
 | **[Imagine Before Concentration: Diffusion-Guided Registers Enhance Partially Relevant Video Retrieval](https://arxiv.org/abs/2604.03653v1)** | 2026-04-04 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026. 15 pages, 7 figures, 3 tables</p></details> |
 | **[EagleNet: Energy-Aware Fine-Grained Relationship Learning Network for Text-Video Retrieval](https://arxiv.org/abs/2603.25267v3)** | 2026-04-01 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026</p></details> |
@@ -21,11 +22,11 @@ labels: documentation
 | **[CAST: Modeling Visual State Transitions for Consistent Video Retrieval](https://arxiv.org/abs/2603.08648v1)** | 2026-03-09 |  |
 | **[VDCook:DIY video data cook your MLLMs](https://arxiv.org/abs/2603.05539v1)** | 2026-03-04 |  |
 | **[LLandMark: A Multi-Agent Framework for Landmark-Aware Multimodal Interactive Video Retrieval](https://arxiv.org/abs/2603.02888v1)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026 Workshop on New Frontiers in Information Retrieval</p></details> |
-| **[Unified Vision-Language Modeling via Concept Space Alignment](https://arxiv.org/abs/2603.01096v1)** | 2026-03-01 | ICLR 2026 |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Progressive Multimodal Search and Reasoning for Knowledge-Intensive Visual Question Answering](https://arxiv.org/abs/2509.00798v6)** | 2026-04-09 |  |
 | **[HIVE: Query, Hypothesize, Verify An LLM Framework for Multimodal Reasoning-Intensive Retrieval](https://arxiv.org/abs/2604.07220v1)** | 2026-04-08 | <details><summary>accep...</summary><p>accepted at CVPR 2026 Workshop GRAIL-V</p></details> |
 | **[BRIDGE: Multimodal-to-Text Retrieval via Reinforcement-Learned Query Alignment](https://arxiv.org/abs/2604.07201v1)** | 2026-04-08 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026 Workshop GRAIL-V</p></details> |
 | **[MARVEL: Multimodal Adaptive Reasoning-intensiVe Expand-rerank and retrievaL](https://arxiv.org/abs/2604.07079v1)** | 2026-04-08 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[CrisiSense-RAG: Crisis Sensing Multimodal Retrieval-Augmented Generation for Rapid Disaster Impact Assessment](https://arxiv.org/abs/2602.13239v2)** | 2026-03-26 | 27 pages, 4 figures |
 | **[AutoSAM: an Agentic Framework for Automating Input File Generation for the SAM Code with Multi-Modal Retrieval-Augmented Generation](https://arxiv.org/abs/2603.24736v1)** | 2026-03-25 | 34 Pages, 14 Figures |
 | **[Efficient and High-Fidelity Omni Modality Retrieval](https://arxiv.org/abs/2603.02098v2)** | 2026-03-24 | <details><summary>CVPR ...</summary><p>CVPR 2026. Project page: https://hmchuong.github.io/omniret</p></details> |
-| **[Grounded Multimodal Retrieval-Augmented Drafting of Radiology Impressions Using Case-Based Similarity Search](https://arxiv.org/abs/2603.17765v1)** | 2026-03-18 | <details><summary>15 pa...</summary><p>15 pages, 4 figures, 3 tables</p></details> |
 
 ## Moment Localization
 | **Title** | **Date** | **Comment** |
