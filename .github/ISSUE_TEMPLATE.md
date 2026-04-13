@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 12, 2026
+title: Latest 15 Papers - April 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MAB-DQA: Addressing Query Aspect Importance in Document Question Answering with Multi-Armed Bandits](https://arxiv.org/abs/2604.08952v1)** | 2026-04-10 | <details><summary>Accep...</summary><p>Accepted by ACL 2026. 19 pages, 9 figures, 6 tables</p></details> |
 | **[Progressive Multimodal Search and Reasoning for Knowledge-Intensive Visual Question Answering](https://arxiv.org/abs/2509.00798v6)** | 2026-04-09 |  |
 | **[HIVE: Query, Hypothesize, Verify An LLM Framework for Multimodal Reasoning-Intensive Retrieval](https://arxiv.org/abs/2604.07220v1)** | 2026-04-08 | <details><summary>accep...</summary><p>accepted at CVPR 2026 Workshop GRAIL-V</p></details> |
 | **[BRIDGE: Multimodal-to-Text Retrieval via Reinforcement-Learned Query Alignment](https://arxiv.org/abs/2604.07201v1)** | 2026-04-08 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026 Workshop GRAIL-V</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Towards Hyper-Efficient RAG Systems in VecDBs: Distributed Parallel Multi-Resolution Vector Search](https://arxiv.org/abs/2511.16681v2)** | 2026-03-28 |  |
 | **[CrisiSense-RAG: Crisis Sensing Multimodal Retrieval-Augmented Generation for Rapid Disaster Impact Assessment](https://arxiv.org/abs/2602.13239v2)** | 2026-03-26 | 27 pages, 4 figures |
 | **[AutoSAM: an Agentic Framework for Automating Input File Generation for the SAM Code with Multi-Modal Retrieval-Augmented Generation](https://arxiv.org/abs/2603.24736v1)** | 2026-03-25 | 34 Pages, 14 Figures |
-| **[Efficient and High-Fidelity Omni Modality Retrieval](https://arxiv.org/abs/2603.02098v2)** | 2026-03-24 | <details><summary>CVPR ...</summary><p>CVPR 2026. Project page: https://hmchuong.github.io/omniret</p></details> |
 
 ## Moment Localization
 | **Title** | **Date** | **Comment** |
