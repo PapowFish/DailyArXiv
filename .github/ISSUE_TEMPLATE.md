@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 13, 2026
+title: Latest 15 Papers - April 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning World Models for Interactive Video Generation](https://arxiv.org/abs/2505.21996v3)** | 2026-04-13 | <details><summary>Proje...</summary><p>Project page: https://sites.google.com/view/vrag</p></details> |
+| **[Adversarial Video Promotion Against Text-to-Video Retrieval](https://arxiv.org/abs/2508.06964v3)** | 2026-04-12 | <details><summary>This ...</summary><p>This paper has been accepted by TIFS</p></details> |
 | **[Semantic Noise Reduction via Teacher-Guided Dual-Path Audio-Visual Representation Learning](https://arxiv.org/abs/2604.08147v1)** | 2026-04-09 |  |
 | **[Interpreting Video Representations with Spatio-Temporal Sparse Autoencoders](https://arxiv.org/abs/2604.03919v1)** | 2026-04-05 | <details><summary>9 pag...</summary><p>9 pages, 2 figures, 5 tables. Submitted to ACM Multimedia 2026</p></details> |
 | **[Imagine Before Concentration: Diffusion-Guided Registers Enhance Partially Relevant Video Retrieval](https://arxiv.org/abs/2604.03653v1)** | 2026-04-04 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026. 15 pages, 7 figures, 3 tables</p></details> |
@@ -20,12 +22,11 @@ labels: documentation
 | **[GenState-AI: State-Aware Dataset for Text-to-Video Retrieval on AI-Generated Videos](https://arxiv.org/abs/2603.14426v1)** | 2026-03-15 |  |
 | **[SafeScreen: A Safety-First Screening Framework for Personalized Video Retrieval for Vulnerable Users](https://arxiv.org/abs/2604.03264v1)** | 2026-03-12 | <details><summary>11 pa...</summary><p>11 pages, 3 figures, 7 tables. Under review for ACM ICMI 2026</p></details> |
 | **[CAST: Modeling Visual State Transitions for Consistent Video Retrieval](https://arxiv.org/abs/2603.08648v1)** | 2026-03-09 |  |
-| **[VDCook:DIY video data cook your MLLMs](https://arxiv.org/abs/2603.05539v1)** | 2026-03-04 |  |
-| **[LLandMark: A Multi-Agent Framework for Landmark-Aware Multimodal Interactive Video Retrieval](https://arxiv.org/abs/2603.02888v1)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026 Workshop on New Frontiers in Information Retrieval</p></details> |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Bottleneck Tokens for Unified Multimodal Retrieval](https://arxiv.org/abs/2604.11095v1)** | 2026-04-13 |  |
 | **[MAB-DQA: Addressing Query Aspect Importance in Document Question Answering with Multi-Armed Bandits](https://arxiv.org/abs/2604.08952v1)** | 2026-04-10 | <details><summary>Accep...</summary><p>Accepted by ACL 2026. 19 pages, 9 figures, 6 tables</p></details> |
 | **[Progressive Multimodal Search and Reasoning for Knowledge-Intensive Visual Question Answering](https://arxiv.org/abs/2509.00798v6)** | 2026-04-09 |  |
 | **[HIVE: Query, Hypothesize, Verify An LLM Framework for Multimodal Reasoning-Intensive Retrieval](https://arxiv.org/abs/2604.07220v1)** | 2026-04-08 | <details><summary>accep...</summary><p>accepted at CVPR 2026 Workshop GRAIL-V</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[CiQi-Agent: Aligning Vision, Tools and Aesthetics in Multimodal Agent for Cultural Reasoning on Chinese Porcelains](https://arxiv.org/abs/2603.28474v1)** | 2026-03-30 |  |
 | **[Towards Hyper-Efficient RAG Systems in VecDBs: Distributed Parallel Multi-Resolution Vector Search](https://arxiv.org/abs/2511.16681v2)** | 2026-03-28 |  |
 | **[CrisiSense-RAG: Crisis Sensing Multimodal Retrieval-Augmented Generation for Rapid Disaster Impact Assessment](https://arxiv.org/abs/2602.13239v2)** | 2026-03-26 | 27 pages, 4 figures |
-| **[AutoSAM: an Agentic Framework for Automating Input File Generation for the SAM Code with Multi-Modal Retrieval-Augmented Generation](https://arxiv.org/abs/2603.24736v1)** | 2026-03-25 | 34 Pages, 14 Figures |
 
 ## Moment Localization
 | **Title** | **Date** | **Comment** |
