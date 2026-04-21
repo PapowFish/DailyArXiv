@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 20, 2026
+title: Latest 15 Papers - April 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ReTrack: Evidence-Driven Dual-Stream Directional Anchor Calibration Network for Composed Video Retrieval](https://arxiv.org/abs/2604.17898v1)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
 | **[VeRVE: Versatile Retrieval for Videos via Unified Embeddings](https://arxiv.org/abs/2601.12193v3)** | 2026-04-17 |  |
 | **[ViLL-E: Video LLM Embeddings for Retrieval](https://arxiv.org/abs/2604.12148v1)** | 2026-04-13 | <details><summary>Accep...</summary><p>Accepted at ACL 2026 Main conference</p></details> |
 | **[Learning World Models for Interactive Video Generation](https://arxiv.org/abs/2505.21996v3)** | 2026-04-13 | <details><summary>Proje...</summary><p>Project page: https://sites.google.com/view/vrag</p></details> |
@@ -21,11 +22,17 @@ labels: documentation
 | **[Efficient and High-Fidelity Omni Modality Retrieval](https://arxiv.org/abs/2603.02098v2)** | 2026-03-24 | <details><summary>CVPR ...</summary><p>CVPR 2026. Project page: https://hmchuong.github.io/omniret</p></details> |
 | **[CoVR-R:Reason-Aware Composed Video Retrieval](https://arxiv.org/abs/2603.20190v1)** | 2026-03-20 | CVPR 2026 (findings) |
 | **[GenState-AI: State-Aware Dataset for Text-to-Video Retrieval on AI-Generated Videos](https://arxiv.org/abs/2603.14426v1)** | 2026-03-15 |  |
-| **[SafeScreen: A Safety-First Screening Framework for Personalized Video Retrieval for Vulnerable Users](https://arxiv.org/abs/2604.03264v1)** | 2026-03-12 | <details><summary>11 pa...</summary><p>11 pages, 3 figures, 7 tables. Under review for ACM ICMI 2026</p></details> |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Scaling Beyond Context: A Survey of Multimodal Retrieval-Augmented Generation for Document Understanding](https://arxiv.org/abs/2510.15253v3)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted by ACL2026 Main Conference; Project is available at https://github.com/SensenGao/Multimodal-RAG-Survey-For-Document</p></details> |
+| **[AeroRAG: Structured Multimodal Retrieval-Augmented LLM for Fine-Grained Aerial Visual Reasoning](https://arxiv.org/abs/2604.17889v1)** | 2026-04-20 |  |
+| **[Sculpting the Vector Space: Towards Efficient Multi-Vector Visual Document Retrieval via Prune-then-Merge Framework](https://arxiv.org/abs/2602.19549v2)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted by The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026, Findings)</p></details> |
+| **[LVLM-Aware Multimodal Retrieval for RAG-Based Medical Diagnosis with General-Purpose Models](https://arxiv.org/abs/2508.17394v6)** | 2026-04-19 |  |
+| **[mEOL: Training-Free Instruction-Guided Multimodal Embedder for Vector Graphics and Image Retrieval](https://arxiv.org/abs/2604.17054v1)** | 2026-04-18 | <details><summary>Round...</summary><p>Round 1 early acceptance to WACV 2026, Project page: https://scene-the-ella.github.io/meol</p></details> |
+| **[A Sketch+Text Composed Image Retrieval Dataset for Thangka](https://arxiv.org/abs/2602.08411v2)** | 2026-04-18 | 9 pages |
+| **[RA-RRG: Multimodal Retrieval-Augmented Radiology Report Generation with Key Phrase Extraction](https://arxiv.org/abs/2504.07415v2)** | 2026-04-18 | <details><summary>ACL 2...</summary><p>ACL 2026, Findings of the Association for Computational Linguistics</p></details> |
 | **[CodeMMR: Bridging Natural Language, Code, and Image for Unified Retrieval](https://arxiv.org/abs/2604.15663v1)** | 2026-04-17 |  |
 | **[MAB-DQA: Addressing Query Aspect Importance in Document Question Answering with Multi-Armed Bandits](https://arxiv.org/abs/2604.08952v2)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted by ACL 2026. 20 pages, 9 figures, 6 tables</p></details> |
 | **[RadAgents: Multimodal Agentic Reasoning for Chest X-ray Interpretation with Radiologist-like Workflows](https://arxiv.org/abs/2509.20490v4)** | 2026-04-15 | MIDL 2026 |
@@ -34,13 +41,6 @@ labels: documentation
 | **[Human-Inspired Context-Selective Multimodal Memory for Social Robots](https://arxiv.org/abs/2604.12081v1)** | 2026-04-13 | <details><summary>Proc....</summary><p>Proc. of the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2026)</p></details> |
 | **[Benchmarking Deflection and Hallucination in Large Vision-Language Models](https://arxiv.org/abs/2604.12033v1)** | 2026-04-13 | Accepted to ACL 2026 |
 | **[Bottleneck Tokens for Unified Multimodal Retrieval](https://arxiv.org/abs/2604.11095v1)** | 2026-04-13 |  |
-| **[Progressive Multimodal Search and Reasoning for Knowledge-Intensive Visual Question Answering](https://arxiv.org/abs/2509.00798v6)** | 2026-04-09 |  |
-| **[HIVE: Query, Hypothesize, Verify An LLM Framework for Multimodal Reasoning-Intensive Retrieval](https://arxiv.org/abs/2604.07220v1)** | 2026-04-08 | <details><summary>accep...</summary><p>accepted at CVPR 2026 Workshop GRAIL-V</p></details> |
-| **[BRIDGE: Multimodal-to-Text Retrieval via Reinforcement-Learned Query Alignment](https://arxiv.org/abs/2604.07201v1)** | 2026-04-08 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026 Workshop GRAIL-V</p></details> |
-| **[MARVEL: Multimodal Adaptive Reasoning-intensiVe Expand-rerank and retrievaL](https://arxiv.org/abs/2604.07079v1)** | 2026-04-08 |  |
-| **[Guided Query Refinement: Multimodal Hybrid Retrieval with Test-Time Optimization](https://arxiv.org/abs/2510.05038v3)** | 2026-04-06 | ICLR 2026 |
-| **[MetaEmbed: Scaling Multimodal Retrieval at Test-Time with Flexible Late Interaction](https://arxiv.org/abs/2509.18095v2)** | 2026-04-06 | ICLR 2026 Oral |
-| **[Mixture-of-Retrieval Experts for Reasoning-Guided Multimodal Knowledge Exploitation](https://arxiv.org/abs/2505.22095v2)** | 2026-04-06 |  |
 
 ## Moment Localization
 | **Title** | **Date** | **Comment** |
