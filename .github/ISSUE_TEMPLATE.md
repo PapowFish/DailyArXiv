@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 22, 2026
+title: Latest 15 Papers - April 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[UniCVR: From Alignment to Reranking for Unified Zero-Shot Composed Visual Retrieval](https://arxiv.org/abs/2604.20318v1)** | 2026-04-22 |  |
 | **[ReTrack: Evidence-Driven Dual-Stream Directional Anchor Calibration Network for Composed Video Retrieval](https://arxiv.org/abs/2604.17898v1)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
 | **[VeRVE: Versatile Retrieval for Videos via Unified Embeddings](https://arxiv.org/abs/2601.12193v3)** | 2026-04-17 |  |
 | **[ViLL-E: Video LLM Embeddings for Retrieval](https://arxiv.org/abs/2604.12148v1)** | 2026-04-13 | <details><summary>Accep...</summary><p>Accepted at ACL 2026 Main conference</p></details> |
@@ -21,11 +22,11 @@ labels: documentation
 | **[Knowledge-Refined Dual Context-Aware Network for Partially Relevant Video Retrieval](https://arxiv.org/abs/2603.23902v1)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted in ICME 2026</p></details> |
 | **[Efficient and High-Fidelity Omni Modality Retrieval](https://arxiv.org/abs/2603.02098v2)** | 2026-03-24 | <details><summary>CVPR ...</summary><p>CVPR 2026. Project page: https://hmchuong.github.io/omniret</p></details> |
 | **[CoVR-R:Reason-Aware Composed Video Retrieval](https://arxiv.org/abs/2603.20190v1)** | 2026-03-20 | CVPR 2026 (findings) |
-| **[GenState-AI: State-Aware Dataset for Text-to-Video Retrieval on AI-Generated Videos](https://arxiv.org/abs/2603.14426v1)** | 2026-03-15 |  |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Progressive Multimodal Search and Reasoning for Knowledge-Intensive Visual Question Answering](https://arxiv.org/abs/2509.00798v7)** | 2026-04-22 |  |
 | **[VimRAG: Navigating Massive Visual Context in Retrieval-Augmented Generation via Multimodal Memory Graph](https://arxiv.org/abs/2602.12735v2)** | 2026-04-21 |  |
 | **[Scaling Beyond Context: A Survey of Multimodal Retrieval-Augmented Generation for Document Understanding](https://arxiv.org/abs/2510.15253v3)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted by ACL2026 Main Conference; Project is available at https://github.com/SensenGao/Multimodal-RAG-Survey-For-Document</p></details> |
 | **[AeroRAG: Structured Multimodal Retrieval-Augmented LLM for Fine-Grained Aerial Visual Reasoning](https://arxiv.org/abs/2604.17889v1)** | 2026-04-20 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Beyond Relevance: On the Relationship Between Retrieval and RAG Information Coverage](https://arxiv.org/abs/2603.08819v3)** | 2026-04-14 | 11 pages |
 | **[WikiSeeker: Rethinking the Role of Vision-Language Models in Knowledge-Based Visual Question Answering](https://arxiv.org/abs/2604.05818v2)** | 2026-04-14 | <details><summary>Accep...</summary><p>Accepted by ACL 2026 Findings</p></details> |
 | **[Human-Inspired Context-Selective Multimodal Memory for Social Robots](https://arxiv.org/abs/2604.12081v1)** | 2026-04-13 | <details><summary>Proc....</summary><p>Proc. of the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2026)</p></details> |
-| **[Benchmarking Deflection and Hallucination in Large Vision-Language Models](https://arxiv.org/abs/2604.12033v1)** | 2026-04-13 | Accepted to ACL 2026 |
 
 ## Moment Localization
 | **Title** | **Date** | **Comment** |
