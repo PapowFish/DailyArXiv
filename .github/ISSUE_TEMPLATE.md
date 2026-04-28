@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 26, 2026
+title: Latest 15 Papers - April 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SRL-CLIP: Efficient CLIP Video Adaptation via Structured Semantic Role Labels](https://arxiv.org/abs/2401.07669v2)** | 2026-04-26 | <details><summary>Accep...</summary><p>Accepted to the CV4Smalls Workshop at CVPR 2026</p></details> |
+| **[Beyond Static Collision Handling: Adaptive Semantic ID Learning for Multimodal Recommendation at Industrial Scale](https://arxiv.org/abs/2604.23522v1)** | 2026-04-26 |  |
+| **[StructAlign: Structured Cross-Modal Alignment for Continual Text-to-Video Retrieval](https://arxiv.org/abs/2601.20597v2)** | 2026-04-25 |  |
+| **[Adapting MLLMs for Nuanced Video Retrieval](https://arxiv.org/abs/2512.13511v2)** | 2026-04-24 | <details><summary>38 Pa...</summary><p>38 Pages. Project page at http://bpiyush.github.io/tara-website</p></details> |
 | **[UniCVR: From Alignment to Reranking for Unified Zero-Shot Composed Visual Retrieval](https://arxiv.org/abs/2604.20318v1)** | 2026-04-22 |  |
 | **[ReTrack: Evidence-Driven Dual-Stream Directional Anchor Calibration Network for Composed Video Retrieval](https://arxiv.org/abs/2604.17898v1)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
 | **[VeRVE: Versatile Retrieval for Videos via Unified Embeddings](https://arxiv.org/abs/2601.12193v3)** | 2026-04-17 |  |
@@ -18,14 +22,14 @@ labels: documentation
 | **[Imagine Before Concentration: Diffusion-Guided Registers Enhance Partially Relevant Video Retrieval](https://arxiv.org/abs/2604.03653v1)** | 2026-04-04 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026. 15 pages, 7 figures, 3 tables</p></details> |
 | **[EagleNet: Energy-Aware Fine-Grained Relationship Learning Network for Text-Video Retrieval](https://arxiv.org/abs/2603.25267v3)** | 2026-04-01 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026</p></details> |
 | **[GUIDE: Resolving Domain Bias in GUI Agents through Real-Time Web Video Retrieval and Plug-and-Play Annotation](https://arxiv.org/abs/2603.26266v2)** | 2026-03-31 | <details><summary>28 pa...</summary><p>28 pages, 8 figures, 7 tables</p></details> |
-| **[SportSkills: Physical Skill Learning from Sports Instructional Videos](https://arxiv.org/abs/2603.25163v1)** | 2026-03-26 | Technical report |
-| **[Knowledge-Refined Dual Context-Aware Network for Partially Relevant Video Retrieval](https://arxiv.org/abs/2603.23902v1)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted in ICME 2026</p></details> |
-| **[Efficient and High-Fidelity Omni Modality Retrieval](https://arxiv.org/abs/2603.02098v2)** | 2026-03-24 | <details><summary>CVPR ...</summary><p>CVPR 2026. Project page: https://hmchuong.github.io/omniret</p></details> |
-| **[CoVR-R:Reason-Aware Composed Video Retrieval](https://arxiv.org/abs/2603.20190v1)** | 2026-03-20 | CVPR 2026 (findings) |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MEG-RAG: Quantifying Multi-modal Evidence Grounding for Evidence Selection in RAG](https://arxiv.org/abs/2604.24564v1)** | 2026-04-27 |  |
+| **[mKG-RAG: Leveraging Multimodal Knowledge Graphs in Retrieval-Augmented Generation for Knowledge-intensive VQA](https://arxiv.org/abs/2508.05318v2)** | 2026-04-27 | <details><summary>In Pr...</summary><p>In Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR'26), July 20-24, 2026, Melbourne, VIC, Australia</p></details> |
+| **[Robust Audio-Text Retrieval via Cross-Modal Attention and Hybrid Loss](https://arxiv.org/abs/2604.23323v1)** | 2026-04-25 |  |
+| **[Lightweight and Production-Ready PDF Visual Element Parsing](https://arxiv.org/abs/2604.23276v1)** | 2026-04-25 |  |
 | **[MiMIC: Mitigating Visual Modality Collapse in Universal Multimodal Retrieval While Avoiding Semantic Misalignment](https://arxiv.org/abs/2604.21326v1)** | 2026-04-23 |  |
 | **[Progressive Multimodal Search and Reasoning for Knowledge-Intensive Visual Question Answering](https://arxiv.org/abs/2509.00798v7)** | 2026-04-22 |  |
 | **[VimRAG: Navigating Massive Visual Context in Retrieval-Augmented Generation via Multimodal Memory Graph](https://arxiv.org/abs/2602.12735v2)** | 2026-04-21 |  |
@@ -37,10 +41,6 @@ labels: documentation
 | **[A Sketch+Text Composed Image Retrieval Dataset for Thangka](https://arxiv.org/abs/2602.08411v2)** | 2026-04-18 | 9 pages |
 | **[RA-RRG: Multimodal Retrieval-Augmented Radiology Report Generation with Key Phrase Extraction](https://arxiv.org/abs/2504.07415v2)** | 2026-04-18 | <details><summary>ACL 2...</summary><p>ACL 2026, Findings of the Association for Computational Linguistics</p></details> |
 | **[CodeMMR: Bridging Natural Language, Code, and Image for Unified Retrieval](https://arxiv.org/abs/2604.15663v1)** | 2026-04-17 |  |
-| **[MAB-DQA: Addressing Query Aspect Importance in Document Question Answering with Multi-Armed Bandits](https://arxiv.org/abs/2604.08952v2)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted by ACL 2026. 20 pages, 9 figures, 6 tables</p></details> |
-| **[RadAgents: Multimodal Agentic Reasoning for Chest X-ray Interpretation with Radiologist-like Workflows](https://arxiv.org/abs/2509.20490v4)** | 2026-04-15 | MIDL 2026 |
-| **[Beyond Relevance: On the Relationship Between Retrieval and RAG Information Coverage](https://arxiv.org/abs/2603.08819v3)** | 2026-04-14 | 11 pages |
-| **[WikiSeeker: Rethinking the Role of Vision-Language Models in Knowledge-Based Visual Question Answering](https://arxiv.org/abs/2604.05818v2)** | 2026-04-14 | <details><summary>Accep...</summary><p>Accepted by ACL 2026 Findings</p></details> |
 
 ## Moment Localization
 | **Title** | **Date** | **Comment** |
