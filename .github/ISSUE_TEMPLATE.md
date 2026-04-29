@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 28, 2026
+title: Latest 15 Papers - April 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multimodal Contextualized Support for Enhancing Video Retrieval System](https://arxiv.org/abs/2412.07584v2)** | 2026-04-28 | <details><summary>This ...</summary><p>This paper has been withdrawn by the author. After further review, the author believes that the current version does not meet the desired standards and plans to revise the work before any potential resubmission</p></details> |
 | **[SRL-CLIP: Efficient CLIP Video Adaptation via Structured Semantic Role Labels](https://arxiv.org/abs/2401.07669v2)** | 2026-04-26 | <details><summary>Accep...</summary><p>Accepted to the CV4Smalls Workshop at CVPR 2026</p></details> |
 | **[Beyond Static Collision Handling: Adaptive Semantic ID Learning for Multimodal Recommendation at Industrial Scale](https://arxiv.org/abs/2604.23522v1)** | 2026-04-26 |  |
 | **[StructAlign: Structured Cross-Modal Alignment for Continual Text-to-Video Retrieval](https://arxiv.org/abs/2601.20597v2)** | 2026-04-25 |  |
@@ -21,11 +22,11 @@ labels: documentation
 | **[Interpreting Video Representations with Spatio-Temporal Sparse Autoencoders](https://arxiv.org/abs/2604.03919v1)** | 2026-04-05 | <details><summary>9 pag...</summary><p>9 pages, 2 figures, 5 tables. Submitted to ACM Multimedia 2026</p></details> |
 | **[Imagine Before Concentration: Diffusion-Guided Registers Enhance Partially Relevant Video Retrieval](https://arxiv.org/abs/2604.03653v1)** | 2026-04-04 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026. 15 pages, 7 figures, 3 tables</p></details> |
 | **[EagleNet: Energy-Aware Fine-Grained Relationship Learning Network for Text-Video Retrieval](https://arxiv.org/abs/2603.25267v3)** | 2026-04-01 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026</p></details> |
-| **[GUIDE: Resolving Domain Bias in GUI Agents through Real-Time Web Video Retrieval and Plug-and-Play Annotation](https://arxiv.org/abs/2603.26266v2)** | 2026-03-31 | <details><summary>28 pa...</summary><p>28 pages, 8 figures, 7 tables</p></details> |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Combating Visual Neglect and Semantic Drift in Large Multimodal Models for Enhanced Cross-Modal Retrieval](https://arxiv.org/abs/2604.25273v1)** | 2026-04-28 |  |
 | **[MEG-RAG: Quantifying Multi-modal Evidence Grounding for Evidence Selection in RAG](https://arxiv.org/abs/2604.24564v1)** | 2026-04-27 |  |
 | **[mKG-RAG: Leveraging Multimodal Knowledge Graphs in Retrieval-Augmented Generation for Knowledge-intensive VQA](https://arxiv.org/abs/2508.05318v2)** | 2026-04-27 | <details><summary>In Pr...</summary><p>In Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR'26), July 20-24, 2026, Melbourne, VIC, Australia</p></details> |
 | **[Robust Audio-Text Retrieval via Cross-Modal Attention and Hybrid Loss](https://arxiv.org/abs/2604.23323v1)** | 2026-04-25 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[mEOL: Training-Free Instruction-Guided Multimodal Embedder for Vector Graphics and Image Retrieval](https://arxiv.org/abs/2604.17054v1)** | 2026-04-18 | <details><summary>Round...</summary><p>Round 1 early acceptance to WACV 2026, Project page: https://scene-the-ella.github.io/meol</p></details> |
 | **[A Sketch+Text Composed Image Retrieval Dataset for Thangka](https://arxiv.org/abs/2602.08411v2)** | 2026-04-18 | 9 pages |
 | **[RA-RRG: Multimodal Retrieval-Augmented Radiology Report Generation with Key Phrase Extraction](https://arxiv.org/abs/2504.07415v2)** | 2026-04-18 | <details><summary>ACL 2...</summary><p>ACL 2026, Findings of the Association for Computational Linguistics</p></details> |
-| **[CodeMMR: Bridging Natural Language, Code, and Image for Unified Retrieval](https://arxiv.org/abs/2604.15663v1)** | 2026-04-17 |  |
 
 ## Moment Localization
 | **Title** | **Date** | **Comment** |
