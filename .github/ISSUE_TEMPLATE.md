@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 03, 2026
+title: Latest 15 Papers - May 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,11 +7,11 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Adapting MLLMs for Nuanced Video Retrieval](https://arxiv.org/abs/2512.13511v3)** | 2026-05-01 | <details><summary>38 Pa...</summary><p>38 Pages. Project page at http://bpiyush.github.io/tara-website</p></details> |
 | **[Multimodal Contextualized Support for Enhancing Video Retrieval System](https://arxiv.org/abs/2412.07584v2)** | 2026-04-28 | <details><summary>This ...</summary><p>This paper has been withdrawn by the author. After further review, the author believes that the current version does not meet the desired standards and plans to revise the work before any potential resubmission</p></details> |
 | **[SRL-CLIP: Efficient CLIP Video Adaptation via Structured Semantic Role Labels](https://arxiv.org/abs/2401.07669v2)** | 2026-04-26 | <details><summary>Accep...</summary><p>Accepted to the CV4Smalls Workshop at CVPR 2026</p></details> |
 | **[Beyond Static Collision Handling: Adaptive Semantic ID Learning for Multimodal Recommendation at Industrial Scale](https://arxiv.org/abs/2604.23522v1)** | 2026-04-26 |  |
 | **[StructAlign: Structured Cross-Modal Alignment for Continual Text-to-Video Retrieval](https://arxiv.org/abs/2601.20597v2)** | 2026-04-25 |  |
-| **[Adapting MLLMs for Nuanced Video Retrieval](https://arxiv.org/abs/2512.13511v2)** | 2026-04-24 | <details><summary>38 Pa...</summary><p>38 Pages. Project page at http://bpiyush.github.io/tara-website</p></details> |
 | **[UniCVR: From Alignment to Reranking for Unified Zero-Shot Composed Visual Retrieval](https://arxiv.org/abs/2604.20318v1)** | 2026-04-22 |  |
 | **[ReTrack: Evidence-Driven Dual-Stream Directional Anchor Calibration Network for Composed Video Retrieval](https://arxiv.org/abs/2604.17898v1)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
 | **[VeRVE: Versatile Retrieval for Videos via Unified Embeddings](https://arxiv.org/abs/2601.12193v3)** | 2026-04-17 |  |
@@ -26,6 +26,7 @@ labels: documentation
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CustomDancer: Customized Dance Recommendation by Text-Dance Retrieval](https://arxiv.org/abs/2605.00824v1)** | 2026-05-01 |  |
 | **[Iterative Multimodal Retrieval-Augmented Generation for Medical Question Answering](https://arxiv.org/abs/2604.27724v1)** | 2026-04-30 |  |
 | **[Purifying Multimodal Retrieval: Fragment-Level Evidence Selection for RAG](https://arxiv.org/abs/2604.27600v1)** | 2026-04-30 |  |
 | **[MEG-RAG: Quantifying Multi-modal Evidence Grounding for Evidence Selection in RAG](https://arxiv.org/abs/2604.24564v2)** | 2026-04-30 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[AeroRAG: Structured Multimodal Retrieval-Augmented LLM for Fine-Grained Aerial Visual Reasoning](https://arxiv.org/abs/2604.17889v1)** | 2026-04-20 |  |
 | **[Sculpting the Vector Space: Towards Efficient Multi-Vector Visual Document Retrieval via Prune-then-Merge Framework](https://arxiv.org/abs/2602.19549v2)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted by The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026, Findings)</p></details> |
 | **[LVLM-Aware Multimodal Retrieval for RAG-Based Medical Diagnosis with General-Purpose Models](https://arxiv.org/abs/2508.17394v6)** | 2026-04-19 |  |
-| **[mEOL: Training-Free Instruction-Guided Multimodal Embedder for Vector Graphics and Image Retrieval](https://arxiv.org/abs/2604.17054v1)** | 2026-04-18 | <details><summary>Round...</summary><p>Round 1 early acceptance to WACV 2026, Project page: https://scene-the-ella.github.io/meol</p></details> |
 
 ## Moment Localization
 | **Title** | **Date** | **Comment** |
