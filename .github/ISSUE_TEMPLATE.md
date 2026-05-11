@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 10, 2026
+title: Latest 15 Papers - May 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VDCook:DIY video data cook your MLLMs](https://arxiv.org/abs/2603.05539v2)** | 2026-05-08 |  |
 | **[Revisiting Uncertainty: On Evidential Learning for Partially Relevant Video Retrieval](https://arxiv.org/abs/2605.06083v1)** | 2026-05-07 | <details><summary>Accep...</summary><p>Accepted by ICML 2026. 16 pages, 6 figures, 3 tables</p></details> |
 | **[Interactive Multi-Turn Retrieval for Health Videos](https://arxiv.org/abs/2605.01409v1)** | 2026-05-02 |  |
 | **[Adapting MLLMs for Nuanced Video Retrieval](https://arxiv.org/abs/2512.13511v3)** | 2026-05-01 | <details><summary>38 Pa...</summary><p>38 Pages. Project page at http://bpiyush.github.io/tara-website</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Learning World Models for Interactive Video Generation](https://arxiv.org/abs/2505.21996v3)** | 2026-04-13 | <details><summary>Proje...</summary><p>Project page: https://sites.google.com/view/vrag</p></details> |
 | **[Adversarial Video Promotion Against Text-to-Video Retrieval](https://arxiv.org/abs/2508.06964v3)** | 2026-04-12 | <details><summary>This ...</summary><p>This paper has been accepted by TIFS</p></details> |
 | **[Semantic Noise Reduction via Teacher-Guided Dual-Path Audio-Visual Representation Learning](https://arxiv.org/abs/2604.08147v1)** | 2026-04-09 |  |
-| **[Interpreting Video Representations with Spatio-Temporal Sparse Autoencoders](https://arxiv.org/abs/2604.03919v1)** | 2026-04-05 | <details><summary>9 pag...</summary><p>9 pages, 2 figures, 5 tables. Submitted to ACM Multimedia 2026</p></details> |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,7 @@ labels: documentation
 ## Moment Localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RCoT-Seg: Reinforced Chain-of-Thought for Video Reasoning and Segmentation](https://arxiv.org/abs/2605.07334v1)** | 2026-05-08 | 21 pages |
 | **[AffectSeek: Agentic Affective Understanding in Long Videos under Vague User Queries](https://arxiv.org/abs/2605.05640v1)** | 2026-05-07 |  |
 | **[VeRVE: Versatile Retrieval for Videos via Unified Embeddings](https://arxiv.org/abs/2601.12193v3)** | 2026-04-17 |  |
 | **[Beyond Closed-Pool Video Retrieval: A Benchmark and Agent Framework for Real-World Video Search and Moment Localization](https://arxiv.org/abs/2602.10159v1)** | 2026-02-10 | 49 pages, 9 figures |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Exploring Missing Modality in Multimodal Egocentric Datasets](https://arxiv.org/abs/2401.11470v2)** | 2024-04-17 |  |
 | **[Self-Chained Image-Language Model for Video Localization and Question Answering](https://arxiv.org/abs/2305.06988v2)** | 2023-11-29 | <details><summary>NeurI...</summary><p>NeurIPS 2023; Our code and checkpoints are available at: https://github.com/Yui010206/SeViLA</p></details> |
 | **[Counterfactual Cross-modality Reasoning for Weakly Supervised Video Moment Localization](https://arxiv.org/abs/2308.05648v2)** | 2023-10-14 | <details><summary>Accep...</summary><p>Accepted by ACM MM 2023</p></details> |
-| **[A Survey on Video Moment Localization](https://arxiv.org/abs/2306.07515v1)** | 2023-06-13 |  |
 
