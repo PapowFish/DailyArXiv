@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 12, 2026
+title: Latest 15 Papers - May 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Very Efficient Listwise Multimodal Reranking for Long Documents](https://arxiv.org/abs/2605.11864v1)** | 2026-05-12 | <details><summary>To ap...</summary><p>To appear in ICML 2026</p></details> |
 | **[Generative Giants, Retrieval Weaklings: Why do Multimodal Large Language Models Fail at Multimodal Retrieval?](https://arxiv.org/abs/2512.19115v2)** | 2026-05-09 |  |
 | **[JARVIS: An Evidence-Grounded Retrieval System for Interpretable Deceptive Reviews Adjudication](https://arxiv.org/abs/2602.12941v2)** | 2026-05-07 |  |
 | **[The Cost of Context: Mitigating Textual Bias in Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2605.05594v1)** | 2026-05-07 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[mKG-RAG: Leveraging Multimodal Knowledge Graphs in Retrieval-Augmented Generation for Knowledge-intensive VQA](https://arxiv.org/abs/2508.05318v2)** | 2026-04-27 | <details><summary>In Pr...</summary><p>In Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR'26), July 20-24, 2026, Melbourne, VIC, Australia</p></details> |
 | **[Robust Audio-Text Retrieval via Cross-Modal Attention and Hybrid Loss](https://arxiv.org/abs/2604.23323v1)** | 2026-04-25 |  |
 | **[Lightweight and Production-Ready PDF Visual Element Parsing](https://arxiv.org/abs/2604.23276v1)** | 2026-04-25 |  |
-| **[MiMIC: Mitigating Visual Modality Collapse in Universal Multimodal Retrieval While Avoiding Semantic Misalignment](https://arxiv.org/abs/2604.21326v1)** | 2026-04-23 |  |
 
 ## Moment Localization
 | **Title** | **Date** | **Comment** |
