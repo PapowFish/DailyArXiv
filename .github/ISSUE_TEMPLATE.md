@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 17, 2026
+title: Latest 15 Papers - May 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Text-Video Retrieval With Global-Local Contrastive Consistency Learning](https://arxiv.org/abs/2605.17959v1)** | 2026-05-18 |  |
+| **[MARQUIS: A Three-Stage Pipeline for Video Retrieval-Augmented Generation](https://arxiv.org/abs/2605.17640v1)** | 2026-05-17 | <details><summary>Accep...</summary><p>Accepted as an oral presentation at the ACL 2026 Workshop MAGMaR Systems. 27 pages, 4 figures. Code can be found here: https://github.com/debashishc/marquis</p></details> |
 | **[FLARE: Full-Modality Long-Video Audiovisual Retrieval Benchmark with User-Simulated Queries](https://arxiv.org/abs/2605.10228v1)** | 2026-05-11 |  |
 | **[ReCoVR: Closing the Loop in Interactive Composed Video Retrieval](https://arxiv.org/abs/2605.09836v1)** | 2026-05-11 |  |
 | **[VDCook:DIY video data cook your MLLMs](https://arxiv.org/abs/2603.05539v2)** | 2026-05-08 |  |
@@ -20,15 +22,18 @@ labels: documentation
 | **[UniCVR: From Alignment to Reranking for Unified Zero-Shot Composed Visual Retrieval](https://arxiv.org/abs/2604.20318v1)** | 2026-04-22 |  |
 | **[ReTrack: Evidence-Driven Dual-Stream Directional Anchor Calibration Network for Composed Video Retrieval](https://arxiv.org/abs/2604.17898v1)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
 | **[VeRVE: Versatile Retrieval for Videos via Unified Embeddings](https://arxiv.org/abs/2601.12193v3)** | 2026-04-17 |  |
-| **[ViLL-E: Video LLM Embeddings for Retrieval](https://arxiv.org/abs/2604.12148v1)** | 2026-04-13 | <details><summary>Accep...</summary><p>Accepted at ACL 2026 Main conference</p></details> |
-| **[Learning World Models for Interactive Video Generation](https://arxiv.org/abs/2505.21996v3)** | 2026-04-13 | <details><summary>Proje...</summary><p>Project page: https://sites.google.com/view/vrag</p></details> |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[STiTch: Semantic Transition and Transportation in Collaboration for Training-Free Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2605.21261v1)** | 2026-05-20 |  |
+| **[SVFSearch: A Multimodal Knowledge-Intensive Benchmark for Short-Video Frame Search in the Gaming Vertical Domain](https://arxiv.org/abs/2605.17946v2)** | 2026-05-20 |  |
+| **[TIGER-FG: Text-Guided Implicit Fine-Grained Grounding for E-commerce Retrieval](https://arxiv.org/abs/2605.18434v1)** | 2026-05-18 |  |
+| **[Text-Guided Visual Representation Learning for Robust Multimodal E-Commerce Recommendation](https://arxiv.org/abs/2605.17366v1)** | 2026-05-17 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. Accepted to the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2026). Pre-camera-ready version</p></details> |
+| **[Do Composed Image Retrieval Benchmarks Require Multimodal Composition?](https://arxiv.org/abs/2605.14787v2)** | 2026-05-15 |  |
+| **[SOLAR: Self-supervised Joint Learning for Symmetric Multimodal Retrieval](https://arxiv.org/abs/2605.15868v1)** | 2026-05-15 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
 | **[From Scenes to Elements: Multi-Granularity Evidence Retrieval for Verifiable Multimodal RAG](https://arxiv.org/abs/2605.15019v1)** | 2026-05-14 |  |
 | **[MemLens: Benchmarking Multimodal Long-Term Memory in Large Vision-Language Models](https://arxiv.org/abs/2605.14906v1)** | 2026-05-14 | Work in progress |
-| **[Do Composed Image Retrieval Benchmarks Require Multimodal Composition?](https://arxiv.org/abs/2605.14787v1)** | 2026-05-14 |  |
 | **[Utility-Oriented Visual Evidence Selection for Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2605.13277v1)** | 2026-05-13 | Accepted to ACL 2026 |
 | **[Very Efficient Listwise Multimodal Reranking for Long Documents](https://arxiv.org/abs/2605.11864v1)** | 2026-05-12 | <details><summary>To ap...</summary><p>To appear in ICML 2026</p></details> |
 | **[Generative Giants, Retrieval Weaklings: Why do Multimodal Large Language Models Fail at Multimodal Retrieval?](https://arxiv.org/abs/2512.19115v2)** | 2026-05-09 |  |
@@ -36,11 +41,6 @@ labels: documentation
 | **[The Cost of Context: Mitigating Textual Bias in Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2605.05594v1)** | 2026-05-07 |  |
 | **[Do Multimodal RAG Systems Leak Data? A Comprehensive Evaluation of Membership Inference and Image Caption Retrieval Attacks](https://arxiv.org/abs/2601.17644v3)** | 2026-05-05 | <details><summary>Accep...</summary><p>Accepted for publication at ACL 2026 (Findings)</p></details> |
 | **[From Experimental Limits to Physical Insight: A Retrieval-Augmented Multi-Agent Framework for Interpreting Searches Beyond the Standard Model](https://arxiv.org/abs/2605.02491v1)** | 2026-05-04 | 18 pages, 13 figures |
-| **[CustomDancer: Customized Dance Recommendation by Text-Dance Retrieval](https://arxiv.org/abs/2605.00824v1)** | 2026-05-01 |  |
-| **[Iterative Multimodal Retrieval-Augmented Generation for Medical Question Answering](https://arxiv.org/abs/2604.27724v1)** | 2026-04-30 |  |
-| **[Purifying Multimodal Retrieval: Fragment-Level Evidence Selection for RAG](https://arxiv.org/abs/2604.27600v1)** | 2026-04-30 |  |
-| **[MEG-RAG: Quantifying Multi-modal Evidence Grounding for Evidence Selection in RAG](https://arxiv.org/abs/2604.24564v2)** | 2026-04-30 |  |
-| **[Validation of Whole-Slide Foundation Models for Image Retrieval in TCGA Data](https://arxiv.org/abs/2605.00902v1)** | 2026-04-28 |  |
 
 ## Moment Localization
 | **Title** | **Date** | **Comment** |
