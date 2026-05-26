@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 25, 2026
+title: Latest 15 Papers - May 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TempRet: Temporal Enhancement and Two-Stage Reranking for CVPR 2026 EPIC-KITCHENS-100 Multi-Instance Retrieval Challenge](https://arxiv.org/abs/2605.24470v1)** | 2026-05-23 | <details><summary>Techn...</summary><p>Technical Report for CVPR 2026 EPIC-KITCHENS-100 Multi-Instance Retrieval Challenge</p></details> |
 | **[Text-Video Retrieval With Global-Local Contrastive Consistency Learning](https://arxiv.org/abs/2605.17959v1)** | 2026-05-18 |  |
 | **[MARQUIS: A Three-Stage Pipeline for Video Retrieval-Augmented Generation](https://arxiv.org/abs/2605.17640v1)** | 2026-05-17 | <details><summary>Accep...</summary><p>Accepted as an oral presentation at the ACL 2026 Workshop MAGMaR Systems. 27 pages, 4 figures. Code can be found here: https://github.com/debashishc/marquis</p></details> |
 | **[FLARE: Full-Modality Long-Video Audiovisual Retrieval Benchmark with User-Simulated Queries](https://arxiv.org/abs/2605.10228v1)** | 2026-05-11 |  |
@@ -21,11 +22,11 @@ labels: documentation
 | **[StructAlign: Structured Cross-Modal Alignment for Continual Text-to-Video Retrieval](https://arxiv.org/abs/2601.20597v2)** | 2026-04-25 |  |
 | **[UniCVR: From Alignment to Reranking for Unified Zero-Shot Composed Visual Retrieval](https://arxiv.org/abs/2604.20318v1)** | 2026-04-22 |  |
 | **[ReTrack: Evidence-Driven Dual-Stream Directional Anchor Calibration Network for Composed Video Retrieval](https://arxiv.org/abs/2604.17898v1)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
-| **[VeRVE: Versatile Retrieval for Videos via Unified Embeddings](https://arxiv.org/abs/2601.12193v3)** | 2026-04-17 |  |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Your Embedding Model is SMARTer Than You Think](https://arxiv.org/abs/2605.24938v1)** | 2026-05-24 |  |
 | **[STiTch: Semantic Transition and Transportation in Collaboration for Training-Free Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2605.21261v1)** | 2026-05-20 |  |
 | **[SVFSearch: A Multimodal Knowledge-Intensive Benchmark for Short-Video Frame Search in the Gaming Vertical Domain](https://arxiv.org/abs/2605.17946v2)** | 2026-05-20 |  |
 | **[TIGER-FG: Text-Guided Implicit Fine-Grained Grounding for E-commerce Retrieval](https://arxiv.org/abs/2605.18434v1)** | 2026-05-18 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[JARVIS: An Evidence-Grounded Retrieval System for Interpretable Deceptive Reviews Adjudication](https://arxiv.org/abs/2602.12941v2)** | 2026-05-07 |  |
 | **[The Cost of Context: Mitigating Textual Bias in Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2605.05594v1)** | 2026-05-07 |  |
 | **[Do Multimodal RAG Systems Leak Data? A Comprehensive Evaluation of Membership Inference and Image Caption Retrieval Attacks](https://arxiv.org/abs/2601.17644v3)** | 2026-05-05 | <details><summary>Accep...</summary><p>Accepted for publication at ACL 2026 (Findings)</p></details> |
-| **[From Experimental Limits to Physical Insight: A Retrieval-Augmented Multi-Agent Framework for Interpreting Searches Beyond the Standard Model](https://arxiv.org/abs/2605.02491v1)** | 2026-05-04 | 18 pages, 13 figures |
 
 ## Moment Localization
 | **Title** | **Date** | **Comment** |
