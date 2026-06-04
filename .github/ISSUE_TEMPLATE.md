@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 03, 2026
+title: Latest 15 Papers - June 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Overview of the EReL@MIR 2025 Multimodal Document Retrieval Challenge (Track 1)](https://arxiv.org/abs/2606.04240v1)** | 2026-06-02 | <details><summary>MDR C...</summary><p>MDR Challenge Report at WWW2025</p></details> |
+| **[MM-BizRAG: Rethinking Multimodal Retrieval-Augmented Generation for General Purpose Enterprise Q&A](https://arxiv.org/abs/2606.04231v1)** | 2026-06-02 | <details><summary>Accep...</summary><p>Accepted at ACL 2026 (Industry Track)</p></details> |
 | **[Seeing Through the MiRAGE: Evaluating Multimodal Retrieval Augmented Generation](https://arxiv.org/abs/2510.24870v2)** | 2026-06-01 | <details><summary>https...</summary><p>https://github.com/alexmartin1722/mirage</p></details> |
 | **[PUMA: Layer-Pruned Language Model for Efficient Unified Multimodal Retrieval with Modality-Adaptive Learning](https://arxiv.org/abs/2507.08064v3)** | 2026-06-01 |  |
 | **[WISE: A Multimodal Search Engine for Visual Scenes, Audio, Objects, Faces, Speech, and Metadata](https://arxiv.org/abs/2602.12819v2)** | 2026-06-01 | <details><summary>Softw...</summary><p>Software: https://www.robots.ox.ac.uk/~vgg/software/wise/ , Online demos: https://www.robots.ox.ac.uk/~vgg/software/wise/demo/ , Example Queries: https://www.robots.ox.ac.uk/~vgg/software/wise/examples/</p></details> |
@@ -39,12 +41,11 @@ labels: documentation
 | **[Can Retrieval Heads See Images? Multimodal Retrieval Heads in Long-Context Vision-Language Models](https://arxiv.org/abs/2605.27243v1)** | 2026-05-26 | Work in Progress |
 | **[Checking Fact with Better Retrieval: Dynamic Contrastive Learning for Evidence Retrieval](https://arxiv.org/abs/2605.27449v1)** | 2026-05-24 |  |
 | **[Your Embedding Model is SMARTer Than You Think](https://arxiv.org/abs/2605.24938v1)** | 2026-05-24 |  |
-| **[STiTch: Semantic Transition and Transportation in Collaboration for Training-Free Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2605.21261v1)** | 2026-05-20 |  |
-| **[SVFSearch: A Multimodal Knowledge-Intensive Benchmark for Short-Video Frame Search in the Gaming Vertical Domain](https://arxiv.org/abs/2605.17946v2)** | 2026-05-20 |  |
 
 ## Moment Localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GenSpan: Generation-Calibrated Motion Span Priors for Multi-Verb Video Corpus Moment Retrieval](https://arxiv.org/abs/2603.22121v2)** | 2026-06-03 | <details><summary>Major...</summary><p>Major revision with title change, updated method, and additional experiments</p></details> |
 | **[FlowSDR: Sufficient Dimension Reduction via Conditional Normalizing Flows](https://arxiv.org/abs/2606.01346v1)** | 2026-05-31 | 20 pages, 8 tables |
 | **[EgoMemReason: A Memory-Driven Reasoning Benchmark for Long-Horizon Egocentric Video Understanding](https://arxiv.org/abs/2605.09874v1)** | 2026-05-11 | <details><summary>The f...</summary><p>The first two authors contributed equally. Project website: https://egomemreason.github.io/</p></details> |
 | **[RCoT-Seg: Reinforced Chain-of-Thought for Video Reasoning and Segmentation](https://arxiv.org/abs/2605.07334v1)** | 2026-05-08 | 21 pages |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Test-Time Adaptation for Combating Missing Modalities in Egocentric Videos](https://arxiv.org/abs/2404.15161v2)** | 2025-03-02 |  |
 | **[VERIFIED: A Video Corpus Moment Retrieval Benchmark for Fine-Grained Video Understanding](https://arxiv.org/abs/2410.08593v1)** | 2024-10-11 | <details><summary>Accep...</summary><p>Accepted by 38th NeurIPS Datasets & Benchmarks Track (NeurIPS 2024)</p></details> |
 | **[Improving Video Corpus Moment Retrieval with Partial Relevance Enhancement](https://arxiv.org/abs/2402.13576v2)** | 2024-04-23 | <details><summary>camer...</summary><p>camera-ready version of ACM ICMR 2024</p></details> |
-| **[Exploring Missing Modality in Multimodal Egocentric Datasets](https://arxiv.org/abs/2401.11470v2)** | 2024-04-17 |  |
 
