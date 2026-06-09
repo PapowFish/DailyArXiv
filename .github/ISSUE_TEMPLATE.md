@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 08, 2026
+title: Latest 15 Papers - June 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MAVIS: Multi-Agent Video Retrieval via Structured Video Understanding](https://arxiv.org/abs/2606.09641v1)** | 2026-06-08 |  |
+| **[Driving Video Retrieval for Complex Queries with Structured Grounding](https://arxiv.org/abs/2606.09109v1)** | 2026-06-08 |  |
+| **[IMAGINE: Adaptive Schema-Imagery Enhanced Composition for Composed Video Retrieval](https://arxiv.org/abs/2606.08144v1)** | 2026-06-06 | <details><summary>Accep...</summary><p>Accepted by ICMR 2026</p></details> |
+| **[Decoupling Semantics and Logic: A Training-Free Coarse-to-Fine Pipeline for Video Retrieval-Augmented Generation](https://arxiv.org/abs/2606.07924v1)** | 2026-06-06 | <details><summary>To be...</summary><p>To be presented at ACL 2026 MAGMAR Workshop (Oral; Retrieval leaderboard No.1)</p></details> |
 | **[Reason-Then-Retrieve for CoVR-R with Structured Edit Prompts and Dense-Sparse Fusion](https://arxiv.org/abs/2606.02450v2)** | 2026-06-05 |  |
 | **[R^3: Composed Video Retrieval via Reasoning-Guided Recalling and Re-ranking](https://arxiv.org/abs/2606.01113v2)** | 2026-06-04 |  |
 | **[TempRet: Temporal Enhancement and Two-Stage Reranking for CVPR 2026 EPIC-KITCHENS-100 Multi-Instance Retrieval Challenge](https://arxiv.org/abs/2605.24470v3)** | 2026-06-04 | <details><summary>Techn...</summary><p>Technical Report for CVPR 2026 EPIC-KITCHENS-100 Multi-Instance Retrieval Challenge</p></details> |
@@ -18,29 +22,25 @@ labels: documentation
 | **[RE-TRIANGLE: Does TRIANGLE Enable Multimodal Alignment Beyond Cosine Similarity in Retrieval?](https://arxiv.org/abs/2605.27436v1)** | 2026-05-22 |  |
 | **[Text-Video Retrieval With Global-Local Contrastive Consistency Learning](https://arxiv.org/abs/2605.17959v1)** | 2026-05-18 |  |
 | **[MARQUIS: A Three-Stage Pipeline for Video Retrieval-Augmented Generation](https://arxiv.org/abs/2605.17640v1)** | 2026-05-17 | <details><summary>Accep...</summary><p>Accepted as an oral presentation at the ACL 2026 Workshop MAGMaR Systems. 27 pages, 4 figures. Code can be found here: https://github.com/debashishc/marquis</p></details> |
-| **[FLARE: Full-Modality Long-Video Audiovisual Retrieval Benchmark with User-Simulated Queries](https://arxiv.org/abs/2605.10228v1)** | 2026-05-11 |  |
-| **[ReCoVR: Closing the Loop in Interactive Composed Video Retrieval](https://arxiv.org/abs/2605.09836v1)** | 2026-05-11 |  |
-| **[VDCook:DIY video data cook your MLLMs](https://arxiv.org/abs/2603.05539v2)** | 2026-05-08 |  |
-| **[Revisiting Uncertainty: On Evidential Learning for Partially Relevant Video Retrieval](https://arxiv.org/abs/2605.06083v1)** | 2026-05-07 | <details><summary>Accep...</summary><p>Accepted by ICML 2026. 16 pages, 6 figures, 3 tables</p></details> |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Constrained Dominant Sets for Multimodal Document Question Answering](https://arxiv.org/abs/2606.07252v2)** | 2026-06-08 |  |
+| **[Closing the Indexing-Decoding Gap in Multimodal Generative Retrieval via Prefix Retention Optimization](https://arxiv.org/abs/2606.09241v1)** | 2026-06-08 | <details><summary>28 pa...</summary><p>28 pages, 5 figures; code: https://github.com/layingfish/MGR_PRO</p></details> |
+| **[Multimodal Generative Engine Optimization: Rank Manipulation for Vision-Language Model Rankers](https://arxiv.org/abs/2601.12263v2)** | 2026-06-07 | <details><summary>Proce...</summary><p>Proceedings of the 4th Workshop on Towards Knowledgeable Foundation Models (KnowFM) at ACL 2026</p></details> |
+| **[PUMA: Layer-Pruned Language Model for Efficient Unified Multimodal Retrieval with Modality-Adaptive Learning](https://arxiv.org/abs/2507.08064v4)** | 2026-06-06 |  |
+| **[Decoupling Semantics and Logic: A Training-Free Coarse-to-Fine Pipeline for Video Retrieval-Augmented Generation](https://arxiv.org/abs/2606.07924v1)** | 2026-06-06 | <details><summary>To be...</summary><p>To be presented at ACL 2026 MAGMAR Workshop (Oral; Retrieval leaderboard No.1)</p></details> |
 | **[MCERF: Advancing Multimodal LLM Evaluation of Engineering Documentation with Enhanced Retrieval](https://arxiv.org/abs/2604.09552v2)** | 2026-06-05 |  |
-| **[Constrained Dominant Sets for Multimodal Document Question Answering](https://arxiv.org/abs/2606.07252v1)** | 2026-06-05 |  |
 | **[Caption Injection for Optimization in Generative Search Engine](https://arxiv.org/abs/2511.04080v3)** | 2026-06-05 | <details><summary>24 pa...</summary><p>24 pages, 4 figures, ECML PKDD 2026 Accepted</p></details> |
 | **[MARDoc: A Memory-Aware Refinement Agent Framework for Multimodal Long Document QA](https://arxiv.org/abs/2606.05749v1)** | 2026-06-04 |  |
+| **[MM-Matryoshka: Towards Budget-Elastic Visual Document Retrieval via a 2D Multimodal Matryoshka Training Framework](https://arxiv.org/abs/2606.07654v1)** | 2026-06-03 |  |
 | **[Overview of the EReL@MIR 2025 Multimodal Document Retrieval Challenge (Track 1)](https://arxiv.org/abs/2606.04240v1)** | 2026-06-02 | <details><summary>MDR C...</summary><p>MDR Challenge Report at WWW2025</p></details> |
 | **[MM-BizRAG: Rethinking Multimodal Retrieval-Augmented Generation for General Purpose Enterprise Q&A](https://arxiv.org/abs/2606.04231v1)** | 2026-06-02 | <details><summary>Accep...</summary><p>Accepted at ACL 2026 (Industry Track)</p></details> |
 | **[Seeing Through the MiRAGE: Evaluating Multimodal Retrieval Augmented Generation](https://arxiv.org/abs/2510.24870v2)** | 2026-06-01 | <details><summary>https...</summary><p>https://github.com/alexmartin1722/mirage</p></details> |
-| **[PUMA: Layer-Pruned Language Model for Efficient Unified Multimodal Retrieval with Modality-Adaptive Learning](https://arxiv.org/abs/2507.08064v3)** | 2026-06-01 |  |
 | **[WISE: A Multimodal Search Engine for Visual Scenes, Audio, Objects, Faces, Speech, and Metadata](https://arxiv.org/abs/2602.12819v2)** | 2026-06-01 | <details><summary>Softw...</summary><p>Software: https://www.robots.ox.ac.uk/~vgg/software/wise/ , Online demos: https://www.robots.ox.ac.uk/~vgg/software/wise/demo/ , Example Queries: https://www.robots.ox.ac.uk/~vgg/software/wise/examples/</p></details> |
 | **[TrafficRAG: A Multimodal RAG Framework for Traffic Accident Liability Determination](https://arxiv.org/abs/2606.01737v1)** | 2026-06-01 | <details><summary>12 pa...</summary><p>12 pages, 3 figures, accepted at ICANN 2026</p></details> |
 | **[Beyond Classification: Dynamic Adapter Routing for Continual Multimodal Retrieval](https://arxiv.org/abs/2605.31229v1)** | 2026-05-29 |  |
-| **[DeepImageSearch: Benchmarking Multimodal Agents for Context-Aware Image Retrieval in Visual Histories](https://arxiv.org/abs/2602.10809v2)** | 2026-05-29 | 18 pages, 6 figures |
-| **[Uncertainty Quantification for Multimodal Retrieval Augmented Generation](https://arxiv.org/abs/2605.29956v1)** | 2026-05-28 |  |
-| **[HiKEY: Hierarchical Multimodal Retrieval for Open-Domain Document Question Answering](https://arxiv.org/abs/2605.29606v1)** | 2026-05-28 | <details><summary>Accep...</summary><p>Accepted to ACL2026 Main</p></details> |
-| **[VeriTrip: A Verifiable Benchmark for Travel Planning Agents over Unstructured Web Corpora](https://arxiv.org/abs/2605.28683v1)** | 2026-05-27 | 10 pages, 4 figures |
 
 ## Moment Localization
 | **Title** | **Date** | **Comment** |
