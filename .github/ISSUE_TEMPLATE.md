@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 17, 2026
+title: Latest 15 Papers - June 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DREAM: Extending Vision-Language Models with Dual-Objective Encoding for Cross-Modal Retrieval](https://arxiv.org/abs/2606.19062v1)** | 2026-06-17 |  |
 | **[Reasoning Text-to-Video Retrieval for Operating Room Clips via Action-Driven Digital Twins](https://arxiv.org/abs/2606.17298v1)** | 2026-06-15 |  |
 | **[Findings of the MAGMaR 2026 Shared Task](https://arxiv.org/abs/2606.12295v1)** | 2026-06-10 | <details><summary>Findi...</summary><p>Findings of the 2nd workshop on Multimodal Augmented Generation via Multimodal Retrieval (MAGMaR); Resources at this url: https://github.com/rekriz11/MAGMAR_2026</p></details> |
 | **[CoVR-R:Reason-Aware Composed Video Retrieval](https://arxiv.org/abs/2603.20190v2)** | 2026-06-09 | 9 Pages, 3 Figures |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Dual-Route Top-K Retrieval with 1v1 VLM Reranking for the CoVR-R](https://arxiv.org/abs/2606.01097v1)** | 2026-05-31 |  |
 | **[Reason, Retrieve, Re-rank: A Zero-Shot Reasoning-Aware Framework for Composed Video Retrieval](https://arxiv.org/abs/2606.00910v1)** | 2026-05-30 |  |
 | **[VRAG: Learning World Models for Interactive Video Generation](https://arxiv.org/abs/2505.21996v4)** | 2026-05-28 | <details><summary>Publi...</summary><p>Published at NeurIPS 2025. Project page: https://sites.google.com/view/vrag</p></details> |
-| **[SRL-CLIP: Efficient CLIP Video Adaptation via Structured Semantic Role Labels](https://arxiv.org/abs/2401.07669v3)** | 2026-05-25 | <details><summary>Accep...</summary><p>Accepted to the CV4Smalls Workshop at CVPR 2026</p></details> |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
