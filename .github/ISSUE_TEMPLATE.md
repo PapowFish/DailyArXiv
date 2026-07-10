@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 09, 2026
+title: Latest 15 Papers - July 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VEGAS: Human-Aligned Video Caption Evaluation via Gaze](https://arxiv.org/abs/2607.08489v1)** | 2026-07-09 |  |
 | **[QSVideo: Query-Conditioned Semantic Temporal Retrieval for Video Understanding](https://arxiv.org/abs/2607.04559v1)** | 2026-07-06 | ECCV 2026 |
 | **[TCMA: Text-Conditioned Multi-granularity Alignment for Drone Cross-Modal Text-Video Retrieval](https://arxiv.org/abs/2510.10180v2)** | 2026-07-01 |  |
 | **[VideoSearch-R1: Iterative Video Retrieval and Reasoning via Soft Query Refinement](https://arxiv.org/abs/2607.00446v1)** | 2026-07-01 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[MAVIS: Multi-Agent Video Retrieval via Structured Video Understanding](https://arxiv.org/abs/2606.09641v1)** | 2026-06-08 |  |
 | **[Driving Video Retrieval for Complex Queries with Structured Grounding](https://arxiv.org/abs/2606.09109v1)** | 2026-06-08 |  |
 | **[IMAGINE: Adaptive Schema-Imagery Enhanced Composition for Composed Video Retrieval](https://arxiv.org/abs/2606.08144v1)** | 2026-06-06 | <details><summary>Accep...</summary><p>Accepted by ICMR 2026</p></details> |
-| **[Decoupling Semantics and Logic: A Training-Free Coarse-to-Fine Pipeline for Video Retrieval-Augmented Generation](https://arxiv.org/abs/2606.07924v1)** | 2026-06-06 | <details><summary>To be...</summary><p>To be presented at ACL 2026 MAGMAR Workshop (Oral; Retrieval leaderboard No.1)</p></details> |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
