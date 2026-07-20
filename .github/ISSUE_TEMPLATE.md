@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 19, 2026
+title: Latest 15 Papers - July 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -11,6 +11,7 @@ labels: documentation
 | **[VEGAS: Human-Aligned Video Caption Evaluation via Gaze](https://arxiv.org/abs/2607.08489v1)** | 2026-07-09 |  |
 | **[QSVideo: Query-Conditioned Semantic Temporal Retrieval for Video Understanding](https://arxiv.org/abs/2607.04559v1)** | 2026-07-06 | ECCV 2026 |
 | **[TCMA: Text-Conditioned Multi-granularity Alignment for Drone Cross-Modal Text-Video Retrieval](https://arxiv.org/abs/2510.10180v2)** | 2026-07-01 |  |
+| **[AV-JEPA: Extending LeJEPA to Audio-Visual Self-Supervised Learning](https://arxiv.org/abs/2607.15295v1)** | 2026-07-01 |  |
 | **[VideoSearch-R1: Iterative Video Retrieval and Reasoning via Soft Query Refinement](https://arxiv.org/abs/2607.00446v1)** | 2026-07-01 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026</p></details> |
 | **[GUIDE: Resolving Domain Bias in GUI Agents through Real-Time Web Video Retrieval and Plug-and-Play Annotation](https://arxiv.org/abs/2603.26266v3)** | 2026-06-30 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026. 30 pages: 15-page main paper followed by supplementary material as an appendix (Sections A-F). Project page: https://sharryXR.github.io/GUIDE/</p></details> |
 | **[Real-time pedestrian attribute recognition with YOLOv8 and ResNet18](https://arxiv.org/abs/2606.21200v1)** | 2026-06-19 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Findings of the MAGMaR 2026 Shared Task](https://arxiv.org/abs/2606.12295v1)** | 2026-06-10 | <details><summary>Findi...</summary><p>Findings of the 2nd workshop on Multimodal Augmented Generation via Multimodal Retrieval (MAGMaR); Resources at this url: https://github.com/rekriz11/MAGMAR_2026</p></details> |
 | **[CoVR-R:Reason-Aware Composed Video Retrieval](https://arxiv.org/abs/2603.20190v2)** | 2026-06-09 | 9 Pages, 3 Figures |
 | **[MAVIS: Multi-Agent Video Retrieval via Structured Video Understanding](https://arxiv.org/abs/2606.09641v1)** | 2026-06-08 |  |
-| **[Driving Video Retrieval for Complex Queries with Structured Grounding](https://arxiv.org/abs/2606.09109v1)** | 2026-06-08 |  |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
