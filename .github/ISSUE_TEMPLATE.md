@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 20, 2026
+title: Latest 15 Papers - July 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Fusion Embedding: A Unified Embedding Space for Text, Image, Video, and Audio](https://arxiv.org/abs/2607.18666v1)** | 2026-07-21 | <details><summary>23 pa...</summary><p>23 pages, 5 figures. Models: https://huggingface.co/EximiusLabs/fusion-embedding-1-2b-preview and https://huggingface.co/EximiusLabs/fusion-embedding-2-2b-preview. Code: https://github.com/Eximius-Labs/fusion-embedding</p></details> |
 | **[Prompting-MammAlps: Fine-Grained Text-to-Video Retrieval for Camera-Trap Data](https://arxiv.org/abs/2607.09876v1)** | 2026-07-10 | <details><summary>Accep...</summary><p>Accepted at ECCV 2026; Project page: https://cnai.epfl.ch/prompting-mammalps</p></details> |
 | **[VEGAS: Human-Aligned Video Caption Evaluation via Gaze](https://arxiv.org/abs/2607.08489v1)** | 2026-07-09 |  |
 | **[QSVideo: Query-Conditioned Semantic Temporal Retrieval for Video Understanding](https://arxiv.org/abs/2607.04559v1)** | 2026-07-06 | ECCV 2026 |
@@ -21,12 +22,13 @@ labels: documentation
 | **[Reasoning Text-to-Video Retrieval for Operating Room Clips via Action-Driven Digital Twins](https://arxiv.org/abs/2606.17298v1)** | 2026-06-15 |  |
 | **[Findings of the MAGMaR 2026 Shared Task](https://arxiv.org/abs/2606.12295v1)** | 2026-06-10 | <details><summary>Findi...</summary><p>Findings of the 2nd workshop on Multimodal Augmented Generation via Multimodal Retrieval (MAGMaR); Resources at this url: https://github.com/rekriz11/MAGMAR_2026</p></details> |
 | **[CoVR-R:Reason-Aware Composed Video Retrieval](https://arxiv.org/abs/2603.20190v2)** | 2026-06-09 | 9 Pages, 3 Figures |
-| **[MAVIS: Multi-Agent Video Retrieval via Structured Video Understanding](https://arxiv.org/abs/2606.09641v1)** | 2026-06-08 |  |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[MM-IssueLoc: A Controlled Benchmark for Evaluating Visual Evidence in Multimodal Repository-Level Issue Localization](https://arxiv.org/abs/2607.15205v1)** | 2026-07-16 |  |
+| **[Art Beyond Semantics: Sheaf-Informed Contrastive Learning for Multi-Relational Representations](https://arxiv.org/abs/2607.16321v1)** | 2026-07-15 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026</p></details> |
+| **[Eddy-VL 1.9B: Structural Pruning and Layered Distillation for Edge-Deployable Multimodal Embedding](https://arxiv.org/abs/2607.16316v1)** | 2026-07-15 | <details><summary>11pag...</summary><p>11pages,4figures,Model weights and inference code are available on Hugging Face</p></details> |
 | **[SOLAR: Self-supervised Joint Learning for Symmetric Multimodal Retrieval](https://arxiv.org/abs/2605.15868v2)** | 2026-07-13 | <details><summary>Accep...</summary><p>Accepted by ICML 2026. Code, model and benchmark are available at https://github.com/codefuse-ai/SOLAR</p></details> |
 | **[Trust Before Fusion: QIMG-7 and Source-Aware Resolution for Polluted Multimodal RAG](https://arxiv.org/abs/2607.10798v1)** | 2026-07-12 | <details><summary>23 pa...</summary><p>23 pages, 6 figures, 23 tables. Preprint under review</p></details> |
 | **[AeroRAG: Structured Multimodal Retrieval-Augmented LLM for Fine-Grained Aerial Visual Reasoning](https://arxiv.org/abs/2604.17889v2)** | 2026-07-12 |  |
@@ -39,8 +41,6 @@ labels: documentation
 | **[Beyond Text: Aligning Vision and Language for Multimodal E-Commerce Retrieval](https://arxiv.org/abs/2603.04836v2)** | 2026-07-06 |  |
 | **[QSVideo: Query-Conditioned Semantic Temporal Retrieval for Video Understanding](https://arxiv.org/abs/2607.04559v1)** | 2026-07-06 | ECCV 2026 |
 | **[ELVA: Exploring Ranking-Driven Universal Multimodal Retrieval](https://arxiv.org/abs/2606.20280v2)** | 2026-07-04 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026</p></details> |
-| **[Lost at the End: Primacy Bias in Multimodal Retrieval-Augmented Question Answering](https://arxiv.org/abs/2606.16494v3)** | 2026-07-04 | 15 pages, 9 figures |
-| **[Modality Relevance is not Modality Utility: Post-hoc Selective Modality Escalation for Cost-Aware Multimodal RAG](https://arxiv.org/abs/2607.05438v1)** | 2026-07-03 |  |
 
 ## Moment Localization
 | **Title** | **Date** | **Comment** |
