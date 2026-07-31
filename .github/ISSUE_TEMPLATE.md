@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 30, 2026
+title: Latest 15 Papers - July 31, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DualG-MRAG: Decoupling Macro-Reasoning and Micro-Matching for Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2607.28580v1)** | 2026-07-30 | <details><summary>Accep...</summary><p>Accepted to the 34th ACM International Conference on Multimedia (ACM MM 2026). 12 pages</p></details> |
 | **[Evidence Attribution in Visual Document Understanding without Coordinates or Region Labels](https://arxiv.org/abs/2607.24651v1)** | 2026-07-27 |  |
 | **[DeCoRAG: Cognitive Decoupling and Semantic-Aware Cropping for Complex Document Understanding](https://arxiv.org/abs/2607.24554v1)** | 2026-07-27 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, 8 tables</p></details> |
 | **[FinAbstain: Uncertainty-Calibrated Multimodal RAG for Selective Financial Forecasting](https://arxiv.org/abs/2607.24875v1)** | 2026-07-27 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[MG$^2$-RAG: Multi-Granularity Graph for Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2604.04969v2)** | 2026-07-12 |  |
 | **[Multimodal Scenario Similarity Search for Autonomous Driving](https://arxiv.org/abs/2607.09428v1)** | 2026-07-10 |  |
 | **[MMAgent-R$^2$: Learning to Rerank and Reject for Agentic mRAG](https://arxiv.org/abs/2607.07383v1)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026</p></details> |
-| **[Multimodal Video-to-Music Recommendation via Semantic Retrieval and Temporal Reranking](https://arxiv.org/abs/2607.05971v1)** | 2026-07-07 | <details><summary>Accep...</summary><p>Accepted for publication at The Machine Learning for Audio workshop at ICML 2026</p></details> |
 
 ## Moment Localization
 | **Title** | **Date** | **Comment** |
