@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 03, 2026
+title: Latest 15 Papers - August 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[UniCVR: From Alignment to Reranking for Unified Zero-Shot Composed Visual Retrieval](https://arxiv.org/abs/2604.20318v2)** | 2026-08-03 |  |
+| **[PHA-Net: Prototype-based Hierarchical Alignment Network for Text-Video Retrieval](https://arxiv.org/abs/2608.00551v1)** | 2026-08-01 |  |
 | **[Distribution-Alignment Bridge for Uncertainty-Aware Text-to-Video Retrieval](https://arxiv.org/abs/2607.20984v1)** | 2026-07-23 | ECCV 2026 |
 | **[Fusion Embedding: A Unified Embedding Space for Text, Image, Video, and Audio](https://arxiv.org/abs/2607.18666v1)** | 2026-07-21 | <details><summary>23 pa...</summary><p>23 pages, 5 figures. Models: https://huggingface.co/EximiusLabs/fusion-embedding-1-2b-preview and https://huggingface.co/EximiusLabs/fusion-embedding-2-2b-preview. Code: https://github.com/Eximius-Labs/fusion-embedding</p></details> |
 | **[Prompting-MammAlps: Fine-Grained Text-to-Video Retrieval for Camera-Trap Data](https://arxiv.org/abs/2607.09876v1)** | 2026-07-10 | <details><summary>Accep...</summary><p>Accepted at ECCV 2026; Project page: https://cnai.epfl.ch/prompting-mammalps</p></details> |
@@ -20,12 +22,11 @@ labels: documentation
 | **[UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning](https://arxiv.org/abs/2606.20559v1)** | 2026-06-18 |  |
 | **[Vortex: Multi-Modal Fusion System for Intelligent Video Retrieval](https://arxiv.org/abs/2606.19682v1)** | 2026-06-18 | SOICT 2025 |
 | **[DREAM: Extending Vision-Language Models with Dual-Objective Encoding for Cross-Modal Retrieval](https://arxiv.org/abs/2606.19062v1)** | 2026-06-17 |  |
-| **[Reasoning Text-to-Video Retrieval for Operating Room Clips via Action-Driven Digital Twins](https://arxiv.org/abs/2606.17298v1)** | 2026-06-15 |  |
-| **[Findings of the MAGMaR 2026 Shared Task](https://arxiv.org/abs/2606.12295v1)** | 2026-06-10 | <details><summary>Findi...</summary><p>Findings of the 2nd workshop on Multimodal Augmented Generation via Multimodal Retrieval (MAGMaR); Resources at this url: https://github.com/rekriz11/MAGMAR_2026</p></details> |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MRAFnd: Multimodal Retrieval-Augmented Framework for Zero-Shot Fake News Detection](https://arxiv.org/abs/2608.01430v1)** | 2026-08-02 | <details><summary>14 pa...</summary><p>14 pages, 6 figures, 2 tables, Presented at the MMM 2026</p></details> |
 | **[DualG-MRAG: Decoupling Macro-Reasoning and Micro-Matching for Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2607.28580v1)** | 2026-07-30 | <details><summary>Accep...</summary><p>Accepted to the 34th ACM International Conference on Multimedia (ACM MM 2026). 12 pages</p></details> |
 | **[Evidence Attribution in Visual Document Understanding without Coordinates or Region Labels](https://arxiv.org/abs/2607.24651v1)** | 2026-07-27 |  |
 | **[DeCoRAG: Cognitive Decoupling and Semantic-Aware Cropping for Complex Document Understanding](https://arxiv.org/abs/2607.24554v1)** | 2026-07-27 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, 8 tables</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[AeroRAG: Structured Multimodal Retrieval-Augmented LLM for Fine-Grained Aerial Visual Reasoning](https://arxiv.org/abs/2604.17889v2)** | 2026-07-12 |  |
 | **[MG$^2$-RAG: Multi-Granularity Graph for Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2604.04969v2)** | 2026-07-12 |  |
 | **[Multimodal Scenario Similarity Search for Autonomous Driving](https://arxiv.org/abs/2607.09428v1)** | 2026-07-10 |  |
-| **[MMAgent-R$^2$: Learning to Rerank and Reject for Agentic mRAG](https://arxiv.org/abs/2607.07383v1)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026</p></details> |
 
 ## Moment Localization
 | **Title** | **Date** | **Comment** |
