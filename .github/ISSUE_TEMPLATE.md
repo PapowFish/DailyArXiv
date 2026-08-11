@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 10, 2026
+title: Latest 15 Papers - August 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Search over the Visual World: Persistent Visual Memory, Layered Indexes, and Source-Grounded Evidence](https://arxiv.org/abs/2608.08075v1)** | 2026-08-08 | <details><summary>33 pa...</summary><p>33 pages, 5 figures, 17 tables. Technical report. Benchmark configurations and reproduction instructions: https://github.com/video-db/search-over-the-visual-world</p></details> |
+| **[Interpreting Video Representations with Spatio-Temporal Sparse Autoencoders](https://arxiv.org/abs/2604.03919v2)** | 2026-08-07 | <details><summary>9 pag...</summary><p>9 pages, 3 figures. Camera-ready version, ACM Multimedia 2026 (MM '26)</p></details> |
 | **[Reading Between the Frames: Interpreting Implicit and Non-literal Meaning in Social Media Videos](https://arxiv.org/abs/2608.04939v1)** | 2026-08-05 |  |
 | **[UniCVR: From Alignment to Reranking for Unified Zero-Shot Composed Visual Retrieval](https://arxiv.org/abs/2604.20318v2)** | 2026-08-03 |  |
 | **[PHA-Net: Prototype-based Hierarchical Alignment Network for Text-Video Retrieval](https://arxiv.org/abs/2608.00551v1)** | 2026-08-01 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[VideoSearch-R1: Iterative Video Retrieval and Reasoning via Soft Query Refinement](https://arxiv.org/abs/2607.00446v1)** | 2026-07-01 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026</p></details> |
 | **[GUIDE: Resolving Domain Bias in GUI Agents through Real-Time Web Video Retrieval and Plug-and-Play Annotation](https://arxiv.org/abs/2603.26266v3)** | 2026-06-30 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026. 30 pages: 15-page main paper followed by supplementary material as an appendix (Sections A-F). Project page: https://sharryXR.github.io/GUIDE/</p></details> |
 | **[Real-time pedestrian attribute recognition with YOLOv8 and ResNet18](https://arxiv.org/abs/2606.21200v1)** | 2026-06-19 |  |
-| **[UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning](https://arxiv.org/abs/2606.20559v1)** | 2026-06-18 |  |
-| **[Vortex: Multi-Modal Fusion System for Intelligent Video Retrieval](https://arxiv.org/abs/2606.19682v1)** | 2026-06-18 | SOICT 2025 |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
