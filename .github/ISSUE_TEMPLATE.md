@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 24, 2026
+title: Latest 15 Papers - August 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning Sample-wise Rank-aware Interpolation Weights for Composed Visual Data Retrieval](https://arxiv.org/abs/2608.22500v1)** | 2026-08-23 | ECCV 2026 |
 | **[Reason-Then-Retrieve for CoVR-R with Structured Edit Prompts and Dense-Sparse Fusion](https://arxiv.org/abs/2606.02450v3)** | 2026-08-21 |  |
 | **[TraVEL: Trajectory-Guided Video Embedding Learning for Driving-Video Retrieval](https://arxiv.org/abs/2608.13495v1)** | 2026-08-13 |  |
 | **[Search over the Visual World: Persistent Visual Memory, Layered Indexes, and Source-Grounded Evidence](https://arxiv.org/abs/2608.08075v1)** | 2026-08-08 | <details><summary>33 pa...</summary><p>33 pages, 5 figures, 17 tables. Technical report. Benchmark configurations and reproduction instructions: https://github.com/video-db/search-over-the-visual-world</p></details> |
@@ -21,11 +22,14 @@ labels: documentation
 | **[QSVideo: Query-Conditioned Semantic Temporal Retrieval for Video Understanding](https://arxiv.org/abs/2607.04559v1)** | 2026-07-06 | ECCV 2026 |
 | **[TCMA: Text-Conditioned Multi-granularity Alignment for Drone Cross-Modal Text-Video Retrieval](https://arxiv.org/abs/2510.10180v2)** | 2026-07-01 |  |
 | **[AV-JEPA: Extending LeJEPA to Audio-Visual Self-Supervised Learning](https://arxiv.org/abs/2607.15295v1)** | 2026-07-01 |  |
-| **[VideoSearch-R1: Iterative Video Retrieval and Reasoning via Soft Query Refinement](https://arxiv.org/abs/2607.00446v1)** | 2026-07-01 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026</p></details> |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VIBE: Vector Index Benchmark for Embeddings](https://arxiv.org/abs/2505.17810v3)** | 2026-08-23 | <details><summary>Journ...</summary><p>Journal of Data-centric Machine Learning Research (2026)</p></details> |
+| **[Entity-Constrained CBCT Retrieval for Low-Resource Dental Record Completion](https://arxiv.org/abs/2608.21913v1)** | 2026-08-22 | <details><summary>Accep...</summary><p>Accepted at the ODIN 2026 Workshop, MICCAI 2026</p></details> |
+| **[MCite-RL: Towards Reliable Multimodal RAG via Citation-enhanced Agentic Reinforcement Learning](https://arxiv.org/abs/2608.21808v1)** | 2026-08-22 |  |
+| **[LëtzCross: A Cross-Lingual Page-Level Benchmark for Multimodal Retrieval over Luxembourgish Documents](https://arxiv.org/abs/2608.21714v1)** | 2026-08-22 |  |
 | **[ConceptFormer: Learning Adaptive Latent Concepts for Query-Document Alignment in Visual Document Retrieval](https://arxiv.org/abs/2608.15698v2)** | 2026-08-21 |  |
 | **[KoViDoRe: Korean Visual Document Retrieval](https://arxiv.org/abs/2608.20840v1)** | 2026-08-21 |  |
 | **[PhotoBench: Beyond Visual Matching Towards Personalized Intent-Driven Photo Retrieval](https://arxiv.org/abs/2603.01493v2)** | 2026-08-21 | <details><summary>Accep...</summary><p>Accepted by KDD'26 Benchmark track</p></details> |
@@ -36,11 +40,7 @@ labels: documentation
 | **[Hypergraph-based Multimodal Retrieval-Augmented Generation with Incremental Refinement](https://arxiv.org/abs/2608.16628v1)** | 2026-08-17 | <details><summary>Accep...</summary><p>Accepted to the 34th ACM International Conference on Multimedia (ACM MM 2026)</p></details> |
 | **[DSPrompt: Dynamic Soft Prompt Defense Against M-RAG Corruption](https://arxiv.org/abs/2608.16536v1)** | 2026-08-17 |  |
 | **[mR$^2$AG: Multimodal Retrieval-Reflection-Augmented Generation for Knowledge-Based VQA](https://arxiv.org/abs/2411.15041v2)** | 2026-08-17 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Multimedia (TMM)</p></details> |
-| **[FusionBERT: Multi-View Image--3D Retrieval via Cross-Attention Visual Fusion and Normal-Aware 3D Encoder](https://arxiv.org/abs/2604.02583v2)** | 2026-08-16 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 3 tables</p></details> |
-| **[Can Retrievers Find the Same Paper from Different Aspects? A Multi-Aspect Full-Paper Scientific Retrieval Benchmark](https://arxiv.org/abs/2608.15624v1)** | 2026-08-16 |  |
-| **[GraphLoom: Reliability-Calibrated Graph Evidence Routing for Multimodal KG-RAG](https://arxiv.org/abs/2608.15056v1)** | 2026-08-15 |  |
-| **[S2Dialog: Multimodal Dialogue Retrieval with Semantic and Acoustic-Style Modeling](https://arxiv.org/abs/2608.14029v1)** | 2026-08-14 |  |
-| **[Generative Universal Multimodal Retrieval with Dual-role Identifiers](https://arxiv.org/abs/2608.12987v1)** | 2026-08-13 | <details><summary>This ...</summary><p>This paper is under review</p></details> |
+| **[Boosting Knowledge-based Visual Question Answering with Structured Context Reasoning](https://arxiv.org/abs/2608.21431v1)** | 2026-08-17 | <details><summary>Accep...</summary><p>Accepted by ICME 2026. Source code is available at https://github.com/WISLab-GDUT/SCoRe</p></details> |
 
 ## Moment Localization
 | **Title** | **Date** | **Comment** |
