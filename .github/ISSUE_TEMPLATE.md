@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 02, 2026
+title: Latest 15 Papers - September 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MARS: What Retrieval Signals Are Hidden in Multimodal Large Language Models for Text-Video Retrieval?](https://arxiv.org/abs/2609.02565v1)** | 2026-09-02 | <details><summary>16 pa...</summary><p>16 pages, 6 figures. Accepted to the Main Conference of EMNLP 2026</p></details> |
+| **[TAME: Temporal-Aware Mixture-of-Experts for Text-Video Retrieval](https://arxiv.org/abs/2609.02204v1)** | 2026-09-02 | 17 pages, 6 figures |
+| **[Allocate Before You Embed: Adaptive Visual Input Allocation for Video Embeddings](https://arxiv.org/abs/2609.01778v1)** | 2026-09-01 |  |
+| **[MELON: A Large-Scale Dataset for Multi-Event Text-to-Long-Video Retrieval](https://arxiv.org/abs/2609.01654v1)** | 2026-08-31 |  |
 | **[Learning Sample-wise Rank-aware Interpolation Weights for Composed Visual Data Retrieval](https://arxiv.org/abs/2608.22500v1)** | 2026-08-23 | ECCV 2026 |
 | **[Reason-Then-Retrieve for CoVR-R with Structured Edit Prompts and Dense-Sparse Fusion](https://arxiv.org/abs/2606.02450v3)** | 2026-08-21 |  |
 | **[TraVEL: Trajectory-Guided Video Embedding Learning for Driving-Video Retrieval](https://arxiv.org/abs/2608.13495v1)** | 2026-08-13 |  |
@@ -18,10 +22,6 @@ labels: documentation
 | **[Distribution-Alignment Bridge for Uncertainty-Aware Text-to-Video Retrieval](https://arxiv.org/abs/2607.20984v1)** | 2026-07-23 | ECCV 2026 |
 | **[Fusion Embedding: A Unified Embedding Space for Text, Image, Video, and Audio](https://arxiv.org/abs/2607.18666v1)** | 2026-07-21 | <details><summary>23 pa...</summary><p>23 pages, 5 figures. Models: https://huggingface.co/EximiusLabs/fusion-embedding-1-2b-preview and https://huggingface.co/EximiusLabs/fusion-embedding-2-2b-preview. Code: https://github.com/Eximius-Labs/fusion-embedding</p></details> |
 | **[Prompting-MammAlps: Fine-Grained Text-to-Video Retrieval for Camera-Trap Data](https://arxiv.org/abs/2607.09876v1)** | 2026-07-10 | <details><summary>Accep...</summary><p>Accepted at ECCV 2026; Project page: https://cnai.epfl.ch/prompting-mammalps</p></details> |
-| **[VEGAS: Human-Aligned Video Caption Evaluation via Gaze](https://arxiv.org/abs/2607.08489v1)** | 2026-07-09 |  |
-| **[QSVideo: Query-Conditioned Semantic Temporal Retrieval for Video Understanding](https://arxiv.org/abs/2607.04559v1)** | 2026-07-06 | ECCV 2026 |
-| **[TCMA: Text-Conditioned Multi-granularity Alignment for Drone Cross-Modal Text-Video Retrieval](https://arxiv.org/abs/2510.10180v2)** | 2026-07-01 |  |
-| **[AV-JEPA: Extending LeJEPA to Audio-Visual Self-Supervised Learning](https://arxiv.org/abs/2607.15295v1)** | 2026-07-01 |  |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
