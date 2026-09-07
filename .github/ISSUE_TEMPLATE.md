@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 06, 2026
+title: Latest 15 Papers - September 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Intrinsic Temporal Adaptation of CLIP for Partially Relevant Video Retrieval](https://arxiv.org/abs/2609.04800v1)** | 2026-09-04 | EMNLP 2026 paper |
 | **[RoboTok: An Internet-Scale Data Engine for Human Demonstration Retrieval and Dexterous Manipulation Learning](https://arxiv.org/abs/2609.03199v1)** | 2026-09-02 |  |
 | **[MARS: What Retrieval Signals Are Hidden in Multimodal Large Language Models for Text-Video Retrieval?](https://arxiv.org/abs/2609.02565v1)** | 2026-09-02 | <details><summary>16 pa...</summary><p>16 pages, 6 figures. Accepted to the Main Conference of EMNLP 2026</p></details> |
 | **[TAME: Temporal-Aware Mixture-of-Experts for Text-Video Retrieval](https://arxiv.org/abs/2609.02204v1)** | 2026-09-02 | 17 pages, 6 figures |
@@ -21,11 +22,12 @@ labels: documentation
 | **[UniCVR: From Alignment to Reranking for Unified Zero-Shot Composed Visual Retrieval](https://arxiv.org/abs/2604.20318v2)** | 2026-08-03 |  |
 | **[PHA-Net: Prototype-based Hierarchical Alignment Network for Text-Video Retrieval](https://arxiv.org/abs/2608.00551v1)** | 2026-08-01 |  |
 | **[Distribution-Alignment Bridge for Uncertainty-Aware Text-to-Video Retrieval](https://arxiv.org/abs/2607.20984v1)** | 2026-07-23 | ECCV 2026 |
-| **[Fusion Embedding: A Unified Embedding Space for Text, Image, Video, and Audio](https://arxiv.org/abs/2607.18666v1)** | 2026-07-21 | <details><summary>23 pa...</summary><p>23 pages, 5 figures. Models: https://huggingface.co/EximiusLabs/fusion-embedding-1-2b-preview and https://huggingface.co/EximiusLabs/fusion-embedding-2-2b-preview. Code: https://github.com/Eximius-Labs/fusion-embedding</p></details> |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Maintenance Manual Multimodal RAG: Suggesting What Tool](https://arxiv.org/abs/2609.05116v1)** | 2026-09-04 |  |
+| **[CustomDance: Customized 3D Dance Generation with Coarse-to-Fine Human-Centered Interactive Control](https://arxiv.org/abs/2608.06722v3)** | 2026-09-04 | <details><summary>Accep...</summary><p>Accepted to SIGGRAPH Asia 2026</p></details> |
 | **[MULTI3IR: A Benchmark for Multi-perspective Multi-domain Multi-modal Information Retrieval](https://arxiv.org/abs/2608.30949v1)** | 2026-08-31 | <details><summary>EMNLP...</summary><p>EMNLP 2026; code is available at https://github.com/seokwon99/Multi3IR</p></details> |
 | **[MM-BrowseComp: A Comprehensive Benchmark for Multimodal Browsing Agents](https://arxiv.org/abs/2508.13186v2)** | 2026-08-31 | <details><summary>EMNLP...</summary><p>EMNLP 2026. The first two authors contribute equally, 20 pages, repo at https://github.com/MMBrowseComp/MM-BrowseComp</p></details> |
 | **[Can Retrieval Heads See Images? Multimodal Retrieval Heads in Long-Context Vision-Language Models](https://arxiv.org/abs/2605.27243v3)** | 2026-08-30 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026</p></details> |
@@ -39,8 +41,6 @@ labels: documentation
 | **[UMER: Unifying Embedding and Ranking via Pair-Aware Discriminative Reasoning for Universal Multimodal Retrieval](https://arxiv.org/abs/2608.18504v2)** | 2026-08-26 |  |
 | **[AdaptiveEmbed: Sample-Adaptive Multi-Vector Representation for Multimodal Retrieval](https://arxiv.org/abs/2608.25412v1)** | 2026-08-26 |  |
 | **[VIBE: Vector Index Benchmark for Embeddings](https://arxiv.org/abs/2505.17810v3)** | 2026-08-23 | <details><summary>Journ...</summary><p>Journal of Data-centric Machine Learning Research (2026)</p></details> |
-| **[Entity-Constrained CBCT Retrieval for Low-Resource Dental Record Completion](https://arxiv.org/abs/2608.21913v1)** | 2026-08-22 | <details><summary>Accep...</summary><p>Accepted at the ODIN 2026 Workshop, MICCAI 2026</p></details> |
-| **[MCite-RL: Towards Reliable Multimodal RAG via Citation-enhanced Agentic Reinforcement Learning](https://arxiv.org/abs/2608.21808v1)** | 2026-08-22 |  |
 
 ## Moment Localization
 | **Title** | **Date** | **Comment** |
