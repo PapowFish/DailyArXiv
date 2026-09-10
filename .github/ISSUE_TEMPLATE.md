@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 09, 2026
+title: Latest 15 Papers - September 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Similarity: Foundation Models as an Efficient Backbone for Training-Free Composed Video Retrieval](https://arxiv.org/abs/2609.10008v1)** | 2026-09-09 |  |
 | **[Concentrate After Imagination: Text-Conditioned Evidence Grounding for Partially Relevant Video Retrieval](https://arxiv.org/abs/2609.08999v1)** | 2026-09-08 |  |
 | **[Can Agents Win the Video Browser Showdown?](https://arxiv.org/abs/2609.07311v1)** | 2026-09-07 | <details><summary>Submi...</summary><p>Submitted to the International Conference on Multimedia Modeling</p></details> |
 | **[Adapting MLLMs for Nuanced Video Retrieval](https://arxiv.org/abs/2512.13511v4)** | 2026-09-04 | <details><summary>Accep...</summary><p>Accepted at ECCV 2026. Project page at https://www.robots.ox.ac.uk/~vgg/research/tara/</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[TraVEL: Trajectory-Guided Video Embedding Learning for Driving-Video Retrieval](https://arxiv.org/abs/2608.13495v1)** | 2026-08-13 |  |
 | **[Search over the Visual World: Persistent Visual Memory, Layered Indexes, and Source-Grounded Evidence](https://arxiv.org/abs/2608.08075v1)** | 2026-08-08 | <details><summary>33 pa...</summary><p>33 pages, 5 figures, 17 tables. Technical report. Benchmark configurations and reproduction instructions: https://github.com/video-db/search-over-the-visual-world</p></details> |
 | **[Interpreting Video Representations with Spatio-Temporal Sparse Autoencoders](https://arxiv.org/abs/2604.03919v2)** | 2026-08-07 | <details><summary>9 pag...</summary><p>9 pages, 3 figures. Camera-ready version, ACM Multimedia 2026 (MM '26)</p></details> |
-| **[Reading Between the Frames: Interpreting Implicit and Non-literal Meaning in Social Media Videos](https://arxiv.org/abs/2608.04939v1)** | 2026-08-05 |  |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
