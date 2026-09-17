@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 16, 2026
+title: Latest 15 Papers - September 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ShotFinder: Imagination-Driven Open-Domain Video Shot Retrieval via Web Search](https://arxiv.org/abs/2601.23232v4)** | 2026-09-16 | <details><summary>EMNLP...</summary><p>EMNLP 2026 Findings, 30 pages, 9 figures, Project website: https://github.com/yutao1024/ShotFinder</p></details> |
 | **[Multi-modal Knowledge Preserving Adapter for Embedding Backward Compatibility](https://arxiv.org/abs/2609.16875v1)** | 2026-09-15 | <details><summary>15 pa...</summary><p>15 pages, ECCV 2026 camera ready</p></details> |
 | **[Intelligent Semantic Matching (ISM) for Video Tutorial Search using Transformer Models](https://arxiv.org/abs/2609.12921v1)** | 2026-09-11 | <details><summary>13 pa...</summary><p>13 pages, 6 figures, 2 tables. Author accepted manuscript of the MSR 2025 paper</p></details> |
 | **[Beyond Similarity: Foundation Models as an Efficient Backbone for Training-Free Composed Video Retrieval](https://arxiv.org/abs/2609.10008v1)** | 2026-09-09 |  |
@@ -21,11 +22,11 @@ labels: documentation
 | **[MELON: A Large-Scale Dataset for Multi-Event Text-to-Long-Video Retrieval](https://arxiv.org/abs/2609.01654v1)** | 2026-08-31 |  |
 | **[Learning Sample-wise Rank-aware Interpolation Weights for Composed Visual Data Retrieval](https://arxiv.org/abs/2608.22500v1)** | 2026-08-23 | ECCV 2026 |
 | **[Reason-Then-Retrieve for CoVR-R with Structured Edit Prompts and Dense-Sparse Fusion](https://arxiv.org/abs/2606.02450v3)** | 2026-08-21 |  |
-| **[TraVEL: Trajectory-Guided Video Embedding Learning for Driving-Video Retrieval](https://arxiv.org/abs/2608.13495v1)** | 2026-08-13 |  |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Seeing Through the MiRAGE: Evaluating Multimodal Retrieval Augmented Generation](https://arxiv.org/abs/2510.24870v3)** | 2026-09-16 | <details><summary>EMNLP...</summary><p>EMNLP Main, Code here: https://github.com/alexmartin1722/mirage</p></details> |
 | **[RegRet: Enhancing Region-Level Retrieval in Large Multimodal Models](https://arxiv.org/abs/2609.16847v1)** | 2026-09-15 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026. 22 pages, including references and appendix</p></details> |
 | **[Lost at the End: Primacy Bias in Multimodal Retrieval-Augmented Question Answering](https://arxiv.org/abs/2606.16494v4)** | 2026-09-15 | <details><summary>20 pa...</summary><p>20 pages, 8 figures. Accepted to EMNLP 2026 Main Conference; camera-ready version</p></details> |
 | **[Iterative Multimodal Retrieval-Augmented Generation for Medical Question Answering](https://arxiv.org/abs/2604.27724v2)** | 2026-09-14 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[MULTI3IR: A Benchmark for Multi-perspective Multi-domain Multi-modal Information Retrieval](https://arxiv.org/abs/2608.30949v1)** | 2026-08-31 | <details><summary>EMNLP...</summary><p>EMNLP 2026; code is available at https://github.com/seokwon99/Multi3IR</p></details> |
 | **[MM-BrowseComp: A Comprehensive Benchmark for Multimodal Browsing Agents](https://arxiv.org/abs/2508.13186v2)** | 2026-08-31 | <details><summary>EMNLP...</summary><p>EMNLP 2026. The first two authors contribute equally, 20 pages, repo at https://github.com/MMBrowseComp/MM-BrowseComp</p></details> |
 | **[Can Retrieval Heads See Images? Multimodal Retrieval Heads in Long-Context Vision-Language Models](https://arxiv.org/abs/2605.27243v3)** | 2026-08-30 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026</p></details> |
-| **[Evaluating Perspectival Biases in Cross-Modal Retrieval](https://arxiv.org/abs/2510.26861v4)** | 2026-08-30 |  |
 
 ## Moment Localization
 | **Title** | **Date** | **Comment** |
