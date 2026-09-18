@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 17, 2026
+title: Latest 15 Papers - September 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## Moment Localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Grounded Product Understanding in Livestream Videos](https://arxiv.org/abs/2609.20508v1)** | 2026-09-17 |  |
 | **[EgoMemReason: A Memory-Driven Reasoning Benchmark for Long-Horizon Egocentric Video Understanding](https://arxiv.org/abs/2605.09874v2)** | 2026-08-18 | <details><summary>Accep...</summary><p>Accepted by COLM2026. The first two authors contributed equally. Project website: https://egomemreason.github.io/</p></details> |
 | **[GenSpan: Generation-Calibrated Motion Span Priors for Multi-Verb Video Corpus Moment Retrieval](https://arxiv.org/abs/2603.22121v2)** | 2026-06-03 | <details><summary>Major...</summary><p>Major revision with title change, updated method, and additional experiments</p></details> |
 | **[FlowSDR: Sufficient Dimension Reduction via Conditional Normalizing Flows](https://arxiv.org/abs/2606.01346v1)** | 2026-05-31 | 20 pages, 8 tables |
@@ -59,5 +60,4 @@ labels: documentation
 | **[D&M: Enriching E-commerce Videos with Sound Effects by Key Moment Detection and SFX Matching](https://arxiv.org/abs/2408.13226v3)** | 2025-03-20 | <details><summary>Accep...</summary><p>Accepted by AAAI 2025</p></details> |
 | **[Test-Time Adaptation for Combating Missing Modalities in Egocentric Videos](https://arxiv.org/abs/2404.15161v2)** | 2025-03-02 |  |
 | **[VERIFIED: A Video Corpus Moment Retrieval Benchmark for Fine-Grained Video Understanding](https://arxiv.org/abs/2410.08593v1)** | 2024-10-11 | <details><summary>Accep...</summary><p>Accepted by 38th NeurIPS Datasets & Benchmarks Track (NeurIPS 2024)</p></details> |
-| **[Improving Video Corpus Moment Retrieval with Partial Relevance Enhancement](https://arxiv.org/abs/2402.13576v2)** | 2024-04-23 | <details><summary>camer...</summary><p>camera-ready version of ACM ICMR 2024</p></details> |
 
