@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 24, 2026
+title: Latest 15 Papers - September 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,8 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LAYERSCOPE: A Layerwise Characterization of Video and Multimodal Learned Representations](https://arxiv.org/abs/2609.28086v1)** | 2026-09-23 | Preprint |
+| **[SALI: Shot-Aware Late Interaction for Cross-Shot Relation Matching in Text-to-Video Retrieval using Film-Grammar Knowledge](https://arxiv.org/abs/2609.29721v1)** | 2026-09-24 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 4 tables. Submitted to ICASSP 2027</p></details> |
+| **[LAYERSCOPE: A Layerwise Characterization of Video and Multimodal Learned Representations](https://arxiv.org/abs/2609.28086v2)** | 2026-09-24 | <details><summary>Prepr...</summary><p>Preprint, minor corrections</p></details> |
 | **[ShotFinder: Imagination-Driven Open-Domain Video Shot Retrieval via Web Search](https://arxiv.org/abs/2601.23232v4)** | 2026-09-16 | <details><summary>EMNLP...</summary><p>EMNLP 2026 Findings, 30 pages, 9 figures, Project website: https://github.com/yutao1024/ShotFinder</p></details> |
 | **[Multi-modal Knowledge Preserving Adapter for Embedding Backward Compatibility](https://arxiv.org/abs/2609.16875v1)** | 2026-09-15 | <details><summary>15 pa...</summary><p>15 pages, ECCV 2026 camera ready</p></details> |
 | **[Intelligent Semantic Matching (ISM) for Video Tutorial Search using Transformer Models](https://arxiv.org/abs/2609.12921v1)** | 2026-09-11 | <details><summary>13 pa...</summary><p>13 pages, 6 figures, 2 tables. Author accepted manuscript of the MSR 2025 paper</p></details> |
@@ -21,11 +22,11 @@ labels: documentation
 | **[TAME: Temporal-Aware Mixture-of-Experts for Text-Video Retrieval](https://arxiv.org/abs/2609.02204v1)** | 2026-09-02 | 17 pages, 6 figures |
 | **[Allocate Before You Embed: Adaptive Visual Input Allocation for Video Embeddings](https://arxiv.org/abs/2609.01778v1)** | 2026-09-01 |  |
 | **[MELON: A Large-Scale Dataset for Multi-Event Text-to-Long-Video Retrieval](https://arxiv.org/abs/2609.01654v1)** | 2026-08-31 |  |
-| **[Learning Sample-wise Rank-aware Interpolation Weights for Composed Visual Data Retrieval](https://arxiv.org/abs/2608.22500v1)** | 2026-08-23 | ECCV 2026 |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GOMA: Toward Structure-Driven Multimodal Alignment from a Graph Signal Smoothing Perspective](https://arxiv.org/abs/2605.15723v2)** | 2026-09-24 |  |
 | **[MM-BRIGHT: A Multi-Task Multimodal Benchmark for Reasoning-Intensive Retrieval](https://arxiv.org/abs/2601.09562v3)** | 2026-09-23 | <details><summary>v3: F...</summary><p>v3: Fixes a Biology evaluation bug in Table 6 (Task 4). The parser could not read chunked passage IDs, so no positive image matched a gold passage, reducing Biology Task 4 to text-only retrieval. Corrected nDCG@10: BGE-VL 3.2, CLIP 9.2, GME-2B 10.9, GME-7B 5.7, SigLIP 16.0. Task 4 averages change by at most 0.3; rankings and conclusions are unchanged</p></details> |
 | **[Potential for Enhanced Learning in Machine Learning Classes by Using Wiki LLM Indexing](https://arxiv.org/abs/2609.25303v1)** | 2026-09-21 |  |
 | **[Graded-Relevance Composed Multimodal Retrieval for E-commerce Visual Search at Scale](https://arxiv.org/abs/2609.24152v1)** | 2026-09-21 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Retrieved Images as Visual Thought: Training-Free Multimodal In-Context Learning for the Open-vs-Closed Gap](https://arxiv.org/abs/2607.00606v2)** | 2026-09-11 | <details><summary>12 pa...</summary><p>12 pages, 6 figures. Includes appendix. Introduces the MAAC-Bench benchmark</p></details> |
 | **[Beyond Maintenance Manual Multimodal RAG: Suggesting What Tool](https://arxiv.org/abs/2609.05116v1)** | 2026-09-04 |  |
 | **[CustomDance: Customized 3D Dance Generation with Coarse-to-Fine Human-Centered Interactive Control](https://arxiv.org/abs/2608.06722v3)** | 2026-09-04 | <details><summary>Accep...</summary><p>Accepted to SIGGRAPH Asia 2026</p></details> |
-| **[CrossModalQA: A Cross-modal and Multi-hop Benchmark for Multimodal Retrieval-augmented Generation](https://arxiv.org/abs/2609.05518v1)** | 2026-08-31 | 20 pages, 7 figures |
 
 ## Moment Localization
 | **Title** | **Date** | **Comment** |
