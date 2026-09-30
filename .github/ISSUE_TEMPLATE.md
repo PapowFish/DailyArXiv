@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 29, 2026
+title: Latest 15 Papers - September 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CurvSpec: Adaptive Multi-Curvature Learning for Partial Relevant Video Retrieval](https://arxiv.org/abs/2609.36815v1)** | 2026-09-29 | <details><summary>10 pa...</summary><p>10 pages. Accepted to ACM Multimedia 2026 (MM '26)</p></details> |
 | **[Generative Uncertainty as a Self-supervised Signal for Semantic Similarity Learning](https://arxiv.org/abs/2609.35341v1)** | 2026-09-28 |  |
 | **[Advancing Video-Text Pretraining with Multi-View Captions](https://arxiv.org/abs/2609.35090v1)** | 2026-09-28 |  |
 | **[RoboTok: A Scalable Data Engine for Internet Demonstration Video Retrieval and Dexterous Manipulation Learning](https://arxiv.org/abs/2609.03199v2)** | 2026-09-26 | <details><summary>Proje...</summary><p>Project site: https://rice-robotpi-lab.github.io/RoboTok/</p></details> |
@@ -21,11 +22,14 @@ labels: documentation
 | **[Can Agents Win the Video Browser Showdown?](https://arxiv.org/abs/2609.07311v1)** | 2026-09-07 | <details><summary>Submi...</summary><p>Submitted to the International Conference on Multimedia Modeling</p></details> |
 | **[Adapting MLLMs for Nuanced Video Retrieval](https://arxiv.org/abs/2512.13511v4)** | 2026-09-04 | <details><summary>Accep...</summary><p>Accepted at ECCV 2026. Project page at https://www.robots.ox.ac.uk/~vgg/research/tara/</p></details> |
 | **[Intrinsic Temporal Adaptation of CLIP for Partially Relevant Video Retrieval](https://arxiv.org/abs/2609.04800v1)** | 2026-09-04 | EMNLP 2026 paper |
-| **[MARS: What Retrieval Signals Are Hidden in Multimodal Large Language Models for Text-Video Retrieval?](https://arxiv.org/abs/2609.02565v1)** | 2026-09-02 | <details><summary>16 pa...</summary><p>16 pages, 6 figures. Accepted to the Main Conference of EMNLP 2026</p></details> |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[M2Note: Continual Evolution of Vision Language Models via Mistake Notebook Learning](https://arxiv.org/abs/2607.00685v2)** | 2026-09-29 |  |
+| **[LazySloth: Bounded LLM-based Lazy Tree Search for Fast Long Video Comprehension](https://arxiv.org/abs/2609.37426v1)** | 2026-09-29 | <details><summary>Under...</summary><p>Under review at conference. Preprints allowed when under review</p></details> |
+| **[ARK: A Dual-Axis Multimodal Retrieval Benchmark along Reasoning and Knowledge](https://arxiv.org/abs/2602.09839v2)** | 2026-09-29 | 59 pages |
+| **[FusionBERT: Multi-View Image--3D Retrieval via Cross-Attention Visual Fusion and Normal-Aware 3D Encoder](https://arxiv.org/abs/2604.02583v3)** | 2026-09-29 | An immature work |
 | **[QiYao-M: Multimodal Time Series Foundation Model with Role-Aware Modeling of Endogenous and Exogenous Modalities](https://arxiv.org/abs/2609.34842v1)** | 2026-09-28 |  |
 | **[VaME: Exploring Variational Latent Reasoning for Multimodal Embeddings](https://arxiv.org/abs/2609.33402v1)** | 2026-09-27 |  |
 | **[Reason What Matters: Retrieval-Grounded Reasoning for Universal Multimodal Embeddings](https://arxiv.org/abs/2609.15296v2)** | 2026-09-27 |  |
@@ -37,10 +41,6 @@ labels: documentation
 | **[RegRet: Enhancing Region-Level Retrieval in Large Multimodal Models](https://arxiv.org/abs/2609.16847v1)** | 2026-09-15 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026. 22 pages, including references and appendix</p></details> |
 | **[Lost at the End: Primacy Bias in Multimodal Retrieval-Augmented Question Answering](https://arxiv.org/abs/2606.16494v4)** | 2026-09-15 | <details><summary>20 pa...</summary><p>20 pages, 8 figures. Accepted to EMNLP 2026 Main Conference; camera-ready version</p></details> |
 | **[Iterative Multimodal Retrieval-Augmented Generation for Medical Question Answering](https://arxiv.org/abs/2604.27724v2)** | 2026-09-14 |  |
-| **[Query-Conditioned Spherical Centroid Aggregation for Multimodal Retrieval](https://arxiv.org/abs/2609.15335v1)** | 2026-09-14 |  |
-| **[Hypergraph-Regularized Gramian Volumes for Multimodal Retrieval](https://arxiv.org/abs/2609.15320v1)** | 2026-09-14 |  |
-| **[Accurate and Scalable Multimodal Pathology Retrieval via Attentive Vision-Language Alignment](https://arxiv.org/abs/2510.23224v2)** | 2026-09-14 |  |
-| **[V-Retrver: Evidence-Driven Agentic Reasoning for Universal Multimodal Retrieval](https://arxiv.org/abs/2602.06034v4)** | 2026-09-13 | <details><summary>Proje...</summary><p>Project page: https://github.com/chendy25/V-Retrver, Accepted By EMNLP 2026 Main</p></details> |
 
 ## Moment Localization
 | **Title** | **Date** | **Comment** |
