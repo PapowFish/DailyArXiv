@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 30, 2026
+title: Latest 15 Papers - October 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Text-Video Retrieval via Multi-Dimensional Saliency Assessment and Granularity-Aware Query Decomposition](https://arxiv.org/abs/2609.38949v1)** | 2026-09-30 |  |
 | **[CurvSpec: Adaptive Multi-Curvature Learning for Partial Relevant Video Retrieval](https://arxiv.org/abs/2609.36815v1)** | 2026-09-29 | <details><summary>10 pa...</summary><p>10 pages. Accepted to ACM Multimedia 2026 (MM '26)</p></details> |
 | **[Generative Uncertainty as a Self-supervised Signal for Semantic Similarity Learning](https://arxiv.org/abs/2609.35341v1)** | 2026-09-28 |  |
 | **[Advancing Video-Text Pretraining with Multi-View Captions](https://arxiv.org/abs/2609.35090v1)** | 2026-09-28 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Concentrate After Imagination: Text-Conditioned Evidence Grounding for Partially Relevant Video Retrieval](https://arxiv.org/abs/2609.08999v1)** | 2026-09-08 |  |
 | **[Can Agents Win the Video Browser Showdown?](https://arxiv.org/abs/2609.07311v1)** | 2026-09-07 | <details><summary>Submi...</summary><p>Submitted to the International Conference on Multimedia Modeling</p></details> |
 | **[Adapting MLLMs for Nuanced Video Retrieval](https://arxiv.org/abs/2512.13511v4)** | 2026-09-04 | <details><summary>Accep...</summary><p>Accepted at ECCV 2026. Project page at https://www.robots.ox.ac.uk/~vgg/research/tara/</p></details> |
-| **[Intrinsic Temporal Adaptation of CLIP for Partially Relevant Video Retrieval](https://arxiv.org/abs/2609.04800v1)** | 2026-09-04 | EMNLP 2026 paper |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
