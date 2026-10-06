@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 05, 2026
+title: Latest 15 Papers - October 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ReCoVR: Closing the Loop in Interactive Composed Video Retrieval](https://arxiv.org/abs/2605.09836v2)** | 2026-10-05 |  |
 | **[World Embedding Benchmark](https://arxiv.org/abs/2610.03632v1)** | 2026-10-02 |  |
 | **[Concept Driven Domain Adaptation: Finding an Abstract Needle in a Haystack](https://arxiv.org/abs/2610.00973v1)** | 2026-10-01 | 19 pages, 10 figures |
 | **[Text-Video Retrieval via Multi-Dimensional Saliency Assessment and Granularity-Aware Query Decomposition](https://arxiv.org/abs/2609.38949v1)** | 2026-09-30 |  |
@@ -21,11 +22,12 @@ labels: documentation
 | **[Multi-modal Knowledge Preserving Adapter for Embedding Backward Compatibility](https://arxiv.org/abs/2609.16875v1)** | 2026-09-15 | <details><summary>15 pa...</summary><p>15 pages, ECCV 2026 camera ready</p></details> |
 | **[Intelligent Semantic Matching (ISM) for Video Tutorial Search using Transformer Models](https://arxiv.org/abs/2609.12921v1)** | 2026-09-11 | <details><summary>13 pa...</summary><p>13 pages, 6 figures, 2 tables. Author accepted manuscript of the MSR 2025 paper</p></details> |
 | **[Beyond Similarity: Foundation Models as an Efficient Backbone for Training-Free Composed Video Retrieval](https://arxiv.org/abs/2609.10008v1)** | 2026-09-09 |  |
-| **[Concentrate After Imagination: Text-Conditioned Evidence Grounding for Partially Relevant Video Retrieval](https://arxiv.org/abs/2609.08999v1)** | 2026-09-08 |  |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MCA: Modality Composition Awareness for Robust Composed Multimodal Retrieval](https://arxiv.org/abs/2510.15543v2)** | 2026-10-05 | <details><summary>EMNLP...</summary><p>EMNLP 2026 Main Conference</p></details> |
+| **[Multimodal Dual-Encoder Retrieval for Automated ICD Coding](https://arxiv.org/abs/2610.04263v1)** | 2026-10-03 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, 1 table</p></details> |
 | **[CLIMB: Confidence-Guided Complementary Evidence for Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2610.03421v1)** | 2026-10-02 | EMNLP 2026 Findings |
 | **[AMBER: Multi-View Adaptive Budget Allocation for Listwise Vision-Language Reranking](https://arxiv.org/abs/2610.02831v1)** | 2026-10-02 |  |
 | **[Walking the Embedding Space: Datastore Extraction from Multimodal RAG](https://arxiv.org/abs/2610.01871v1)** | 2026-10-01 |  |
@@ -39,8 +41,6 @@ labels: documentation
 | **[Reason What Matters: Retrieval-Grounded Reasoning for Universal Multimodal Embeddings](https://arxiv.org/abs/2609.15296v2)** | 2026-09-27 |  |
 | **[GOMA: Toward Structure-Driven Multimodal Alignment from a Graph Signal Smoothing Perspective](https://arxiv.org/abs/2605.15723v2)** | 2026-09-24 |  |
 | **[MM-BRIGHT: A Multi-Task Multimodal Benchmark for Reasoning-Intensive Retrieval](https://arxiv.org/abs/2601.09562v3)** | 2026-09-23 | <details><summary>v3: F...</summary><p>v3: Fixes a Biology evaluation bug in Table 6 (Task 4). The parser could not read chunked passage IDs, so no positive image matched a gold passage, reducing Biology Task 4 to text-only retrieval. Corrected nDCG@10: BGE-VL 3.2, CLIP 9.2, GME-2B 10.9, GME-7B 5.7, SigLIP 16.0. Task 4 averages change by at most 0.3; rankings and conclusions are unchanged</p></details> |
-| **[Potential for Enhanced Learning in Machine Learning Classes by Using Wiki LLM Indexing](https://arxiv.org/abs/2609.25303v1)** | 2026-09-21 |  |
-| **[Graded-Relevance Composed Multimodal Retrieval for E-commerce Visual Search at Scale](https://arxiv.org/abs/2609.24152v1)** | 2026-09-21 |  |
 
 ## Moment Localization
 | **Title** | **Date** | **Comment** |
