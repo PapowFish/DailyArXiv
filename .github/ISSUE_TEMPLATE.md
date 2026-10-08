@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 07, 2026
+title: Latest 15 Papers - October 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SoccerNet-FoulRet: Retrieving Semantically Similar Soccer Foul Videos](https://arxiv.org/abs/2610.09742v1)** | 2026-10-07 | ACCV 2026 |
 | **[TF-PRVR: Training-Free Partially Relevant Video Retrieval](https://arxiv.org/abs/2610.07925v1)** | 2026-10-06 |  |
 | **[ReCoVR: Closing the Loop in Interactive Composed Video Retrieval](https://arxiv.org/abs/2605.09836v2)** | 2026-10-05 |  |
 | **[World Embedding Benchmark](https://arxiv.org/abs/2610.03632v1)** | 2026-10-02 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[LAYERSCOPE: A Layerwise Characterization of Video and Multimodal Learned Representations](https://arxiv.org/abs/2609.28086v2)** | 2026-09-24 | <details><summary>Prepr...</summary><p>Preprint, minor corrections</p></details> |
 | **[ShotFinder: Imagination-Driven Open-Domain Video Shot Retrieval via Web Search](https://arxiv.org/abs/2601.23232v4)** | 2026-09-16 | <details><summary>EMNLP...</summary><p>EMNLP 2026 Findings, 30 pages, 9 figures, Project website: https://github.com/yutao1024/ShotFinder</p></details> |
 | **[Multi-modal Knowledge Preserving Adapter for Embedding Backward Compatibility](https://arxiv.org/abs/2609.16875v1)** | 2026-09-15 | <details><summary>15 pa...</summary><p>15 pages, ECCV 2026 camera ready</p></details> |
-| **[Intelligent Semantic Matching (ISM) for Video Tutorial Search using Transformer Models](https://arxiv.org/abs/2609.12921v1)** | 2026-09-11 | <details><summary>13 pa...</summary><p>13 pages, 6 figures, 2 tables. Author accepted manuscript of the MSR 2025 paper</p></details> |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
