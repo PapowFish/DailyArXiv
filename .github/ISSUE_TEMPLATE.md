@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 13, 2026
+title: Latest 15 Papers - October 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,10 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SoccerNet-FoulRet: Retrieving Semantically Similar Soccer Foul Videos](https://arxiv.org/abs/2610.09742v1)** | 2026-10-07 | ACCV 2026 |
+| **[SOVABench: A Vehicle Surveillance Action Retrieval Benchmark for Multimodal Large Language Models](https://arxiv.org/abs/2601.04824v3)** | 2026-10-12 |  |
+| **[Reading Between the Frames of Multimodal Drivelology](https://arxiv.org/abs/2608.04939v2)** | 2026-10-11 |  |
+| **[SoccerNet-FoulRet: Retrieving Semantically Similar Soccer Foul Videos](https://arxiv.org/abs/2610.09742v2)** | 2026-10-10 | ACCV 2026 |
+| **[EVISTA: Unified Multimodal Video Search with Evidence-Aware Temporal Path Optimization](https://arxiv.org/abs/2610.14510v1)** | 2026-10-10 | 15 pages, 6 figures |
 | **[TF-PRVR: Training-Free Partially Relevant Video Retrieval](https://arxiv.org/abs/2610.07925v1)** | 2026-10-06 |  |
 | **[ReCoVR: Closing the Loop in Interactive Composed Video Retrieval](https://arxiv.org/abs/2605.09836v2)** | 2026-10-05 |  |
 | **[World Embedding Benchmark](https://arxiv.org/abs/2610.03632v1)** | 2026-10-02 |  |
@@ -19,13 +22,11 @@ labels: documentation
 | **[RoboTok: A Scalable Data Engine for Internet Demonstration Video Retrieval and Dexterous Manipulation Learning](https://arxiv.org/abs/2609.03199v2)** | 2026-09-26 | <details><summary>Proje...</summary><p>Project site: https://rice-robotpi-lab.github.io/RoboTok/</p></details> |
 | **[Driving Video Retrieval for Complex Queries with Structured Grounding](https://arxiv.org/abs/2606.09109v2)** | 2026-09-26 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
 | **[SALI: Shot-Aware Late Interaction for Cross-Shot Relation Matching in Text-to-Video Retrieval using Film-Grammar Knowledge](https://arxiv.org/abs/2609.29721v1)** | 2026-09-24 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 4 tables. Submitted to ICASSP 2027</p></details> |
-| **[LAYERSCOPE: A Layerwise Characterization of Video and Multimodal Learned Representations](https://arxiv.org/abs/2609.28086v2)** | 2026-09-24 | <details><summary>Prepr...</summary><p>Preprint, minor corrections</p></details> |
-| **[ShotFinder: Imagination-Driven Open-Domain Video Shot Retrieval via Web Search](https://arxiv.org/abs/2601.23232v4)** | 2026-09-16 | <details><summary>EMNLP...</summary><p>EMNLP 2026 Findings, 30 pages, 9 figures, Project website: https://github.com/yutao1024/ShotFinder</p></details> |
-| **[Multi-modal Knowledge Preserving Adapter for Embedding Backward Compatibility](https://arxiv.org/abs/2609.16875v1)** | 2026-09-15 | <details><summary>15 pa...</summary><p>15 pages, ECCV 2026 camera ready</p></details> |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PixSearch: Region-Grounded Retrieval for Knowledgeable Large Multimodal Models](https://arxiv.org/abs/2601.19060v2)** | 2026-10-13 | <details><summary>NeurI...</summary><p>NeurIPS 2026 VLM4RWD (Oral)</p></details> |
 | **[VaME: Exploring Variational Latent Reasoning for Multimodal Embeddings](https://arxiv.org/abs/2609.33402v2)** | 2026-10-09 |  |
 | **[Autoregressive Retriever: Improving Query Understanding from Item Feedback for Universal Multimodal Retrieval](https://arxiv.org/abs/2610.11666v1)** | 2026-10-08 | Under Review |
 | **[Personalization Matters: Long-Horizon Conversation Agent with User-Centric Information in Online Shopping Interactions](https://arxiv.org/abs/2610.11375v1)** | 2026-10-08 | <details><summary>accep...</summary><p>accepted by AACL-IJCNLP 2026</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[LazySloth: Bounded LLM-based Lazy Tree Search for Fast Long Video Comprehension](https://arxiv.org/abs/2609.37426v1)** | 2026-09-29 | <details><summary>Under...</summary><p>Under review at conference. Preprints allowed when under review</p></details> |
 | **[ARK: A Dual-Axis Multimodal Retrieval Benchmark along Reasoning and Knowledge](https://arxiv.org/abs/2602.09839v2)** | 2026-09-29 | 59 pages |
 | **[FusionBERT: Multi-View Image--3D Retrieval via Cross-Attention Visual Fusion and Normal-Aware 3D Encoder](https://arxiv.org/abs/2604.02583v3)** | 2026-09-29 | An immature work |
-| **[QiYao-M: Multimodal Time Series Foundation Model with Role-Aware Modeling of Endogenous and Exogenous Modalities](https://arxiv.org/abs/2609.34842v1)** | 2026-09-28 |  |
 
 ## Moment Localization
 | **Title** | **Date** | **Comment** |
