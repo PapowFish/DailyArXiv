@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 14, 2026
+title: Latest 15 Papers - October 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GenState-AI: State-Aware Dataset for Text-to-Video Retrieval on AI-Generated Videos](https://arxiv.org/abs/2603.14426v2)** | 2026-10-14 | <details><summary>Accep...</summary><p>Accepted to Findings of AACL 2026</p></details> |
+| **[FPV-CRASH: A Dataset for Offline Crash Moment Localization in Drone First-Person-View Videos](https://arxiv.org/abs/2610.19785v1)** | 2026-10-14 | 8 pages, 4 figures |
 | **[SOVABench: A Vehicle Surveillance Action Retrieval Benchmark for Multimodal Large Language Models](https://arxiv.org/abs/2601.04824v3)** | 2026-10-12 |  |
 | **[Reading Between the Frames of Multimodal Drivelology](https://arxiv.org/abs/2608.04939v2)** | 2026-10-11 |  |
 | **[SoccerNet-FoulRet: Retrieving Semantically Similar Soccer Foul Videos](https://arxiv.org/abs/2610.09742v2)** | 2026-10-10 | ACCV 2026 |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Generative Uncertainty as a Self-supervised Signal for Semantic Similarity Learning](https://arxiv.org/abs/2609.35341v1)** | 2026-09-28 |  |
 | **[Advancing Video-Text Pretraining with Multi-View Captions](https://arxiv.org/abs/2609.35090v1)** | 2026-09-28 |  |
 | **[RoboTok: A Scalable Data Engine for Internet Demonstration Video Retrieval and Dexterous Manipulation Learning](https://arxiv.org/abs/2609.03199v2)** | 2026-09-26 | <details><summary>Proje...</summary><p>Project site: https://rice-robotpi-lab.github.io/RoboTok/</p></details> |
-| **[Driving Video Retrieval for Complex Queries with Structured Grounding](https://arxiv.org/abs/2606.09109v2)** | 2026-09-26 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
-| **[SALI: Shot-Aware Late Interaction for Cross-Shot Relation Matching in Text-to-Video Retrieval using Film-Grammar Knowledge](https://arxiv.org/abs/2609.29721v1)** | 2026-09-24 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 4 tables. Submitted to ICASSP 2027</p></details> |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,7 @@ labels: documentation
 ## Moment Localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FPV-CRASH: A Dataset for Offline Crash Moment Localization in Drone First-Person-View Videos](https://arxiv.org/abs/2610.19785v1)** | 2026-10-14 | 8 pages, 4 figures |
 | **[Grounded Product Understanding in Livestream Videos](https://arxiv.org/abs/2609.20508v2)** | 2026-09-28 |  |
 | **[EgoMemReason: A Memory-Driven Reasoning Benchmark for Long-Horizon Egocentric Video Understanding](https://arxiv.org/abs/2605.09874v2)** | 2026-08-18 | <details><summary>Accep...</summary><p>Accepted by COLM2026. The first two authors contributed equally. Project website: https://egomemreason.github.io/</p></details> |
 | **[GenSpan: Generation-Calibrated Motion Span Priors for Multi-Verb Video Corpus Moment Retrieval](https://arxiv.org/abs/2603.22121v2)** | 2026-06-03 | <details><summary>Major...</summary><p>Major revision with title change, updated method, and additional experiments</p></details> |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Collaborative Temporal Consistency Learning for Point-supervised Natural Language Video Localization](https://arxiv.org/abs/2503.17651v1)** | 2025-03-22 | Under review |
 | **[D&M: Enriching E-commerce Videos with Sound Effects by Key Moment Detection and SFX Matching](https://arxiv.org/abs/2408.13226v3)** | 2025-03-20 | <details><summary>Accep...</summary><p>Accepted by AAAI 2025</p></details> |
 | **[Test-Time Adaptation for Combating Missing Modalities in Egocentric Videos](https://arxiv.org/abs/2404.15161v2)** | 2025-03-02 |  |
-| **[VERIFIED: A Video Corpus Moment Retrieval Benchmark for Fine-Grained Video Understanding](https://arxiv.org/abs/2410.08593v1)** | 2024-10-11 | <details><summary>Accep...</summary><p>Accepted by 38th NeurIPS Datasets & Benchmarks Track (NeurIPS 2024)</p></details> |
 
