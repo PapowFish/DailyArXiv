@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 25, 2026
+title: Latest 15 Papers - October 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/PapowFish/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Video Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Driving Video Retrieval for Complex Queries with Structured Grounding](https://arxiv.org/abs/2606.09109v3)** | 2026-10-23 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
 | **[GenState-AI: State-Aware Dataset for Text-to-Video Retrieval on AI-Generated Videos](https://arxiv.org/abs/2603.14426v2)** | 2026-10-14 | <details><summary>Accep...</summary><p>Accepted to Findings of AACL 2026</p></details> |
 | **[FPV-CRASH: A Dataset for Offline Crash Moment Localization in Drone First-Person-View Videos](https://arxiv.org/abs/2610.19785v1)** | 2026-10-14 | 8 pages, 4 figures |
 | **[SOVABench: A Vehicle Surveillance Action Retrieval Benchmark for Multimodal Large Language Models](https://arxiv.org/abs/2601.04824v3)** | 2026-10-12 |  |
@@ -21,11 +22,11 @@ labels: documentation
 | **[CurvSpec: Adaptive Multi-Curvature Learning for Partial Relevant Video Retrieval](https://arxiv.org/abs/2609.36815v1)** | 2026-09-29 | <details><summary>10 pa...</summary><p>10 pages. Accepted to ACM Multimedia 2026 (MM '26)</p></details> |
 | **[Generative Uncertainty as a Self-supervised Signal for Semantic Similarity Learning](https://arxiv.org/abs/2609.35341v1)** | 2026-09-28 |  |
 | **[Advancing Video-Text Pretraining with Multi-View Captions](https://arxiv.org/abs/2609.35090v1)** | 2026-09-28 |  |
-| **[RoboTok: A Scalable Data Engine for Internet Demonstration Video Retrieval and Dexterous Manipulation Learning](https://arxiv.org/abs/2609.03199v2)** | 2026-09-26 | <details><summary>Proje...</summary><p>Project site: https://rice-robotpi-lab.github.io/RoboTok/</p></details> |
 
 ## Multimodal Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Closing the Modality Gap via Simplex-Constrained Representations](https://arxiv.org/abs/2610.32890v1)** | 2026-10-23 |  |
 | **[ArtSeek: Deep artwork understanding via multimodal in-context reasoning and late interaction retrieval](https://arxiv.org/abs/2507.21917v3)** | 2026-10-22 | <details><summary>Accep...</summary><p>Accepted at WACV 2027. 28 pages (10 main + 18 supplementary)</p></details> |
 | **[GARRET: Generative Feedback for Region Retrieval in Visual Documents](https://arxiv.org/abs/2610.27829v1)** | 2026-10-20 | <details><summary>28 pa...</summary><p>28 pages, 7 figures, including appendices</p></details> |
 | **[Compute Allocation in Bilinear Contrastive Representation Learning via Scaling Laws](https://arxiv.org/abs/2606.26617v3)** | 2026-10-18 | <details><summary>50 pa...</summary><p>50 pages, 5 figures. OpenReview: https://openreview.net/forum?id=VTTkooh2Mu</p></details> |
@@ -40,11 +41,11 @@ labels: documentation
 | **[VaME: Exploring Variational Latent Reasoning for Multimodal Embeddings](https://arxiv.org/abs/2609.33402v2)** | 2026-10-09 |  |
 | **[Autoregressive Retriever: Improving Query Understanding from Item Feedback for Universal Multimodal Retrieval](https://arxiv.org/abs/2610.11666v1)** | 2026-10-08 | Under Review |
 | **[Personalization Matters: Long-Horizon Conversation Agent with User-Centric Information in Online Shopping Interactions](https://arxiv.org/abs/2610.11375v1)** | 2026-10-08 | <details><summary>accep...</summary><p>accepted by AACL-IJCNLP 2026</p></details> |
-| **[RFChipAgent: Multi-Agentic AI Flow for Analog/RF Chip Design](https://arxiv.org/abs/2610.10858v1)** | 2026-10-07 | <details><summary>6 pag...</summary><p>6 pages, 4 figures. Submitted to ACM/IEEE for possible publication</p></details> |
 
 ## Moment Localization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Organizing Temporal Evidence in Hyperbolic Space for Video Moment Retrieval](https://arxiv.org/abs/2610.32317v1)** | 2026-10-23 |  |
 | **[FPV-CRASH: A Dataset for Offline Crash Moment Localization in Drone First-Person-View Videos](https://arxiv.org/abs/2610.19785v1)** | 2026-10-14 | 8 pages, 4 figures |
 | **[Grounded Product Understanding in Livestream Videos](https://arxiv.org/abs/2609.20508v2)** | 2026-09-28 |  |
 | **[EgoMemReason: A Memory-Driven Reasoning Benchmark for Long-Horizon Egocentric Video Understanding](https://arxiv.org/abs/2605.09874v2)** | 2026-08-18 | <details><summary>Accep...</summary><p>Accepted by COLM2026. The first two authors contributed equally. Project website: https://egomemreason.github.io/</p></details> |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Object-Shot Enhanced Grounding Network for Egocentric Video](https://arxiv.org/abs/2505.04270v1)** | 2025-05-07 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025</p></details> |
 | **[Collaborative Temporal Consistency Learning for Point-supervised Natural Language Video Localization](https://arxiv.org/abs/2503.17651v1)** | 2025-03-22 | Under review |
 | **[D&M: Enriching E-commerce Videos with Sound Effects by Key Moment Detection and SFX Matching](https://arxiv.org/abs/2408.13226v3)** | 2025-03-20 | <details><summary>Accep...</summary><p>Accepted by AAAI 2025</p></details> |
-| **[Test-Time Adaptation for Combating Missing Modalities in Egocentric Videos](https://arxiv.org/abs/2404.15161v2)** | 2025-03-02 |  |
 
